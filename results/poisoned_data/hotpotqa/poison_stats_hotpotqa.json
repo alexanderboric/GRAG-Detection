@@ -1,0 +1,62 @@
+{
+  "dataset": "hotpotqa",
+  "overall": {
+    "num_types": 13,
+    "num_entities": 1147,
+    "total_freq": 35159
+  },
+  "per_type": {
+    "LOC": {
+      "num_entities": 24,
+      "total_freq": 645
+    },
+    "ORG": {
+      "num_entities": 226,
+      "total_freq": 3856
+    },
+    "WORK_OF_ART": {
+      "num_entities": 185,
+      "total_freq": 1332
+    },
+    "GPE": {
+      "num_entities": 92,
+      "total_freq": 7834
+    },
+    "FAC": {
+      "num_entities": 58,
+      "total_freq": 428
+    },
+    "PERSON": {
+      "num_entities": 379,
+      "total_freq": 2894
+    },
+    "NORP": {
+      "num_entities": 18,
+      "total_freq": 5142
+    },
+    "DATE": {
+      "num_entities": 117,
+      "total_freq": 9806
+    },
+    "PRODUCT": {
+      "num_entities": 15,
+      "total_freq": 112
+    },
+    "EVENT": {
+      "num_entities": 26,
+      "total_freq": 526
+    },
+    "ORDINAL": {
+      "num_entities": 2,
+      "total_freq": 2330
+    },
+    "LANGUAGE": {
+      "num_entities": 2,
+      "total_freq": 245
+    },
+    "LAW": {
+      "num_entities": 3,
+      "total_freq": 9
+    }
+  }
+}

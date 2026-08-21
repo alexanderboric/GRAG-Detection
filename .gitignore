@@ -1,0 +1,14 @@
+venv
+.vscode
+__pycache__
+graphrag/output/
+graphrag/cache/
+# graphrag/input/
+app.log
+graphrag/logs/
+lib/
+datasets/*
+!datasets/logicPoison_original_Dataset
+**/.DS_Store
+# attacks/
+.DS_Store

@@ -1,0 +1,1271 @@
+{
+  "detector": "llm_as_a_judge(mistral-small-4,v7)",
+  "threshold": 5,
+  "threshold_edit": 3.0,
+  "optimize_threshold": false,
+  "coverage": {
+    "n_total": 0,
+    "n_fallback": 0,
+    "n_fallback_poisoned": 0,
+    "n_fallback_clean": 0
+  },
+  "coverage_edit": {
+    "n_total": 250,
+    "n_fallback": 0,
+    "n_fallback_poisoned": 0,
+    "n_fallback_clean": 0
+  },
+  "records": [],
+  "records_edit": [
+    {
+      "doc_id": 0,
+      "score": 3.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 1,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 2,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 3,
+      "score": 8.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 4,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 5,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 6,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 7,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 8,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 9,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 10,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 11,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 12,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 13,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 14,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 15,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 16,
+      "score": 6.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 18,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 19,
+      "score": 6.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 20,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 21,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 22,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 23,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 24,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 25,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 26,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 27,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 28,
+      "score": 8.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 29,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 30,
+      "score": 6.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 31,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 32,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 33,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 34,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 35,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 36,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 37,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 38,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 39,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 40,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 41,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 42,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 43,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 44,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 45,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 46,
+      "score": 3.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 47,
+      "score": 6.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 48,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 50,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 51,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 52,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 53,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 54,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 55,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 56,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 57,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 58,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 59,
+      "score": 6.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 60,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 61,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 62,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 63,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 64,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 65,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 66,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 67,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 68,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 69,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 70,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 71,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 72,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 73,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 74,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 75,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 76,
+      "score": 8.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 77,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 78,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 79,
+      "score": 3.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 80,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 81,
+      "score": 3.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 82,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 83,
+      "score": 8.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 84,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 85,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 86,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 87,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 88,
+      "score": 8.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 89,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 90,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 91,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 92,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 93,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 94,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 95,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 96,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 97,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 98,
+      "score": 3.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 99,
+      "score": 3.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 100,
+      "score": 3.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 102,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 103,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 104,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 105,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 106,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 107,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 108,
+      "score": 3.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 109,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 110,
+      "score": 6.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 111,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 112,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 113,
+      "score": 6.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 114,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 115,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 116,
+      "score": 1.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 117,
+      "score": 6.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 118,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 119,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 120,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 121,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 122,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 123,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 124,
+      "score": 8.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 125,
+      "score": 8.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 126,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 128,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 129,
+      "score": 8.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 130,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 131,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 132,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 133,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 134,
+      "score": 1.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 135,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 136,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 137,
+      "score": 8.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 138,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 139,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 140,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 141,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 142,
+      "score": 3.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 143,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 144,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 145,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 146,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 147,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 148,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 149,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 150,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 151,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 152,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 153,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 154,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 155,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 156,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 157,
+      "score": 8.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 158,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 159,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 160,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 161,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 162,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 163,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 164,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 165,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 166,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 167,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 168,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 169,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 170,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 171,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 172,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 173,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 174,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 175,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 176,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 177,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 178,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 179,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 180,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 181,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 182,
+      "score": 8.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 183,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 184,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 185,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 186,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 187,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 188,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 189,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 190,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 191,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 192,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 193,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 194,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 195,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 196,
+      "score": 0.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 197,
+      "score": 3.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 198,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 199,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 200,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 201,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 202,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 203,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 204,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 205,
+      "score": 8.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 206,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 207,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 208,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 209,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 210,
+      "score": 6.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 211,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 212,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 213,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 214,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 215,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 216,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 217,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 218,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 219,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 220,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 221,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 222,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 223,
+      "score": 6.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 224,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 225,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 226,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 227,
+      "score": 6.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 228,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 229,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 230,
+      "score": 4.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 231,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 232,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 233,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 234,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 235,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 236,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 237,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 238,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 239,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 240,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 241,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 243,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 244,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 245,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 246,
+      "score": 7.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 247,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 248,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 249,
+      "score": 1.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 250,
+      "score": 2.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 251,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 252,
+      "score": 5.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 253,
+      "score": 10.0,
+      "poisoned": true
+    },
+    {
+      "doc_id": 254,
+      "score": 6.0,
+      "poisoned": true
+    }
+  ]
+}

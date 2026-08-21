@@ -1,0 +1,50 @@
+{
+  "dataset": "musique",
+  "overall": {
+    "num_types": 10,
+    "num_entities": 909,
+    "total_freq": 35849
+  },
+  "per_type": {
+    "PERSON": {
+      "num_entities": 245,
+      "total_freq": 3238
+    },
+    "WORK_OF_ART": {
+      "num_entities": 153,
+      "total_freq": 912
+    },
+    "NORP": {
+      "num_entities": 24,
+      "total_freq": 5102
+    },
+    "ORG": {
+      "num_entities": 157,
+      "total_freq": 4005
+    },
+    "GPE": {
+      "num_entities": 108,
+      "total_freq": 10916
+    },
+    "DATE": {
+      "num_entities": 110,
+      "total_freq": 9336
+    },
+    "FAC": {
+      "num_entities": 37,
+      "total_freq": 227
+    },
+    "PRODUCT": {
+      "num_entities": 18,
+      "total_freq": 208
+    },
+    "LOC": {
+      "num_entities": 36,
+      "total_freq": 1263
+    },
+    "EVENT": {
+      "num_entities": 21,
+      "total_freq": 642
+    }
+  }
+}

@@ -1,0 +1,118 @@
+
+[prompt variants used per cell]
+  WVC $n$          grag_as_a_judge(mistral-small-4,v0), llm_as_a_judge(mistral-small-4,v0), perplexity(gpt2)
+  WVC dva          grag_as_a_judge(mistral-small-4,v0), llm_as_a_judge(mistral-small-4,v0), perplexity(gpt2)
+  GUF direct       grag_as_a_judge(mistral-small-4,v0), llm_as_a_judge(mistral-small-4,v0), perplexity(gpt2)
+  GUF indirect     grag_as_a_judge(mistral-small-4,v0), llm_as_a_judge(mistral-small-4,v0), perplexity(gpt2)
+  GUF enhanced     grag_as_a_judge(mistral-small-4,v0), llm_as_a_judge(mistral-small-4,v0), perplexity(gpt2)
+  Synth $n$        grag_as_a_judge(mistral-small-4,v1), llm_as_a_judge(mistral-small-4,v1), perplexity(gpt2)
+  Synth dva        grag_as_a_judge(mistral-small-4,v5), llm_as_a_judge(mistral-small-4,v9), perplexity(gpt2)
+  HotpotQA $n$     grag_as_a_judge(mistral-small-4,v5), llm_as_a_judge(mistral-small-4,v0), perplexity(gpt2)
+  HotpotQA dva     grag_as_a_judge(mistral-small-4,v1), llm_as_a_judge(mistral-small-4,v7), perplexity(gpt2)
+  MuSiQue $n$      grag_as_a_judge(mistral-small-4,v5), llm_as_a_judge(mistral-small-4,v0), perplexity(gpt2)
+  MuSiQue dva      grag_as_a_judge(mistral-small-4,v1), llm_as_a_judge(mistral-small-4,v7), perplexity(gpt2)
+
+[provenance]
+  [older run]  wvc: embedding_outlier_insertions.json is 62h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: gnlic_insertions.json is 62h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: grag_as_a_judge(mistral-small-4,v0)_edits.json is 62h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: grag_as_a_judge(mistral-small-4,v0)_insertions.json is 62h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: gtopo2_edits.json is 94h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: gtopo2_insertions.json is 94h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: gtopo_edits.json is 62h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: gtopo_insertions.json is 62h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: llm_as_a_judge(mistral-small-4,v0)_edits.json is 62h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: llm_as_a_judge(mistral-small-4,v0)_insertions.json is 64h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: nli_contradiction_edits.json is 62h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: nli_contradiction_insertions.json is 62h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: perplexity(gpt2)_edits.json is 62h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: perplexity(gpt2)_insertions.json is 64h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: rand1_insertions.json is 64h older than the rest of this group - its row is not from the same run
+  [older run]  wvc: rand_insertions.json is 64h older than the rest of this group - its row is not from the same run
+  [superseded] graphrag_under_fire/direct: ignored grag_as_a_judge(mistral-small-4,v1)_direct.json (2026-08-15 13:01)
+  [superseded] graphrag_under_fire/direct: ignored llm_as_a_judge(mistral-small-4,v2)_direct.json (2026-08-15 13:00)
+  [older run]  graphrag_under_fire/direct: embedding_outlier_direct.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/direct: gnlic_direct.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/direct: grag_as_a_judge(mistral-small-4,v0)_direct.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/direct: gtopo2_direct.json is 67h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/direct: llm_as_a_judge(mistral-small-4,v0)_direct.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/direct: nli_contradiction_direct.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/direct: perplexity(gpt2)_direct.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/direct: rand1_direct.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/direct: rand_direct.json is 24h older than the rest of this group - its row is not from the same run
+  [superseded] graphrag_under_fire/indirect: ignored grag_as_a_judge(mistral-small-4,v1)_indirect.json (2026-08-15 13:11)
+  [superseded] graphrag_under_fire/indirect: ignored llm_as_a_judge(mistral-small-4,v5)_indirect.json (2026-08-15 13:10)
+  [older run]  graphrag_under_fire/indirect: embedding_outlier_indirect.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/indirect: gnlic_indirect.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/indirect: grag_as_a_judge(mistral-small-4,v0)_indirect.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/indirect: gtopo2_indirect.json is 67h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/indirect: llm_as_a_judge(mistral-small-4,v0)_indirect.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/indirect: nli_contradiction_indirect.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/indirect: perplexity(gpt2)_indirect.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/indirect: rand1_indirect.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/indirect: rand_indirect.json is 24h older than the rest of this group - its row is not from the same run
+  [superseded] graphrag_under_fire/enhanced: ignored grag_as_a_judge(mistral-small-4,v1)_enhanced.json (2026-08-15 13:21)
+  [superseded] graphrag_under_fire/enhanced: ignored llm_as_a_judge(mistral-small-4,v5)_enhanced.json (2026-08-15 13:20)
+  [older run]  graphrag_under_fire/enhanced: embedding_outlier_enhanced.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/enhanced: gnlic_enhanced.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/enhanced: grag_as_a_judge(mistral-small-4,v0)_enhanced.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/enhanced: gtopo2_enhanced.json is 67h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/enhanced: llm_as_a_judge(mistral-small-4,v0)_enhanced.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/enhanced: nli_contradiction_enhanced.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/enhanced: perplexity(gpt2)_enhanced.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/enhanced: rand1_enhanced.json is 24h older than the rest of this group - its row is not from the same run
+  [older run]  graphrag_under_fire/enhanced: rand_enhanced.json is 24h older than the rest of this group - its row is not from the same run
+  [superseded] synthetic_dataset: ignored grag_as_a_judge(mistral-small-4,v3)_edits.json (2026-08-18 15:16)
+  [superseded] synthetic_dataset: ignored llm_as_a_judge(mistral-small-4,v4)_insertions.json (2026-08-18 15:16)
+  [superseded] synthetic_dataset: ignored llm_as_a_judge(mistral-small-4,v5)_edits.json (2026-08-18 15:16)
+  [older run]  synthetic_dataset: embedding_outlier_insertions.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: gnlic_insertions.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: grag_as_a_judge(mistral-small-4,v1)_insertions.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: grag_as_a_judge(mistral-small-4,v5)_edits.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: gtopo2_edits.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: gtopo2_insertions.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: gtopo_edits.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: gtopo_insertions.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: llm_as_a_judge(mistral-small-4,v1)_insertions.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: llm_as_a_judge(mistral-small-4,v9)_edits.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: nli_contradiction_edits.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: nli_contradiction_insertions.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: perplexity(gpt2)_edits.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: perplexity(gpt2)_insertions.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: rand1_insertions.json is 15h older than the rest of this group - its row is not from the same run
+  [older run]  synthetic_dataset: rand_insertions.json is 15h older than the rest of this group - its row is not from the same run
+  [superseded] hotpotqa: ignored grag_as_a_judge(mistral-small-4,v11)_dva.json (2026-08-13 00:39)
+  [superseded] hotpotqa: ignored llm_as_a_judge(mistral-small-4,v4)_dva.json (2026-08-13 00:38)
+  [superseded] hotpotqa: ignored llm_as_a_judge(mistral-small-4,v9)_n.json (2026-08-13 00:34)
+  [older run]  hotpotqa: embedding_outlier_n.json is 105h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: gnlic_n.json is 105h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: grag_as_a_judge(mistral-small-4,v1)_dva.json is 105h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: grag_as_a_judge(mistral-small-4,v5)_n.json is 105h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: gtopo2_dva.json is 94h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: gtopo2_n.json is 94h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: gtopo_dva.json is 105h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: gtopo_n.json is 105h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: llm_as_a_judge(mistral-small-4,v0)_n.json is 105h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: llm_as_a_judge(mistral-small-4,v7)_dva.json is 105h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: nli_contradiction_dva.json is 105h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: nli_contradiction_n.json is 105h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: perplexity(gpt2)_dva.json is 105h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: perplexity(gpt2)_n.json is 105h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: rand1_n.json is 105h older than the rest of this group - its row is not from the same run
+  [older run]  hotpotqa: rand_n.json is 105h older than the rest of this group - its row is not from the same run
+  [older run]  musique: embedding_outlier_n.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: gnlic_n.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: grag_as_a_judge(mistral-small-4,v1)_dva.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: grag_as_a_judge(mistral-small-4,v5)_n.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: gtopo2_dva.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: gtopo2_n.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: gtopo_dva.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: gtopo_n.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: llm_as_a_judge(mistral-small-4,v0)_n.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: llm_as_a_judge(mistral-small-4,v7)_dva.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: nli_contradiction_dva.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: nli_contradiction_n.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: perplexity(gpt2)_dva.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: perplexity(gpt2)_n.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: rand1_n.json is 44h older than the rest of this group - its row is not from the same run
+  [older run]  musique: rand_n.json is 44h older than the rest of this group - its row is not from the same run

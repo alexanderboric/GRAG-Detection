@@ -1,0 +1,10 @@
+{"trial": 0, "value": 0.18060000000000004, "params": {"variant": 2}, "best_value_so_far": 0.18060000000000004, "best_params_so_far": {"variant": 2}, "best_threshold_so_far": 0.0, "best_threshold_edit_so_far": 5}
+{"trial": 1, "value": 0.8818, "params": {"variant": 8}, "best_value_so_far": 0.8818, "best_params_so_far": {"variant": 8}, "best_threshold_so_far": 3.0, "best_threshold_edit_so_far": 5}
+{"trial": 2, "value": 0.42940000000000006, "params": {"variant": 4}, "best_value_so_far": 0.8818, "best_params_so_far": {"variant": 8}, "best_threshold_so_far": 3.0, "best_threshold_edit_so_far": 5}
+{"trial": 3, "value": 0.705, "params": {"variant": 9}, "best_value_so_far": 0.8818, "best_params_so_far": {"variant": 8}, "best_threshold_so_far": 3.0, "best_threshold_edit_so_far": 5}
+{"trial": 4, "value": 0.9103999999999999, "params": {"variant": 1}, "best_value_so_far": 0.9103999999999999, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 4.0, "best_threshold_edit_so_far": 5}
+{"trial": 5, "value": 0.16120000000000004, "params": {"variant": 6}, "best_value_so_far": 0.9103999999999999, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 4.0, "best_threshold_edit_so_far": 5}
+{"trial": 6, "value": 0.9006, "params": {"variant": 7}, "best_value_so_far": 0.9103999999999999, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 4.0, "best_threshold_edit_so_far": 5}
+{"trial": 7, "value": 0.8979999999999999, "params": {"variant": 3}, "best_value_so_far": 0.9103999999999999, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 4.0, "best_threshold_edit_so_far": 5}
+{"trial": 8, "value": 0.8967999999999999, "params": {"variant": 0}, "best_value_so_far": 0.9103999999999999, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 4.0, "best_threshold_edit_so_far": 5}
+{"trial": 9, "value": 0.8931999999999999, "params": {"variant": 5}, "best_value_so_far": 0.9103999999999999, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 4.0, "best_threshold_edit_so_far": 5}

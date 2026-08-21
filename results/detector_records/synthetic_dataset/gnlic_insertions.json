@@ -1,0 +1,1281 @@
+{
+  "detector": "gnlic",
+  "threshold": 3.945098796975799e-05,
+  "threshold_edit": 0.5,
+  "optimize_threshold": true,
+  "coverage": {
+    "n_total": 140,
+    "n_fallback": 0,
+    "n_fallback_poisoned": 0,
+    "n_fallback_clean": 0
+  },
+  "coverage_edit": {
+    "n_total": 0,
+    "n_fallback": 0,
+    "n_fallback_poisoned": 0,
+    "n_fallback_clean": 0
+  },
+  "records": [
+    {
+      "doc_id": 0,
+      "score": 2.6069592422572896e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 168.587
+      }
+    },
+    {
+      "doc_id": 1,
+      "score": 5.425052950158715e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 170.397
+      }
+    },
+    {
+      "doc_id": 2,
+      "score": 5.4392865422414616e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 181.383
+      }
+    },
+    {
+      "doc_id": 3,
+      "score": 8.035606151679531e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 172.08
+      }
+    },
+    {
+      "doc_id": 4,
+      "score": 0.0001922393566928804,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 165.781
+      }
+    },
+    {
+      "doc_id": 5,
+      "score": 1.9834713384625502e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 175.813
+      }
+    },
+    {
+      "doc_id": 6,
+      "score": 1.65300807566382e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 183.816
+      }
+    },
+    {
+      "doc_id": 7,
+      "score": 0.0003375356609467417,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 180.262
+      }
+    },
+    {
+      "doc_id": 8,
+      "score": 4.1354851418873295e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 164.639
+      }
+    },
+    {
+      "doc_id": 9,
+      "score": 6.649080023635179e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 182.202
+      }
+    },
+    {
+      "doc_id": 10,
+      "score": 0.00016520573990419507,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 170.204
+      }
+    },
+    {
+      "doc_id": 11,
+      "score": 1.1260392966505606e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 164.859
+      }
+    },
+    {
+      "doc_id": 12,
+      "score": 2.152078195649665e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 180.469
+      }
+    },
+    {
+      "doc_id": 13,
+      "score": 3.945098796975799e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 162.18
+      }
+    },
+    {
+      "doc_id": 14,
+      "score": 2.8956197638763115e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 162.591
+      }
+    },
+    {
+      "doc_id": 15,
+      "score": 3.444828689680435e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 166.221
+      }
+    },
+    {
+      "doc_id": 16,
+      "score": 4.635699951904826e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 167.193
+      }
+    },
+    {
+      "doc_id": 17,
+      "score": 1.6468718968098983e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 162.32
+      }
+    },
+    {
+      "doc_id": 18,
+      "score": 1.900066672533285e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 162.633
+      }
+    },
+    {
+      "doc_id": 19,
+      "score": 1.2193446309538558e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 178.847
+      }
+    },
+    {
+      "doc_id": 20,
+      "score": 3.389722405700013e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 178.807
+      }
+    },
+    {
+      "doc_id": 21,
+      "score": 0.0004248770128469914,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 177.647
+      }
+    },
+    {
+      "doc_id": 22,
+      "score": 1.2386713024170604e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 162.455
+      }
+    },
+    {
+      "doc_id": 23,
+      "score": 4.262251968611963e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 160.735
+      }
+    },
+    {
+      "doc_id": 24,
+      "score": 7.717799599049613e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 167.589
+      }
+    },
+    {
+      "doc_id": 25,
+      "score": 4.3162304791621864e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 163.702
+      }
+    },
+    {
+      "doc_id": 26,
+      "score": 6.814482912886888e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 154.325
+      }
+    },
+    {
+      "doc_id": 27,
+      "score": 3.235342592233792e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 162.865
+      }
+    },
+    {
+      "doc_id": 28,
+      "score": 4.689893467002548e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 167.379
+      }
+    },
+    {
+      "doc_id": 29,
+      "score": 6.314591882983223e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 177.017
+      }
+    },
+    {
+      "doc_id": 30,
+      "score": 4.5807606511516497e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 179.598
+      }
+    },
+    {
+      "doc_id": 31,
+      "score": 0.0001939816866070032,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 177.301
+      }
+    },
+    {
+      "doc_id": 32,
+      "score": 5.1309456466697156e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 158.921
+      }
+    },
+    {
+      "doc_id": 33,
+      "score": 3.729180389200337e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 173.346
+      }
+    },
+    {
+      "doc_id": 34,
+      "score": 4.86403914692346e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 164.501
+      }
+    },
+    {
+      "doc_id": 35,
+      "score": 1.5027509107312653e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 165.411
+      }
+    },
+    {
+      "doc_id": 36,
+      "score": 2.0815623429371044e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 167.398
+      }
+    },
+    {
+      "doc_id": 37,
+      "score": 4.3571333662839606e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 158.621
+      }
+    },
+    {
+      "doc_id": 38,
+      "score": 8.562125913158525e-06,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 166.024
+      }
+    },
+    {
+      "doc_id": 39,
+      "score": 1.2374787729640957e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 162.508
+      }
+    },
+    {
+      "doc_id": 40,
+      "score": 2.3869146389188245e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 167.519
+      }
+    },
+    {
+      "doc_id": 41,
+      "score": 2.0524019419099204e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 164.457
+      }
+    },
+    {
+      "doc_id": 42,
+      "score": 2.2213336706045084e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 162.595
+      }
+    },
+    {
+      "doc_id": 43,
+      "score": 8.83512111613527e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 167.197
+      }
+    },
+    {
+      "doc_id": 44,
+      "score": 2.236904765595682e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 160.678
+      }
+    },
+    {
+      "doc_id": 45,
+      "score": 1.6592508472967893e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 157.256
+      }
+    },
+    {
+      "doc_id": 46,
+      "score": 0.00026145679294131696,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 172.821
+      }
+    },
+    {
+      "doc_id": 47,
+      "score": 4.465727397473529e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 158.455
+      }
+    },
+    {
+      "doc_id": 48,
+      "score": 4.81202696391847e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 166.98
+      }
+    },
+    {
+      "doc_id": 49,
+      "score": 0.00013665670121554285,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 163.167
+      }
+    },
+    {
+      "doc_id": 50,
+      "score": 9.697275345388334e-06,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 166.306
+      }
+    },
+    {
+      "doc_id": 51,
+      "score": 2.438525370962452e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 172.757
+      }
+    },
+    {
+      "doc_id": 52,
+      "score": 1.7031863535521552e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 158.922
+      }
+    },
+    {
+      "doc_id": 53,
+      "score": 2.0064098862349056e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 156.881
+      }
+    },
+    {
+      "doc_id": 54,
+      "score": 1.6709809642634355e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 178.747
+      }
+    },
+    {
+      "doc_id": 55,
+      "score": 1.885873825813178e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 170.589
+      }
+    },
+    {
+      "doc_id": 56,
+      "score": 1.656226049817633e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 163.785
+      }
+    },
+    {
+      "doc_id": 57,
+      "score": 7.265155727509409e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 168.721
+      }
+    },
+    {
+      "doc_id": 58,
+      "score": 1.6302028598147444e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 158.697
+      }
+    },
+    {
+      "doc_id": 59,
+      "score": 1.706881812424399e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 169.418
+      }
+    },
+    {
+      "doc_id": 60,
+      "score": 5.4192521929508075e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 169.485
+      }
+    },
+    {
+      "doc_id": 61,
+      "score": 3.783546344493516e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 164.902
+      }
+    },
+    {
+      "doc_id": 62,
+      "score": 3.413738158997148e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 157.227
+      }
+    },
+    {
+      "doc_id": 63,
+      "score": 2.6355768568464555e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 172.775
+      }
+    },
+    {
+      "doc_id": 64,
+      "score": 3.098786692135036e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 194.317
+      }
+    },
+    {
+      "doc_id": 65,
+      "score": 4.545797855826095e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 196.253
+      }
+    },
+    {
+      "doc_id": 66,
+      "score": 4.2700132325990126e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 213.928
+      }
+    },
+    {
+      "doc_id": 67,
+      "score": 5.871245957678184e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 205.123
+      }
+    },
+    {
+      "doc_id": 68,
+      "score": 7.450969133060426e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 205.854
+      }
+    },
+    {
+      "doc_id": 69,
+      "score": 1.680224886513315e-05,
+      "poisoned": true,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 197.155
+      }
+    },
+    {
+      "doc_id": 96,
+      "score": 2.2904616344021633e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7181.967
+      }
+    },
+    {
+      "doc_id": 308,
+      "score": 1.2376961421978194e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 9859.995
+      }
+    },
+    {
+      "doc_id": 155,
+      "score": 9.201915236189961e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 9476.922
+      }
+    },
+    {
+      "doc_id": 205,
+      "score": 1.960611371032428e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7017.255
+      }
+    },
+    {
+      "doc_id": 325,
+      "score": 1.3542357919504866e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6325.176
+      }
+    },
+    {
+      "doc_id": 266,
+      "score": 4.304005051380955e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 9205.153
+      }
+    },
+    {
+      "doc_id": 60,
+      "score": 2.472888991178479e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7561.712
+      }
+    },
+    {
+      "doc_id": 109,
+      "score": 4.383335544844158e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7871.685
+      }
+    },
+    {
+      "doc_id": 245,
+      "score": 3.1685438443673775e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7281.406
+      }
+    },
+    {
+      "doc_id": 243,
+      "score": 1.5073332178872079e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7121.039
+      }
+    },
+    {
+      "doc_id": 137,
+      "score": 1.5847595932427794e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7471.974
+      }
+    },
+    {
+      "doc_id": 218,
+      "score": 6.633979501202703e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6198.39
+      }
+    },
+    {
+      "doc_id": 108,
+      "score": 2.31035883189179e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7883.385
+      }
+    },
+    {
+      "doc_id": 324,
+      "score": 3.8678863347740844e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7120.061
+      }
+    },
+    {
+      "doc_id": 194,
+      "score": 1.4323091818368994e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 5646.839
+      }
+    },
+    {
+      "doc_id": 314,
+      "score": 2.2169981093611568e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6408.369
+      }
+    },
+    {
+      "doc_id": 63,
+      "score": 3.2305673812516034e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7617.553
+      }
+    },
+    {
+      "doc_id": 95,
+      "score": 9.511457028565928e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6132.993
+      }
+    },
+    {
+      "doc_id": 345,
+      "score": 2.5527540856273845e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 5939.828
+      }
+    },
+    {
+      "doc_id": 254,
+      "score": 1.725491529214196e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6251.315
+      }
+    },
+    {
+      "doc_id": 301,
+      "score": 2.5102190193138085e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7285.073
+      }
+    },
+    {
+      "doc_id": 77,
+      "score": 4.536723281489685e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7474.323
+      }
+    },
+    {
+      "doc_id": 303,
+      "score": 2.7328664145898074e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7382.81
+      }
+    },
+    {
+      "doc_id": 53,
+      "score": 1.3555604709836189e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 8414.227
+      }
+    },
+    {
+      "doc_id": 189,
+      "score": 0.00020322170166764408,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7371.347
+      }
+    },
+    {
+      "doc_id": 29,
+      "score": 2.3362665160675533e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 8157.361
+      }
+    },
+    {
+      "doc_id": 348,
+      "score": 4.6033623220864683e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7316.925
+      }
+    },
+    {
+      "doc_id": 180,
+      "score": 3.514029594953172e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7617.709
+      }
+    },
+    {
+      "doc_id": 102,
+      "score": 2.2372447347152047e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 10493.711
+      }
+    },
+    {
+      "doc_id": 14,
+      "score": 3.173260120092891e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7973.812
+      }
+    },
+    {
+      "doc_id": 120,
+      "score": 5.759323903475888e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 8341.795
+      }
+    },
+    {
+      "doc_id": 239,
+      "score": 1.9217943190596998e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6253.913
+      }
+    },
+    {
+      "doc_id": 226,
+      "score": 3.292141991551034e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6627.859
+      }
+    },
+    {
+      "doc_id": 104,
+      "score": 1.7226344425580464e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 8073.102
+      }
+    },
+    {
+      "doc_id": 105,
+      "score": 1.8110236851498485e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6364.595
+      }
+    },
+    {
+      "doc_id": 315,
+      "score": 2.255533036077395e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7772.859
+      }
+    },
+    {
+      "doc_id": 299,
+      "score": 1.0509988896956202e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7555.443
+      }
+    },
+    {
+      "doc_id": 103,
+      "score": 2.0908946680719964e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7759.402
+      }
+    },
+    {
+      "doc_id": 344,
+      "score": 1.6034191503422335e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7113.812
+      }
+    },
+    {
+      "doc_id": 31,
+      "score": 9.179001062875614e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7189.624
+      }
+    },
+    {
+      "doc_id": 23,
+      "score": 2.497901368769817e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7621.326
+      }
+    },
+    {
+      "doc_id": 271,
+      "score": 2.773235428321641e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7384.169
+      }
+    },
+    {
+      "doc_id": 35,
+      "score": 3.4718697861535475e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6786.841
+      }
+    },
+    {
+      "doc_id": 40,
+      "score": 2.27918953896733e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6313.93
+      }
+    },
+    {
+      "doc_id": 200,
+      "score": 2.2130063371150754e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6206.811
+      }
+    },
+    {
+      "doc_id": 313,
+      "score": 1.761198836902622e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7464.938
+      }
+    },
+    {
+      "doc_id": 331,
+      "score": 5.292935748002492e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7886.609
+      }
+    },
+    {
+      "doc_id": 49,
+      "score": 8.582251030020416e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 8316.957
+      }
+    },
+    {
+      "doc_id": 289,
+      "score": 3.714616468641907e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 8074.36
+      }
+    },
+    {
+      "doc_id": 316,
+      "score": 2.9044171242276207e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 8539.273
+      }
+    },
+    {
+      "doc_id": 282,
+      "score": 5.496696394402534e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 9246.345
+      }
+    },
+    {
+      "doc_id": 56,
+      "score": 3.843635568046011e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6509.258
+      }
+    },
+    {
+      "doc_id": 154,
+      "score": 3.0252589567680843e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6982.467
+      }
+    },
+    {
+      "doc_id": 166,
+      "score": 5.329333362169564e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7460.166
+      }
+    },
+    {
+      "doc_id": 65,
+      "score": 6.466729246312752e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6346.506
+      }
+    },
+    {
+      "doc_id": 259,
+      "score": 1.5131914551602677e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 5687.956
+      }
+    },
+    {
+      "doc_id": 98,
+      "score": 1.4933618331269827e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6902.878
+      }
+    },
+    {
+      "doc_id": 263,
+      "score": 3.355849185027182e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7237.815
+      }
+    },
+    {
+      "doc_id": 283,
+      "score": 8.687527588335797e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 8114.793
+      }
+    },
+    {
+      "doc_id": 97,
+      "score": 1.6579182556597516e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7439.486
+      }
+    },
+    {
+      "doc_id": 101,
+      "score": 5.465446156449616e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7447.68
+      }
+    },
+    {
+      "doc_id": 253,
+      "score": 1.9631313989521004e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6967.95
+      }
+    },
+    {
+      "doc_id": 81,
+      "score": 0.0001606398291187361,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 7680.422
+      }
+    },
+    {
+      "doc_id": 130,
+      "score": 2.8973279768251814e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6327.095
+      }
+    },
+    {
+      "doc_id": 213,
+      "score": 2.0809977286262438e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 8180.056
+      }
+    },
+    {
+      "doc_id": 229,
+      "score": 2.4366423531319015e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 5985.314
+      }
+    },
+    {
+      "doc_id": 22,
+      "score": 2.4134957129717804e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 5525.606
+      }
+    },
+    {
+      "doc_id": 115,
+      "score": 2.2423904738388956e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 4727.073
+      }
+    },
+    {
+      "doc_id": 296,
+      "score": 3.0116621928755194e-05,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 6126.297
+      }
+    },
+    {
+      "doc_id": 338,
+      "score": 0.00011613452807068825,
+      "poisoned": false,
+      "meta": {
+        "fallback": false,
+        "elapsed_ms": 8587.849
+      }
+    }
+  ],
+  "records_edit": []
+}

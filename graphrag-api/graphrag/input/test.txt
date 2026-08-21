@@ -1,0 +1,1 @@
+John is a software engineer who works at Acme Corp. He is friends with Sarah who is a data scientist.

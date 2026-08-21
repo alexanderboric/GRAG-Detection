@@ -1,0 +1,54 @@
+{
+  "dataset": "wvc",
+  "overall": {
+    "num_types": 11,
+    "num_entities": 1374,
+    "total_freq": 58096
+  },
+  "per_type": {
+    "EVENT": {
+      "num_entities": 54,
+      "total_freq": 3224
+    },
+    "DATE": {
+      "num_entities": 167,
+      "total_freq": 14278
+    },
+    "ORG": {
+      "num_entities": 445,
+      "total_freq": 20383
+    },
+    "GPE": {
+      "num_entities": 80,
+      "total_freq": 8103
+    },
+    "NORP": {
+      "num_entities": 9,
+      "total_freq": 2129
+    },
+    "PERSON": {
+      "num_entities": 572,
+      "total_freq": 9033
+    },
+    "FAC": {
+      "num_entities": 23,
+      "total_freq": 649
+    },
+    "MONEY": {
+      "num_entities": 8,
+      "total_freq": 164
+    },
+    "WORK_OF_ART": {
+      "num_entities": 11,
+      "total_freq": 99
+    },
+    "PRODUCT": {
+      "num_entities": 3,
+      "total_freq": 27
+    },
+    "QUANTITY": {
+      "num_entities": 2,
+      "total_freq": 7
+    }
+  }
+}

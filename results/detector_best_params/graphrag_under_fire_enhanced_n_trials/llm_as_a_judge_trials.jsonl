@@ -1,0 +1,10 @@
+{"trial": 0, "value": 0.8168, "params": {"variant": 2}, "best_value_so_far": 0.8168, "best_params_so_far": {"variant": 2}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 1, "value": 0.134, "params": {"variant": 8}, "best_value_so_far": 0.8168, "best_params_so_far": {"variant": 2}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 2, "value": 0.5024, "params": {"variant": 4}, "best_value_so_far": 0.8168, "best_params_so_far": {"variant": 2}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 3, "value": 0.7704, "params": {"variant": 9}, "best_value_so_far": 0.8168, "best_params_so_far": {"variant": 2}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 4, "value": 0.7080000000000001, "params": {"variant": 1}, "best_value_so_far": 0.8168, "best_params_so_far": {"variant": 2}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 5, "value": 0.212, "params": {"variant": 6}, "best_value_so_far": 0.8168, "best_params_so_far": {"variant": 2}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 6, "value": 0.29159999999999997, "params": {"variant": 7}, "best_value_so_far": 0.8168, "best_params_so_far": {"variant": 2}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 7, "value": 0.8048, "params": {"variant": 3}, "best_value_so_far": 0.8168, "best_params_so_far": {"variant": 2}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 8, "value": 0.73, "params": {"variant": 0}, "best_value_so_far": 0.8168, "best_params_so_far": {"variant": 2}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 9, "value": 0.8286, "params": {"variant": 5}, "best_value_so_far": 0.8286, "best_params_so_far": {"variant": 5}, "best_threshold_so_far": 0.25, "best_threshold_edit_so_far": 5}

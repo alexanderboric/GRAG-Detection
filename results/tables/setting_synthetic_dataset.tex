@@ -1,0 +1,30 @@
+\begin{table}[t]
+  \centering
+  \scriptsize
+  \setlength{\tabcolsep}{2.5pt}
+  \begin{tabular}{lrrrrrrrrrrrr}
+    \toprule
+    & \multicolumn{6}{c}{n mode} & \multicolumn{6}{c}{dva mode} \\
+    \cmidrule(lr){2-7} \cmidrule(lr){8-13}
+    \textbf{Detector} & \multicolumn{1}{c}{AUC} & \multicolumn{1}{c}{Recall} & \multicolumn{1}{c}{Precision} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c}{Informedness} & \multicolumn{1}{c}{MCC} & \multicolumn{1}{c}{AUC} & \multicolumn{1}{c}{Recall} & \multicolumn{1}{c}{Precision} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c}{Informedness} & \multicolumn{1}{c}{MCC} \\
+    \midrule
+    \multicolumn{13}{l}{\textit{document-level}} \\
+    Rand & 0.474 & 0.086 & 0.600 & 0.150 & 0.029 & 0.055 & -- & -- & -- & -- & -- & -- \\
+    Rand1 & 0.448 & 0.829 & 0.504 & 0.627 & 0.014 & 0.019 & -- & -- & -- & -- & -- & -- \\
+    Perp & 0.586 & 0.786 & 0.591 & 0.675 & 0.243 & 0.257 & 0.649 & 0.500 & 0.854 & 0.631 & 0.414 & 0.455 \\
+    LLMaaJ & 0.720 & 0.314 & 0.786 & 0.449 & 0.229 & 0.286 & \textbf{1.000} & 0.943 & 1.000 & \textbf{0.971} & \textbf{0.943} & \textbf{0.944} \\
+    \addlinespace
+    \multicolumn{13}{l}{\textit{embedding-aware}} \\
+    EmbO & \textbf{0.872} & \textbf{0.986} & \textbf{0.793} & \textbf{0.879} & \textbf{0.729} & \textbf{0.751} & 0.945 & 0.886 & 0.873 & 0.879 & 0.757 & 0.757 \\
+    NLIC & 0.546 & 0.457 & 0.571 & 0.508 & 0.114 & 0.117 & 0.903 & \textbf{0.943} & 0.795 & 0.863 & 0.700 & 0.712 \\
+    \addlinespace
+    \multicolumn{13}{l}{\textit{grag-aware}} \\
+    GNLIC & 0.554 & 0.457 & 0.627 & 0.529 & 0.186 & 0.193 & -- & -- & -- & -- & -- & -- \\
+    GRAGaaJ & 0.687 & 0.429 & 0.789 & 0.556 & 0.314 & 0.353 & 0.962 & 0.657 & 1.000 & 0.793 & 0.657 & 0.700 \\
+    GTopo & 0.767 & 0.629 & 0.772 & 0.693 & 0.443 & 0.451 & 0.726 & 0.071 & \textbf{1.000} & 0.133 & 0.071 & 0.192 \\
+    GTopo2 & 0.813 & 0.800 & 0.757 & 0.778 & 0.543 & 0.544 & 0.685 & 0.857 & 0.706 & 0.774 & 0.500 & 0.512 \\
+    \bottomrule
+  \end{tabular}
+  \caption{All detectors on the synthetic_dataset setting, grouped by awareness category. Best value per column in bold; chance baselines excluded from the comparison. Threshold-dependent metrics use the threshold tuned on the training split.}
+  \label{tab:setting-synthetic-dataset}
+\end{table}

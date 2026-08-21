@@ -1,0 +1,31 @@
+\begin{table}[t]
+  \centering
+  \scriptsize
+  \setlength{\tabcolsep}{2.5pt}
+  \begin{tabular}{lrrrrrrrrrrr}
+    \toprule
+    & \multicolumn{7}{c}{\textbf{AUC (poisoned vs.\ clean)}} & \multicolumn{4}{c}{\textbf{Recall (positive-only)}}  \\
+    \cmidrule(lr){2-8} \cmidrule(lr){9-12}
+    \textbf{Detector} & \multicolumn{1}{c}{\shortstack{WVC\\$n$}} & \multicolumn{1}{c}{\shortstack{WVC\\dva}} & \multicolumn{1}{c}{\shortstack{GUF\\direct}} & \multicolumn{1}{c}{\shortstack{GUF\\indirect}} & \multicolumn{1}{c}{\shortstack{GUF\\enhanced}} & \multicolumn{1}{c}{\shortstack{Synth\\$n$}} & \multicolumn{1}{c}{\shortstack{Synth\\dva}} & \multicolumn{1}{c}{\shortstack{HotpotQA\\$n$}} & \multicolumn{1}{c}{\shortstack{HotpotQA\\dva}} & \multicolumn{1}{c}{\shortstack{MuSiQue\\$n$}} & \multicolumn{1}{c}{\shortstack{MuSiQue\\dva}} \\
+    \midrule
+    \multicolumn{12}{l}{\textit{document-level}} \\
+    Rand & 0.495 & -- & 0.500 & 0.500 & 0.500 & 0.474 & -- & 0.464 & -- & 0.448 & -- \\
+    Rand1 & 0.507 & -- & 0.500 & 0.500 & 0.500 & 0.448 & -- & 0.488 & -- & 0.500 & -- \\
+    Perp & 0.926 & 0.967 & 0.588 & 0.692 & 0.811 & 0.586 & 0.649 & 0.436 & \textbf{0.924} & 0.524 & 0.900 \\
+    LLMaaJ & \textbf{0.993} & \textbf{1.000} & 0.928 & 0.674 & 0.757 & 0.720 & \textbf{1.000} & 0.464 & 0.864 & 0.464 & 0.796 \\
+    \addlinespace
+    \multicolumn{12}{l}{\textit{embedding-aware}} \\
+    EmbO & 0.581 & 0.993 & \textbf{0.970} & \textbf{0.963} & \textbf{0.891} & \textbf{0.872} & 0.945 & \textbf{0.716} & 0.692 & 0.000 & 0.640 \\
+    NLIC & 0.479 & 0.923 & 0.592 & 0.826 & 0.740 & 0.546 & 0.903 & 0.320 & 0.856 & \textbf{0.860} & \textbf{0.904} \\
+    \addlinespace
+    \multicolumn{12}{l}{\textit{grag-aware}} \\
+    GNLIC & 0.590 & -- & 0.496 & 0.428 & 0.392 & 0.554 & -- & 0.372 & -- & 0.488 & -- \\
+    GRAGaaJ & 0.990 & 0.911 & 0.696 & 0.805 & 0.846 & 0.687 & 0.962 & 0.644 & 0.760 & 0.600 & 0.720 \\
+    GTopo & 0.417 & 0.371 & 0.594 & 0.623 & 0.595 & 0.767 & 0.726 & 0.588 & 0.000 & 0.716 & 0.044 \\
+    GTopo2 & 0.401 & 0.602 & 0.682 & 0.700 & 0.679 & 0.813 & 0.685 & 0.668 & 0.840 & 0.708 & 0.824 \\
+    \bottomrule
+  \end{tabular}
+  \par\medskip\footnotesize AUC standard error is $\approx 0.04$ at $n=100+100$ and $\approx 0.05$ at $n=60+60$ (Hanley \& McNeil); differences below $\approx 0.10$ are not meaningful.
+  \caption{Detector performance by awareness category. Best value per column in bold; the two chance baselines are excluded from the comparison. AUC is reported where both a poisoned and a clean class exist; the LogicPoison legs (HotpotQA, MuSiQue) contain poisoned documents only and are therefore reported as recall at the tuned threshold. $n$ = insertion mode, dva = document-vs-answer (edit) mode.}
+  \label{tab:detector-categories}
+\end{table}

@@ -1,0 +1,12 @@
+{"trial": 0, "value": 0.3434, "params": {"level": 2, "q": 0.9}, "best_value_so_far": 0.3434, "best_params_so_far": {"level": 2, "q": 0.9}, "best_threshold_so_far": 1.0, "best_threshold_edit_so_far": 0.95}
+{"trial": 1, "value": 0.3434, "params": {"level": 3, "q": 1.0}, "best_value_so_far": 0.3434, "best_params_so_far": {"level": 2, "q": 0.9}, "best_threshold_so_far": 1.0, "best_threshold_edit_so_far": 0.95}
+{"trial": 2, "value": 0.3418, "params": {"level": 2, "q": 0.7}, "best_value_so_far": 0.3434, "best_params_so_far": {"level": 2, "q": 0.9}, "best_threshold_so_far": 1.0, "best_threshold_edit_so_far": 0.95}
+{"trial": 3, "value": 0.3434, "params": {"level": 3, "q": 0.9}, "best_value_so_far": 0.3434, "best_params_so_far": {"level": 2, "q": 0.9}, "best_threshold_so_far": 1.0, "best_threshold_edit_so_far": 0.95}
+{"trial": 4, "value": 0.3418, "params": {"level": 1, "q": 0.9}, "best_value_so_far": 0.3434, "best_params_so_far": {"level": 2, "q": 0.9}, "best_threshold_so_far": 1.0, "best_threshold_edit_so_far": 0.95}
+{"trial": 5, "value": 0.3418, "params": {"level": 3, "q": 0.7}, "best_value_so_far": 0.3434, "best_params_so_far": {"level": 2, "q": 0.9}, "best_threshold_so_far": 1.0, "best_threshold_edit_so_far": 0.95}
+{"trial": 6, "value": 0.34099999999999997, "params": {"level": 1, "q": 0.8}, "best_value_so_far": 0.3434, "best_params_so_far": {"level": 2, "q": 0.9}, "best_threshold_so_far": 1.0, "best_threshold_edit_so_far": 0.95}
+{"trial": 7, "value": 0.3434, "params": {"level": 2, "q": 1.0}, "best_value_so_far": 0.3434, "best_params_so_far": {"level": 2, "q": 0.9}, "best_threshold_so_far": 1.0, "best_threshold_edit_so_far": 0.95}
+{"trial": 8, "value": 0.34259999999999996, "params": {"level": 3, "q": 0.8}, "best_value_so_far": 0.3434, "best_params_so_far": {"level": 2, "q": 0.9}, "best_threshold_so_far": 1.0, "best_threshold_edit_so_far": 0.95}
+{"trial": 9, "value": 0.34180000000000005, "params": {"level": 1, "q": 1.0}, "best_value_so_far": 0.3434, "best_params_so_far": {"level": 2, "q": 0.9}, "best_threshold_so_far": 1.0, "best_threshold_edit_so_far": 0.95}
+{"trial": 10, "value": 0.3402, "params": {"level": 1, "q": 0.7}, "best_value_so_far": 0.3434, "best_params_so_far": {"level": 2, "q": 0.9}, "best_threshold_so_far": 1.0, "best_threshold_edit_so_far": 0.95}
+{"trial": 11, "value": 0.34259999999999996, "params": {"level": 2, "q": 0.8}, "best_value_so_far": 0.3434, "best_params_so_far": {"level": 2, "q": 0.9}, "best_threshold_so_far": 1.0, "best_threshold_edit_so_far": 0.95}

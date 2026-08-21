@@ -1,0 +1,25 @@
+tqdm # progress bar
+graphrag
+pyvis # vizualization of graphs
+transformers
+mwparserfromhell
+sentence-transformers # NLI contradiction scoring
+lancedb # embedding nearest-neighbour lookups
+seaborn # plotting
+scikit-learn # ROC AUC / optimal threshold search for detector.py
+optuna # hyperparameter search for detector parameters (scripts/optimize.py)
+fastapi # local_embedding_server.py - OpenAI-compatible embedding endpoint on your own GPU
+uvicorn # ASGI server for local_embedding_server.py
+pandas
+PyYAML
+python-dotenv # provides `dotenv` - the plain "dotenv" PyPI package is a different, unrelated stub
+matplotlib # scripts/charts.py
+networkx # graphrag_manager.py's load_graph(), connectors.py's GraphConnector
+numpy
+openai # completions client (detector.py judges) and embeddings client (connectors.py)
+pyarrow # reading GraphRAG's parquet output (connectors.py, gtopo's community/entity tables)
+pydantic # local_embedding_server.py's request/response models
+requests # scripts/wvc.py
+torch # local_embedding_server.py, transformers/sentence-transformers backend
+spacy>=3.7.0,<4.0.0 # attacks/logicPoison's global_poison.py - also needs the en_core_web_trf
+                     # pipeline itself: python -m spacy download en_core_web_trf

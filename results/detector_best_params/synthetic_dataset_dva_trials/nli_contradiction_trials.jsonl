@@ -1,0 +1,1 @@
+{"trial": 0, "value": 0.8288888888888889, "params": {"k_neighbors": 10}, "best_value_so_far": 0.8288888888888889, "best_params_so_far": {"k_neighbors": 10}, "best_threshold_so_far": 0.5, "best_threshold_edit_so_far": 0.0006068454240448773}

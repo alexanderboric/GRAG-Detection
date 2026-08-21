@@ -1,0 +1,9 @@
+{
+  "dataset": "graphrag",
+  "overall": {
+    "num_types": 0,
+    "num_entities": 0,
+    "total_freq": 0
+  },
+  "per_type": {}
+}

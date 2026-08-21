@@ -1,0 +1,58 @@
+{
+  "gtopo": {},
+  "gtopo2": {
+    "params": {
+      "level": 1,
+      "q": 1.0
+    },
+    "threshold": 0.9347826086956522,
+    "threshold_edit": 0.95,
+    "auc": 0.38680000000000003,
+    "fallback_rate": 0.33
+  },
+  "llm_as_a_judge": {
+    "params": {
+      "variant": 5
+    },
+    "threshold": 0.25,
+    "threshold_edit": 5,
+    "auc": 0.8286,
+    "fallback_rate": 0.0
+  },
+  "nli_contradiction": {
+    "params": {
+      "k_neighbors": 1
+    },
+    "threshold": 0.0010447526583448052,
+    "threshold_edit": 0.03,
+    "auc": 0.9868,
+    "fallback_rate": 0.0
+  },
+  "gnlic": {
+    "params": {
+      "alpha": 0.0
+    },
+    "threshold": 0.00018565778736956418,
+    "threshold_edit": 0.5,
+    "auc": 0.8352,
+    "fallback_rate": 0.0
+  },
+  "grag_as_a_judge": {
+    "params": {
+      "variant": 1
+    },
+    "threshold": 4.0,
+    "threshold_edit": 5,
+    "auc": 0.9016,
+    "fallback_rate": 0.0
+  },
+  "embedding_outlier": {
+    "params": {
+      "k": 1
+    },
+    "threshold": 0.7771604417973108,
+    "threshold_edit": 1.74,
+    "auc": 1.0,
+    "fallback_rate": 0.0
+  }
+}

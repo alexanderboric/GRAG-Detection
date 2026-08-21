@@ -1,0 +1,30 @@
+\begin{table}[t]
+  \centering
+  \scriptsize
+  \setlength{\tabcolsep}{2.5pt}
+  \begin{tabular}{lrrrrrrrrrr}
+    \toprule
+    & \multicolumn{5}{c}{n mode} & \multicolumn{5}{c}{dva mode} \\
+    \cmidrule(lr){2-6} \cmidrule(lr){7-11}
+    \textbf{Detector} & \multicolumn{1}{c}{Recall} & \multicolumn{1}{c}{Precision} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c}{Informedness} & \multicolumn{1}{c}{MCC} & \multicolumn{1}{c}{Recall} & \multicolumn{1}{c}{Precision} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c}{Informedness} & \multicolumn{1}{c}{MCC} \\
+    \midrule
+    \multicolumn{11}{l}{\textit{document-level}} \\
+    Rand & 0.448 & 1.000 & 0.619 & -0.552 & 0.000 & -- & -- & -- & -- & -- \\
+    Rand1 & 0.500 & 1.000 & 0.667 & -0.500 & 0.000 & -- & -- & -- & -- & -- \\
+    Perp & 0.524 & 1.000 & 0.688 & -0.476 & 0.000 & 0.900 & 1.000 & 0.947 & -0.100 & 0.000 \\
+    LLMaaJ & 0.464 & 1.000 & 0.634 & -0.536 & 0.000 & 0.796 & 1.000 & 0.886 & -0.204 & 0.000 \\
+    \addlinespace
+    \multicolumn{11}{l}{\textit{embedding-aware}} \\
+    EmbO & 0.000 & 0.000 & 0.000 & -1.000 & 0.000 & 0.640 & 1.000 & 0.780 & -0.360 & 0.000 \\
+    NLIC & \textbf{0.860} & 1.000 & \textbf{0.925} & \textbf{-0.140} & 0.000 & \textbf{0.904} & 1.000 & \textbf{0.950} & \textbf{-0.096} & 0.000 \\
+    \addlinespace
+    \multicolumn{11}{l}{\textit{grag-aware}} \\
+    GNLIC & 0.488 & 1.000 & 0.656 & -0.512 & 0.000 & -- & -- & -- & -- & -- \\
+    GRAGaaJ & 0.600 & 1.000 & 0.750 & -0.400 & 0.000 & 0.720 & 1.000 & 0.837 & -0.280 & 0.000 \\
+    GTopo & 0.716 & 1.000 & 0.834 & -0.284 & 0.000 & 0.044 & 1.000 & 0.084 & -0.956 & 0.000 \\
+    GTopo2 & 0.708 & \textbf{1.000} & 0.829 & -0.292 & \textbf{0.000} & 0.824 & \textbf{1.000} & 0.904 & -0.176 & \textbf{0.000} \\
+    \bottomrule
+  \end{tabular}
+  \caption{All detectors on the musique setting, grouped by awareness category. Best value per column in bold; chance baselines excluded from the comparison. Threshold-dependent metrics use the threshold tuned on the training split.}
+  \label{tab:setting-musique}
+\end{table}

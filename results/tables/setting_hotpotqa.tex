@@ -1,0 +1,30 @@
+\begin{table}[t]
+  \centering
+  \scriptsize
+  \setlength{\tabcolsep}{2.5pt}
+  \begin{tabular}{lrrrrrrrrrr}
+    \toprule
+    & \multicolumn{5}{c}{n mode} & \multicolumn{5}{c}{dva mode} \\
+    \cmidrule(lr){2-6} \cmidrule(lr){7-11}
+    \textbf{Detector} & \multicolumn{1}{c}{Recall} & \multicolumn{1}{c}{Precision} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c}{Informedness} & \multicolumn{1}{c}{MCC} & \multicolumn{1}{c}{Recall} & \multicolumn{1}{c}{Precision} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c}{Informedness} & \multicolumn{1}{c}{MCC} \\
+    \midrule
+    \multicolumn{11}{l}{\textit{document-level}} \\
+    Rand & 0.464 & 1.000 & 0.634 & -0.536 & 0.000 & -- & -- & -- & -- & -- \\
+    Rand1 & 0.488 & 1.000 & 0.656 & -0.512 & 0.000 & -- & -- & -- & -- & -- \\
+    Perp & 0.436 & 1.000 & 0.607 & -0.564 & 0.000 & \textbf{0.924} & 1.000 & \textbf{0.960} & \textbf{-0.076} & 0.000 \\
+    LLMaaJ & 0.464 & 1.000 & 0.634 & -0.536 & 0.000 & 0.864 & 1.000 & 0.927 & -0.136 & 0.000 \\
+    \addlinespace
+    \multicolumn{11}{l}{\textit{embedding-aware}} \\
+    EmbO & \textbf{0.716} & 1.000 & \textbf{0.834} & \textbf{-0.284} & 0.000 & 0.692 & 1.000 & 0.818 & -0.308 & 0.000 \\
+    NLIC & 0.320 & 1.000 & 0.485 & -0.680 & 0.000 & 0.856 & 1.000 & 0.922 & -0.144 & 0.000 \\
+    \addlinespace
+    \multicolumn{11}{l}{\textit{grag-aware}} \\
+    GNLIC & 0.372 & 1.000 & 0.542 & -0.628 & 0.000 & -- & -- & -- & -- & -- \\
+    GRAGaaJ & 0.644 & 1.000 & 0.783 & -0.356 & 0.000 & 0.760 & 1.000 & 0.864 & -0.240 & 0.000 \\
+    GTopo & 0.588 & 1.000 & 0.741 & -0.412 & 0.000 & 0.000 & 0.000 & 0.000 & -1.000 & 0.000 \\
+    GTopo2 & 0.668 & \textbf{1.000} & 0.801 & -0.332 & \textbf{0.000} & 0.840 & \textbf{1.000} & 0.913 & -0.160 & \textbf{0.000} \\
+    \bottomrule
+  \end{tabular}
+  \caption{All detectors on the hotpotqa setting, grouped by awareness category. Best value per column in bold; chance baselines excluded from the comparison. Threshold-dependent metrics use the threshold tuned on the training split.}
+  \label{tab:setting-hotpotqa}
+\end{table}

@@ -1,0 +1,4361 @@
+{
+  "detector": "gtopo2",
+  "threshold": 0.6,
+  "threshold_edit": 0.95,
+  "optimize_threshold": true,
+  "coverage": {
+    "n_total": 140,
+    "n_fallback": 0,
+    "n_fallback_poisoned": 0,
+    "n_fallback_clean": 0
+  },
+  "coverage_edit": {
+    "n_total": 0,
+    "n_fallback": 0,
+    "n_fallback_poisoned": 0,
+    "n_fallback_clean": 0
+  },
+  "records": [
+    {
+      "doc_id": 0,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 8,
+        "n_context": 8,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 847,
+        "n_entities": 8,
+        "egonet": {
+          "n_nodes": 8.0,
+          "n_edges": 2.0,
+          "isolated_frac": 0.625,
+          "component_frac": 0.75,
+          "lcc_frac": 0.375
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.0892,
+          "cohesion": -1.3531
+        },
+        "fallback": false,
+        "elapsed_ms": 7.743
+      }
+    },
+    {
+      "doc_id": 1,
+      "score": 0.8333333333333334,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 14,
+        "n_context": 14,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 994,
+        "n_entities": 14,
+        "egonet": {
+          "n_nodes": 14.0,
+          "n_edges": 30.0,
+          "isolated_frac": 0.21428571428571427,
+          "component_frac": 0.2857142857142857,
+          "lcc_frac": 0.7857142857142857
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.0136,
+          "cohesion": 0.3224
+        },
+        "fallback": false,
+        "elapsed_ms": 23.335
+      }
+    },
+    {
+      "doc_id": 2,
+      "score": 0.6333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 15,
+        "n_context": 15,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 985,
+        "n_entities": 15,
+        "egonet": {
+          "n_nodes": 15.0,
+          "n_edges": 12.0,
+          "isolated_frac": 0.13333333333333333,
+          "component_frac": 0.3333333333333333,
+          "lcc_frac": 0.6
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.5312,
+          "cohesion": -0.628
+        },
+        "fallback": false,
+        "elapsed_ms": 24.96
+      }
+    },
+    {
+      "doc_id": 3,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 17,
+        "n_context": 17,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1109,
+        "n_entities": 17,
+        "egonet": {
+          "n_nodes": 17.0,
+          "n_edges": 17.0,
+          "isolated_frac": 0.11764705882352941,
+          "component_frac": 0.17647058823529413,
+          "lcc_frac": 0.8823529411764706
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.9952,
+          "cohesion": -0.4501
+        },
+        "fallback": false,
+        "elapsed_ms": 31.61
+      }
+    },
+    {
+      "doc_id": 4,
+      "score": 0.8,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 14,
+        "n_context": 14,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1186,
+        "n_entities": 14,
+        "egonet": {
+          "n_nodes": 14.0,
+          "n_edges": 13.0,
+          "isolated_frac": 0.2857142857142857,
+          "component_frac": 0.35714285714285715,
+          "lcc_frac": 0.7142857142857143
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.8852,
+          "cohesion": -0.4725
+        },
+        "fallback": false,
+        "elapsed_ms": 22.05
+      }
+    },
+    {
+      "doc_id": 5,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 7,
+        "n_context": 7,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 862,
+        "n_entities": 7,
+        "egonet": {
+          "n_nodes": 7.0,
+          "n_edges": 3.0,
+          "isolated_frac": 0.2857142857142857,
+          "component_frac": 0.5714285714285714,
+          "lcc_frac": 0.42857142857142855
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.3356,
+          "cohesion": -0.908
+        },
+        "fallback": false,
+        "elapsed_ms": 6.757
+      }
+    },
+    {
+      "doc_id": 6,
+      "score": 0.7333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 10,
+        "n_context": 10,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 837,
+        "n_entities": 10,
+        "egonet": {
+          "n_nodes": 10.0,
+          "n_edges": 7.0,
+          "isolated_frac": 0.4,
+          "component_frac": 0.5,
+          "lcc_frac": 0.6
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.7057,
+          "cohesion": -0.6354
+        },
+        "fallback": false,
+        "elapsed_ms": 11.769
+      }
+    },
+    {
+      "doc_id": 7,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 8,
+        "n_context": 8,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 913,
+        "n_entities": 8,
+        "egonet": {
+          "n_nodes": 8.0,
+          "n_edges": 3.0,
+          "isolated_frac": 0.5,
+          "component_frac": 0.625,
+          "lcc_frac": 0.5
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.9952,
+          "cohesion": -1.0655
+        },
+        "fallback": false,
+        "elapsed_ms": 7.609
+      }
+    },
+    {
+      "doc_id": 8,
+      "score": 0.7333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 7,
+        "n_context": 7,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 796,
+        "n_entities": 7,
+        "egonet": {
+          "n_nodes": 7.0,
+          "n_edges": 3.0,
+          "isolated_frac": 0.42857142857142855,
+          "component_frac": 0.5714285714285714,
+          "lcc_frac": 0.5714285714285714
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.6274,
+          "cohesion": -0.908
+        },
+        "fallback": false,
+        "elapsed_ms": 5.741
+      }
+    },
+    {
+      "doc_id": 9,
+      "score": 0.8333333333333334,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 4,
+        "n_context": 4,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 972,
+        "n_entities": 4,
+        "egonet": {
+          "n_nodes": 4.0,
+          "n_edges": 3.0,
+          "isolated_frac": 0.0,
+          "component_frac": 0.25,
+          "lcc_frac": 1.0
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -1.8487,
+          "blockodds": 0.9952,
+          "cohesion": -0.2482
+        },
+        "fallback": false,
+        "elapsed_ms": 2.682
+      }
+    },
+    {
+      "doc_id": 10,
+      "score": 0.8333333333333334,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 12,
+        "n_context": 12,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 633,
+        "n_entities": 12,
+        "egonet": {
+          "n_nodes": 12.0,
+          "n_edges": 17.0,
+          "isolated_frac": 0.25,
+          "component_frac": 0.3333333333333333,
+          "lcc_frac": 0.75
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.9804,
+          "cohesion": -0.0394
+        },
+        "fallback": false,
+        "elapsed_ms": 16.445
+      }
+    },
+    {
+      "doc_id": 11,
+      "score": 0.7333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 12,
+        "n_context": 12,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 693,
+        "n_entities": 12,
+        "egonet": {
+          "n_nodes": 12.0,
+          "n_edges": 11.0,
+          "isolated_frac": 0.3333333333333333,
+          "component_frac": 0.5,
+          "lcc_frac": 0.5
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.58,
+          "cohesion": -0.4449
+        },
+        "fallback": false,
+        "elapsed_ms": 16.578
+      }
+    },
+    {
+      "doc_id": 12,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 11,
+        "n_context": 11,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 777,
+        "n_entities": 11,
+        "egonet": {
+          "n_nodes": 11.0,
+          "n_edges": 7.0,
+          "isolated_frac": 0.36363636363636365,
+          "component_frac": 0.45454545454545453,
+          "lcc_frac": 0.6363636363636364
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.0892,
+          "cohesion": -0.7478
+        },
+        "fallback": false,
+        "elapsed_ms": 12.791
+      }
+    },
+    {
+      "doc_id": 13,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 18,
+        "n_context": 18,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 775,
+        "n_entities": 18,
+        "egonet": {
+          "n_nodes": 18.0,
+          "n_edges": 20.0,
+          "isolated_frac": 0.2222222222222222,
+          "component_frac": 0.2777777777777778,
+          "lcc_frac": 0.7777777777777778
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.0892,
+          "cohesion": -0.3634
+        },
+        "fallback": false,
+        "elapsed_ms": 34.968
+      }
+    },
+    {
+      "doc_id": 14,
+      "score": 0.7333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 16,
+        "n_context": 16,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 752,
+        "n_entities": 16,
+        "egonet": {
+          "n_nodes": 16.0,
+          "n_edges": 33.0,
+          "isolated_frac": 0.1875,
+          "component_frac": 0.25,
+          "lcc_frac": 0.8125
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.9892,
+          "cohesion": 0.2574
+        },
+        "fallback": false,
+        "elapsed_ms": 28.879
+      }
+    },
+    {
+      "doc_id": 15,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 11,
+        "n_context": 11,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 674,
+        "n_entities": 11,
+        "egonet": {
+          "n_nodes": 11.0,
+          "n_edges": 15.0,
+          "isolated_frac": 0.18181818181818182,
+          "component_frac": 0.2727272727272727,
+          "lcc_frac": 0.8181818181818182
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.0892,
+          "cohesion": -0.0546
+        },
+        "fallback": false,
+        "elapsed_ms": 14.397
+      }
+    },
+    {
+      "doc_id": 16,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 6,
+        "n_context": 6,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 647,
+        "n_entities": 6,
+        "egonet": {
+          "n_nodes": 6.0,
+          "n_edges": 1.0,
+          "isolated_frac": 0.6666666666666666,
+          "component_frac": 0.8333333333333334,
+          "lcc_frac": 0.3333333333333333
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.4296,
+          "cohesion": -1.4194
+        },
+        "fallback": false,
+        "elapsed_ms": 4.674
+      }
+    },
+    {
+      "doc_id": 17,
+      "score": 0.36666666666666664,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 8,
+        "n_context": 8,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 558,
+        "n_entities": 8,
+        "egonet": {
+          "n_nodes": 8.0,
+          "n_edges": 10.0,
+          "isolated_frac": 0.0,
+          "component_frac": 0.125,
+          "lcc_frac": 1.0
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.9411,
+          "blockodds": 0.3461,
+          "cohesion": -0.0539
+        },
+        "fallback": false,
+        "elapsed_ms": 8.12
+      }
+    },
+    {
+      "doc_id": 18,
+      "score": 0.7666666666666667,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 12,
+        "n_context": 12,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 653,
+        "n_entities": 12,
+        "egonet": {
+          "n_nodes": 12.0,
+          "n_edges": 21.0,
+          "isolated_frac": 0.25,
+          "component_frac": 0.3333333333333333,
+          "lcc_frac": 0.75
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2484,
+          "blockodds": 0.9892,
+          "cohesion": 0.1612
+        },
+        "fallback": false,
+        "elapsed_ms": 17.334
+      }
+    },
+    {
+      "doc_id": 19,
+      "score": 0.9333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 11,
+        "n_context": 11,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 696,
+        "n_entities": 11,
+        "egonet": {
+          "n_nodes": 11.0,
+          "n_edges": 14.0,
+          "isolated_frac": 0.18181818181818182,
+          "component_frac": 0.2727272727272727,
+          "lcc_frac": 0.8181818181818182
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.0136,
+          "cohesion": -0.1192
+        },
+        "fallback": false,
+        "elapsed_ms": 14.241
+      }
+    },
+    {
+      "doc_id": 20,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 8,
+        "n_context": 8,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 832,
+        "n_entities": 8,
+        "egonet": {
+          "n_nodes": 8.0,
+          "n_edges": 0.0,
+          "isolated_frac": 1.0,
+          "component_frac": 1.0,
+          "lcc_frac": 0.125
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.1549,
+          "cohesion": -2.4518
+        },
+        "fallback": false,
+        "elapsed_ms": 7.387
+      }
+    },
+    {
+      "doc_id": 21,
+      "score": 0.7333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 11,
+        "n_context": 11,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 898,
+        "n_entities": 11,
+        "egonet": {
+          "n_nodes": 11.0,
+          "n_edges": 12.0,
+          "isolated_frac": 0.2727272727272727,
+          "component_frac": 0.36363636363636365,
+          "lcc_frac": 0.7272727272727273
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.7749,
+          "cohesion": -0.2623
+        },
+        "fallback": false,
+        "elapsed_ms": 13.616
+      }
+    },
+    {
+      "doc_id": 22,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 7,
+        "n_context": 7,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 823,
+        "n_entities": 7,
+        "egonet": {
+          "n_nodes": 7.0,
+          "n_edges": 1.0,
+          "isolated_frac": 0.7142857142857143,
+          "component_frac": 0.8571428571428571,
+          "lcc_frac": 0.2857142857142857
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.0033,
+          "cohesion": -1.6012
+        },
+        "fallback": false,
+        "elapsed_ms": 6.045
+      }
+    },
+    {
+      "doc_id": 23,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 8,
+        "n_context": 8,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 830,
+        "n_entities": 8,
+        "egonet": {
+          "n_nodes": 8.0,
+          "n_edges": 0.0,
+          "isolated_frac": 1.0,
+          "component_frac": 1.0,
+          "lcc_frac": 0.125
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.8843,
+          "cohesion": -2.4518
+        },
+        "fallback": false,
+        "elapsed_ms": 7.493
+      }
+    },
+    {
+      "doc_id": 24,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 6,
+        "n_context": 6,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 941,
+        "n_entities": 6,
+        "egonet": {
+          "n_nodes": 6.0,
+          "n_edges": 7.0,
+          "isolated_frac": 0.16666666666666666,
+          "component_frac": 0.3333333333333333,
+          "lcc_frac": 0.8333333333333334
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.2708,
+          "cohesion": -0.0331
+        },
+        "fallback": false,
+        "elapsed_ms": 5.004
+      }
+    },
+    {
+      "doc_id": 25,
+      "score": 0.6,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 13,
+        "n_context": 13,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 822,
+        "n_entities": 13,
+        "egonet": {
+          "n_nodes": 13.0,
+          "n_edges": 16.0,
+          "isolated_frac": 0.38461538461538464,
+          "component_frac": 0.46153846153846156,
+          "lcc_frac": 0.6153846153846154
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.8321,
+          "cohesion": -0.191
+        },
+        "fallback": false,
+        "elapsed_ms": 18.995
+      }
+    },
+    {
+      "doc_id": 26,
+      "score": 0.7,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 12,
+        "n_context": 12,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 988,
+        "n_entities": 12,
+        "egonet": {
+          "n_nodes": 12.0,
+          "n_edges": 16.0,
+          "isolated_frac": 0.16666666666666666,
+          "component_frac": 0.25,
+          "lcc_frac": 0.8333333333333334
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.9191,
+          "cohesion": -0.0966
+        },
+        "fallback": false,
+        "elapsed_ms": 16.961
+      }
+    },
+    {
+      "doc_id": 27,
+      "score": 0.7333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 13,
+        "n_context": 13,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 961,
+        "n_entities": 13,
+        "egonet": {
+          "n_nodes": 13.0,
+          "n_edges": 17.0,
+          "isolated_frac": 0.23076923076923078,
+          "component_frac": 0.3076923076923077,
+          "lcc_frac": 0.7692307692307693
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.909,
+          "cohesion": -0.1338
+        },
+        "fallback": false,
+        "elapsed_ms": 19.465
+      }
+    },
+    {
+      "doc_id": 28,
+      "score": 0.6333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 13,
+        "n_context": 13,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 961,
+        "n_entities": 13,
+        "egonet": {
+          "n_nodes": 13.0,
+          "n_edges": 9.0,
+          "isolated_frac": 0.3076923076923077,
+          "component_frac": 0.46153846153846156,
+          "lcc_frac": 0.5384615384615384
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.5312,
+          "cohesion": -0.7216
+        },
+        "fallback": false,
+        "elapsed_ms": 17.836
+      }
+    },
+    {
+      "doc_id": 29,
+      "score": 0.5333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 22,
+        "n_context": 22,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 978,
+        "n_entities": 22,
+        "egonet": {
+          "n_nodes": 22.0,
+          "n_edges": 72.0,
+          "isolated_frac": 0.18181818181818182,
+          "component_frac": 0.22727272727272727,
+          "lcc_frac": 0.8181818181818182
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2484,
+          "blockodds": 0.9804,
+          "cohesion": 0.646
+        },
+        "fallback": false,
+        "elapsed_ms": 54.555
+      }
+    },
+    {
+      "doc_id": 30,
+      "score": 0.6333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 18,
+        "n_context": 18,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1076,
+        "n_entities": 18,
+        "egonet": {
+          "n_nodes": 18.0,
+          "n_edges": 51.0,
+          "isolated_frac": 0.1111111111111111,
+          "component_frac": 0.16666666666666666,
+          "lcc_frac": 0.8888888888888888
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2836,
+          "blockodds": 0.9952,
+          "cohesion": 0.5434
+        },
+        "fallback": false,
+        "elapsed_ms": 38.376
+      }
+    },
+    {
+      "doc_id": 31,
+      "score": 0.3333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 13,
+        "n_context": 13,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1048,
+        "n_entities": 13,
+        "egonet": {
+          "n_nodes": 13.0,
+          "n_edges": 26.0,
+          "isolated_frac": 0.15384615384615385,
+          "component_frac": 0.23076923076923078,
+          "lcc_frac": 0.8461538461538461
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.3169,
+          "blockodds": 0.3461,
+          "cohesion": 0.2716
+        },
+        "fallback": false,
+        "elapsed_ms": 20.296
+      }
+    },
+    {
+      "doc_id": 32,
+      "score": 0.5,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 19,
+        "n_context": 19,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 900,
+        "n_entities": 19,
+        "egonet": {
+          "n_nodes": 19.0,
+          "n_edges": 36.0,
+          "isolated_frac": 0.10526315789473684,
+          "component_frac": 0.15789473684210525,
+          "lcc_frac": 0.8947368421052632
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.8563,
+          "cohesion": 0.1393
+        },
+        "fallback": false,
+        "elapsed_ms": 40.007
+      }
+    },
+    {
+      "doc_id": 33,
+      "score": 0.5666666666666667,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 12,
+        "n_context": 12,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 916,
+        "n_entities": 12,
+        "egonet": {
+          "n_nodes": 12.0,
+          "n_edges": 25.0,
+          "isolated_frac": 0.16666666666666666,
+          "component_frac": 0.25,
+          "lcc_frac": 0.8333333333333334
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.3001,
+          "blockodds": 0.9892,
+          "cohesion": 0.3283
+        },
+        "fallback": false,
+        "elapsed_ms": 17.581
+      }
+    },
+    {
+      "doc_id": 34,
+      "score": 0.5333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 13,
+        "n_context": 13,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 969,
+        "n_entities": 13,
+        "egonet": {
+          "n_nodes": 13.0,
+          "n_edges": 19.0,
+          "isolated_frac": 0.07692307692307693,
+          "component_frac": 0.15384615384615385,
+          "lcc_frac": 0.9230769230769231
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.1491,
+          "blockodds": 0.8321,
+          "cohesion": -0.0285
+        },
+        "fallback": false,
+        "elapsed_ms": 20.238
+      }
+    },
+    {
+      "doc_id": 35,
+      "score": 0.8666666666666667,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 6,
+        "n_context": 6,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 832,
+        "n_entities": 6,
+        "egonet": {
+          "n_nodes": 6.0,
+          "n_edges": 3.0,
+          "isolated_frac": 0.3333333333333333,
+          "component_frac": 0.5,
+          "lcc_frac": 0.6666666666666666
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.9499,
+          "blockodds": 0.9952,
+          "cohesion": -0.7263
+        },
+        "fallback": false,
+        "elapsed_ms": 4.921
+      }
+    },
+    {
+      "doc_id": 36,
+      "score": 0.9333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 6,
+        "n_context": 6,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 802,
+        "n_entities": 6,
+        "egonet": {
+          "n_nodes": 6.0,
+          "n_edges": 2.0,
+          "isolated_frac": 0.5,
+          "component_frac": 0.6666666666666666,
+          "lcc_frac": 0.5
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.5676,
+          "blockodds": 0.9952,
+          "cohesion": -1.014
+        },
+        "fallback": false,
+        "elapsed_ms": 4.747
+      }
+    },
+    {
+      "doc_id": 37,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 5,
+        "n_context": 5,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 780,
+        "n_entities": 5,
+        "egonet": {
+          "n_nodes": 5.0,
+          "n_edges": 1.0,
+          "isolated_frac": 0.6,
+          "component_frac": 0.8,
+          "lcc_frac": 0.4
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2531,
+          "blockodds": 0.9952,
+          "cohesion": -1.2045
+        },
+        "fallback": false,
+        "elapsed_ms": 3.386
+      }
+    },
+    {
+      "doc_id": 38,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 5,
+        "n_context": 5,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 773,
+        "n_entities": 5,
+        "egonet": {
+          "n_nodes": 5.0,
+          "n_edges": 2.0,
+          "isolated_frac": 0.4,
+          "component_frac": 0.6,
+          "lcc_frac": 0.6
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -1.058,
+          "blockodds": 1.0892,
+          "cohesion": -0.799
+        },
+        "fallback": false,
+        "elapsed_ms": 3.553
+      }
+    },
+    {
+      "doc_id": 39,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 5,
+        "n_context": 5,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 780,
+        "n_entities": 5,
+        "egonet": {
+          "n_nodes": 5.0,
+          "n_edges": 3.0,
+          "isolated_frac": 0.2,
+          "component_frac": 0.4,
+          "lcc_frac": 0.8
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -1.6561,
+          "blockodds": 1.3156,
+          "cohesion": -0.5113
+        },
+        "fallback": false,
+        "elapsed_ms": 3.592
+      }
+    },
+    {
+      "doc_id": 40,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 10,
+        "n_context": 10,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 913,
+        "n_entities": 10,
+        "egonet": {
+          "n_nodes": 10.0,
+          "n_edges": 8.0,
+          "isolated_frac": 0.3,
+          "component_frac": 0.4,
+          "lcc_frac": 0.7
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.5015,
+          "blockodds": 1.0275,
+          "cohesion": -0.5176
+        },
+        "fallback": false,
+        "elapsed_ms": 11.869
+      }
+    },
+    {
+      "doc_id": 41,
+      "score": 0.6333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 8,
+        "n_context": 8,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 964,
+        "n_entities": 8,
+        "egonet": {
+          "n_nodes": 8.0,
+          "n_edges": 4.0,
+          "isolated_frac": 0.5,
+          "component_frac": 0.625,
+          "lcc_frac": 0.5
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2531,
+          "blockodds": 0.6274,
+          "cohesion": -0.8423
+        },
+        "fallback": false,
+        "elapsed_ms": 7.902
+      }
+    },
+    {
+      "doc_id": 42,
+      "score": 0.7666666666666667,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 7,
+        "n_context": 7,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 876,
+        "n_entities": 7,
+        "egonet": {
+          "n_nodes": 7.0,
+          "n_edges": 5.0,
+          "isolated_frac": 0.2857142857142857,
+          "component_frac": 0.42857142857142855,
+          "lcc_frac": 0.7142857142857143
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -1.2925,
+          "blockodds": 0.9495,
+          "cohesion": -0.5026
+        },
+        "fallback": false,
+        "elapsed_ms": 6.392
+      }
+    },
+    {
+      "doc_id": 43,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 10,
+        "n_context": 10,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 890,
+        "n_entities": 10,
+        "egonet": {
+          "n_nodes": 10.0,
+          "n_edges": 4.0,
+          "isolated_frac": 0.5,
+          "component_frac": 0.6,
+          "lcc_frac": 0.5
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2952,
+          "blockodds": 1.1345,
+          "cohesion": -1.1054
+        },
+        "fallback": false,
+        "elapsed_ms": 11.954
+      }
+    },
+    {
+      "doc_id": 44,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 9,
+        "n_context": 9,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 930,
+        "n_entities": 9,
+        "egonet": {
+          "n_nodes": 9.0,
+          "n_edges": 8.0,
+          "isolated_frac": 0.1111111111111111,
+          "component_frac": 0.2222222222222222,
+          "lcc_frac": 0.8888888888888888
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.3069,
+          "blockodds": 0.9952,
+          "cohesion": -0.3934
+        },
+        "fallback": false,
+        "elapsed_ms": 10.001
+      }
+    },
+    {
+      "doc_id": 45,
+      "score": 0.7333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 11,
+        "n_context": 11,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1022,
+        "n_entities": 11,
+        "egonet": {
+          "n_nodes": 11.0,
+          "n_edges": 8.0,
+          "isolated_frac": 0.36363636363636365,
+          "component_frac": 0.45454545454545453,
+          "lcc_frac": 0.6363636363636364
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.6608,
+          "cohesion": -0.63
+        },
+        "fallback": false,
+        "elapsed_ms": 14.311
+      }
+    },
+    {
+      "doc_id": 46,
+      "score": 0.9,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 10,
+        "n_context": 10,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1114,
+        "n_entities": 10,
+        "egonet": {
+          "n_nodes": 10.0,
+          "n_edges": 4.0,
+          "isolated_frac": 0.6,
+          "component_frac": 0.7,
+          "lcc_frac": 0.4
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2836,
+          "blockodds": 0.5312,
+          "cohesion": -1.1054
+        },
+        "fallback": false,
+        "elapsed_ms": 12.321
+      }
+    },
+    {
+      "doc_id": 47,
+      "score": 0.5,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 10,
+        "n_context": 10,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1095,
+        "n_entities": 10,
+        "egonet": {
+          "n_nodes": 10.0,
+          "n_edges": 8.0,
+          "isolated_frac": 0.5,
+          "component_frac": 0.6,
+          "lcc_frac": 0.5
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.353,
+          "blockodds": 0.4175,
+          "cohesion": -0.5176
+        },
+        "fallback": false,
+        "elapsed_ms": 12.33
+      }
+    },
+    {
+      "doc_id": 48,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 10,
+        "n_context": 10,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1101,
+        "n_entities": 10,
+        "egonet": {
+          "n_nodes": 10.0,
+          "n_edges": 9.0,
+          "isolated_frac": 0.3,
+          "component_frac": 0.4,
+          "lcc_frac": 0.7
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.0892,
+          "cohesion": -0.4123
+        },
+        "fallback": false,
+        "elapsed_ms": 11.63
+      }
+    },
+    {
+      "doc_id": 49,
+      "score": 0.8333333333333334,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 13,
+        "n_context": 13,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1297,
+        "n_entities": 13,
+        "egonet": {
+          "n_nodes": 13.0,
+          "n_edges": 21.0,
+          "isolated_frac": 0.07692307692307693,
+          "component_frac": 0.15384615384615385,
+          "lcc_frac": 0.9230769230769231
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.5822,
+          "blockodds": 1.002,
+          "cohesion": 0.0669
+        },
+        "fallback": false,
+        "elapsed_ms": 19.88
+      }
+    },
+    {
+      "doc_id": 50,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 7,
+        "n_context": 7,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 959,
+        "n_entities": 7,
+        "egonet": {
+          "n_nodes": 7.0,
+          "n_edges": 2.0,
+          "isolated_frac": 0.5714285714285714,
+          "component_frac": 0.7142857142857143,
+          "lcc_frac": 0.42857142857142855
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.1798,
+          "cohesion": -1.1957
+        },
+        "fallback": false,
+        "elapsed_ms": 6.051
+      }
+    },
+    {
+      "doc_id": 51,
+      "score": 0.7333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 8,
+        "n_context": 8,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 974,
+        "n_entities": 8,
+        "egonet": {
+          "n_nodes": 8.0,
+          "n_edges": 3.0,
+          "isolated_frac": 0.5,
+          "component_frac": 0.625,
+          "lcc_frac": 0.5
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.3461,
+          "cohesion": -1.0655
+        },
+        "fallback": false,
+        "elapsed_ms": 7.747
+      }
+    },
+    {
+      "doc_id": 52,
+      "score": 0.8333333333333334,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 5,
+        "n_context": 5,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 816,
+        "n_entities": 5,
+        "egonet": {
+          "n_nodes": 5.0,
+          "n_edges": 0.0,
+          "isolated_frac": 1.0,
+          "component_frac": 1.0,
+          "lcc_frac": 0.2
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.5869,
+          "blockodds": 0.3461,
+          "cohesion": -1.8976
+        },
+        "fallback": false,
+        "elapsed_ms": 3.49
+      }
+    },
+    {
+      "doc_id": 53,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 4,
+        "n_context": 4,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 921,
+        "n_entities": 4,
+        "egonet": {
+          "n_nodes": 4.0,
+          "n_edges": 0.0,
+          "isolated_frac": 1.0,
+          "component_frac": 1.0,
+          "lcc_frac": 0.25
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.6608,
+          "cohesion": -1.6345
+        },
+        "fallback": false,
+        "elapsed_ms": 2.491
+      }
+    },
+    {
+      "doc_id": 54,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 9,
+        "n_context": 9,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1017,
+        "n_entities": 9,
+        "egonet": {
+          "n_nodes": 9.0,
+          "n_edges": 3.0,
+          "isolated_frac": 0.6666666666666666,
+          "component_frac": 0.7777777777777778,
+          "lcc_frac": 0.3333333333333333
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.9952,
+          "cohesion": -1.2043
+        },
+        "fallback": false,
+        "elapsed_ms": 9.109
+      }
+    },
+    {
+      "doc_id": 55,
+      "score": 0.5333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 12,
+        "n_context": 12,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 856,
+        "n_entities": 12,
+        "egonet": {
+          "n_nodes": 12.0,
+          "n_edges": 19.0,
+          "isolated_frac": 0.16666666666666666,
+          "component_frac": 0.25,
+          "lcc_frac": 0.8333333333333334
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.8563,
+          "cohesion": 0.0659
+        },
+        "fallback": false,
+        "elapsed_ms": 17.46
+      }
+    },
+    {
+      "doc_id": 56,
+      "score": 0.6333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 9,
+        "n_context": 9,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 940,
+        "n_entities": 9,
+        "egonet": {
+          "n_nodes": 9.0,
+          "n_edges": 7.0,
+          "isolated_frac": 0.4444444444444444,
+          "component_frac": 0.5555555555555556,
+          "lcc_frac": 0.5555555555555556
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.4558,
+          "cohesion": -0.5112
+        },
+        "fallback": false,
+        "elapsed_ms": 9.771
+      }
+    },
+    {
+      "doc_id": 57,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 9,
+        "n_context": 9,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 844,
+        "n_entities": 9,
+        "egonet": {
+          "n_nodes": 9.0,
+          "n_edges": 4.0,
+          "isolated_frac": 0.4444444444444444,
+          "component_frac": 0.5555555555555556,
+          "lcc_frac": 0.5555555555555556
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.0892,
+          "cohesion": -0.9812
+        },
+        "fallback": false,
+        "elapsed_ms": 9.439
+      }
+    },
+    {
+      "doc_id": 58,
+      "score": 0.7666666666666667,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 7,
+        "n_context": 7,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 833,
+        "n_entities": 7,
+        "egonet": {
+          "n_nodes": 7.0,
+          "n_edges": 3.0,
+          "isolated_frac": 0.42857142857142855,
+          "component_frac": 0.5714285714285714,
+          "lcc_frac": 0.5714285714285714
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.7694,
+          "blockodds": 0.9394,
+          "cohesion": -0.908
+        },
+        "fallback": false,
+        "elapsed_ms": 6.244
+      }
+    },
+    {
+      "doc_id": 59,
+      "score": 0.7333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 8,
+        "n_context": 8,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 901,
+        "n_entities": 8,
+        "egonet": {
+          "n_nodes": 8.0,
+          "n_edges": 3.0,
+          "isolated_frac": 0.625,
+          "component_frac": 0.75,
+          "lcc_frac": 0.375
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2836,
+          "blockodds": 0.5312,
+          "cohesion": -1.0655
+        },
+        "fallback": false,
+        "elapsed_ms": 7.949
+      }
+    },
+    {
+      "doc_id": 60,
+      "score": 0.8333333333333334,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 17,
+        "n_context": 17,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 939,
+        "n_entities": 17,
+        "egonet": {
+          "n_nodes": 17.0,
+          "n_edges": 46.0,
+          "isolated_frac": 0.11764705882352941,
+          "component_frac": 0.17647058823529413,
+          "lcc_frac": 0.8823529411764706
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.3034,
+          "blockodds": 1.3156,
+          "cohesion": 0.5097
+        },
+        "fallback": false,
+        "elapsed_ms": 34.044
+      }
+    },
+    {
+      "doc_id": 61,
+      "score": 0.7333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 9,
+        "n_context": 9,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 839,
+        "n_entities": 9,
+        "egonet": {
+          "n_nodes": 9.0,
+          "n_edges": 7.0,
+          "isolated_frac": 0.3333333333333333,
+          "component_frac": 0.4444444444444444,
+          "lcc_frac": 0.6666666666666666
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.6274,
+          "cohesion": -0.5112
+        },
+        "fallback": false,
+        "elapsed_ms": 9.314
+      }
+    },
+    {
+      "doc_id": 62,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 13,
+        "n_context": 13,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 770,
+        "n_entities": 13,
+        "egonet": {
+          "n_nodes": 13.0,
+          "n_edges": 14.0,
+          "isolated_frac": 0.38461538461538464,
+          "component_frac": 0.46153846153846156,
+          "lcc_frac": 0.6153846153846154
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.4177,
+          "cohesion": -0.3161
+        },
+        "fallback": false,
+        "elapsed_ms": 19.572
+      }
+    },
+    {
+      "doc_id": 63,
+      "score": 0.5333333333333333,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 13,
+        "n_context": 13,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 902,
+        "n_entities": 13,
+        "egonet": {
+          "n_nodes": 13.0,
+          "n_edges": 28.0,
+          "isolated_frac": 0.07692307692307693,
+          "component_frac": 0.15384615384615385,
+          "lcc_frac": 0.9230769230769231
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.3069,
+          "blockodds": 0.9611,
+          "cohesion": 0.3431
+        },
+        "fallback": false,
+        "elapsed_ms": 20.129
+      }
+    },
+    {
+      "doc_id": 64,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 10,
+        "n_context": 10,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 936,
+        "n_entities": 10,
+        "egonet": {
+          "n_nodes": 10.0,
+          "n_edges": 4.0,
+          "isolated_frac": 0.4,
+          "component_frac": 0.6,
+          "lcc_frac": 0.3
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.0092,
+          "cohesion": -1.1054
+        },
+        "fallback": false,
+        "elapsed_ms": 11.176
+      }
+    },
+    {
+      "doc_id": 65,
+      "score": 0.5666666666666667,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 13,
+        "n_context": 13,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1011,
+        "n_entities": 13,
+        "egonet": {
+          "n_nodes": 13.0,
+          "n_edges": 26.0,
+          "isolated_frac": 0.07692307692307693,
+          "component_frac": 0.15384615384615385,
+          "lcc_frac": 0.9230769230769231
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.1519,
+          "blockodds": 0.9471,
+          "cohesion": 0.2716
+        },
+        "fallback": false,
+        "elapsed_ms": 19.949
+      }
+    },
+    {
+      "doc_id": 66,
+      "score": 0.1,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 13,
+        "n_context": 13,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1041,
+        "n_entities": 13,
+        "egonet": {
+          "n_nodes": 13.0,
+          "n_edges": 36.0,
+          "isolated_frac": 0.07692307692307693,
+          "component_frac": 0.15384615384615385,
+          "lcc_frac": 0.9230769230769231
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.7868,
+          "blockodds": 0.4588,
+          "cohesion": 0.5867
+        },
+        "fallback": false,
+        "elapsed_ms": 21.276
+      }
+    },
+    {
+      "doc_id": 67,
+      "score": 1.0,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 11,
+        "n_context": 11,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 979,
+        "n_entities": 11,
+        "egonet": {
+          "n_nodes": 11.0,
+          "n_edges": 12.0,
+          "isolated_frac": 0.09090909090909091,
+          "component_frac": 0.18181818181818182,
+          "lcc_frac": 0.9090909090909091
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.6941,
+          "cohesion": -0.2623
+        },
+        "fallback": false,
+        "elapsed_ms": 13.863
+      }
+    },
+    {
+      "doc_id": 68,
+      "score": 0.43333333333333335,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 14,
+        "n_context": 14,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1049,
+        "n_entities": 14,
+        "egonet": {
+          "n_nodes": 14.0,
+          "n_edges": 33.0,
+          "isolated_frac": 0.07142857142857142,
+          "component_frac": 0.14285714285714285,
+          "lcc_frac": 0.9285714285714286
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.8563,
+          "cohesion": 0.4148
+        },
+        "fallback": false,
+        "elapsed_ms": 23.192
+      }
+    },
+    {
+      "doc_id": 69,
+      "score": 0.43333333333333335,
+      "poisoned": true,
+      "meta": {
+        "n_focus": 11,
+        "n_context": 11,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 837,
+        "n_entities": 11,
+        "egonet": {
+          "n_nodes": 11.0,
+          "n_edges": 22.0,
+          "isolated_frac": 0.0,
+          "component_frac": 0.09090909090909091,
+          "lcc_frac": 1.0
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.5822,
+          "blockodds": 0.9191,
+          "cohesion": 0.3083
+        },
+        "fallback": false,
+        "elapsed_ms": 14.87
+      }
+    },
+    {
+      "doc_id": 96,
+      "score": 0.7666666666666667,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 12,
+        "n_context": 12,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 925,
+        "n_entities": 12,
+        "egonet": {
+          "n_nodes": 12.0,
+          "n_edges": 14.0,
+          "isolated_frac": 0.25,
+          "component_frac": 0.3333333333333333,
+          "lcc_frac": 0.75
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.9191,
+          "cohesion": -0.2218
+        },
+        "fallback": false,
+        "elapsed_ms": 15.645
+      }
+    },
+    {
+      "doc_id": 308,
+      "score": 0.5,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 17,
+        "n_context": 17,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 928,
+        "n_entities": 17,
+        "egonet": {
+          "n_nodes": 17.0,
+          "n_edges": 26.0,
+          "isolated_frac": 0.17647058823529413,
+          "component_frac": 0.23529411764705882,
+          "lcc_frac": 0.8235294117647058
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.583,
+          "cohesion": -0.0447
+        },
+        "fallback": false,
+        "elapsed_ms": 30.946
+      }
+    },
+    {
+      "doc_id": 155,
+      "score": 0.43333333333333335,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 23,
+        "n_context": 23,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1406,
+        "n_entities": 23,
+        "egonet": {
+          "n_nodes": 23.0,
+          "n_edges": 66.0,
+          "isolated_frac": 0.21739130434782608,
+          "component_frac": 0.2608695652173913,
+          "lcc_frac": 0.782608695652174
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.3034,
+          "blockodds": 0.9229,
+          "cohesion": 0.5078
+        },
+        "fallback": false,
+        "elapsed_ms": 59.066
+      }
+    },
+    {
+      "doc_id": 205,
+      "score": 0.1,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 20,
+        "n_context": 20,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 935,
+        "n_entities": 20,
+        "egonet": {
+          "n_nodes": 20.0,
+          "n_edges": 65.0,
+          "isolated_frac": 0.05,
+          "component_frac": 0.1,
+          "lcc_frac": 0.95
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2693,
+          "blockodds": -0.3249,
+          "cohesion": 0.6576
+        },
+        "fallback": false,
+        "elapsed_ms": 44.514
+      }
+    },
+    {
+      "doc_id": 325,
+      "score": 0.3,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 14,
+        "n_context": 14,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 891,
+        "n_entities": 14,
+        "egonet": {
+          "n_nodes": 14.0,
+          "n_edges": 37.0,
+          "isolated_frac": 0.14285714285714285,
+          "component_frac": 0.21428571428571427,
+          "lcc_frac": 0.8571428571428571
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.3069,
+          "blockodds": 0.4631,
+          "cohesion": 0.526
+        },
+        "fallback": false,
+        "elapsed_ms": 23.515
+      }
+    },
+    {
+      "doc_id": 266,
+      "score": 0.1,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 15,
+        "n_context": 15,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1011,
+        "n_entities": 15,
+        "egonet": {
+          "n_nodes": 15.0,
+          "n_edges": 46.0,
+          "isolated_frac": 0.06666666666666667,
+          "component_frac": 0.13333333333333333,
+          "lcc_frac": 0.9333333333333333
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.3069,
+          "blockodds": -0.0521,
+          "cohesion": 0.6572
+        },
+        "fallback": false,
+        "elapsed_ms": 25.931
+      }
+    },
+    {
+      "doc_id": 60,
+      "score": 0.3,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 20,
+        "n_context": 20,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1039,
+        "n_entities": 20,
+        "egonet": {
+          "n_nodes": 20.0,
+          "n_edges": 67.0,
+          "isolated_frac": 0.1,
+          "component_frac": 0.15,
+          "lcc_frac": 0.9
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2836,
+          "blockodds": 0.5312,
+          "cohesion": 0.6874
+        },
+        "fallback": false,
+        "elapsed_ms": 46.309
+      }
+    },
+    {
+      "doc_id": 109,
+      "score": 0.5666666666666667,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 18,
+        "n_context": 18,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1012,
+        "n_entities": 18,
+        "egonet": {
+          "n_nodes": 18.0,
+          "n_edges": 44.0,
+          "isolated_frac": 0.05555555555555555,
+          "component_frac": 0.1111111111111111,
+          "lcc_frac": 0.9444444444444444
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2531,
+          "blockodds": 0.9892,
+          "cohesion": 0.3988
+        },
+        "fallback": false,
+        "elapsed_ms": 37.669
+      }
+    },
+    {
+      "doc_id": 245,
+      "score": 0.9,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 15,
+        "n_context": 15,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1243,
+        "n_entities": 15,
+        "egonet": {
+          "n_nodes": 15.0,
+          "n_edges": 34.0,
+          "isolated_frac": 0.13333333333333333,
+          "component_frac": 0.2,
+          "lcc_frac": 0.8666666666666667
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2836,
+          "blockodds": 1.1378,
+          "cohesion": 0.3624
+        },
+        "fallback": false,
+        "elapsed_ms": 27.103
+      }
+    },
+    {
+      "doc_id": 243,
+      "score": 0.3333333333333333,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 9,
+        "n_context": 9,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 802,
+        "n_entities": 9,
+        "egonet": {
+          "n_nodes": 9.0,
+          "n_edges": 15.0,
+          "isolated_frac": 0.0,
+          "component_frac": 0.1111111111111111,
+          "lcc_frac": 1.0
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -1.0841,
+          "blockodds": 0.5357,
+          "cohesion": 0.182
+        },
+        "fallback": false,
+        "elapsed_ms": 10.289
+      }
+    },
+    {
+      "doc_id": 137,
+      "score": 0.9,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 16,
+        "n_context": 16,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1004,
+        "n_entities": 16,
+        "egonet": {
+          "n_nodes": 16.0,
+          "n_edges": 37.0,
+          "isolated_frac": 0.0625,
+          "component_frac": 0.125,
+          "lcc_frac": 0.9375
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.4254,
+          "cohesion": 0.3686
+        },
+        "fallback": false,
+        "elapsed_ms": 29.01
+      }
+    },
+    {
+      "doc_id": 218,
+      "score": 0.5666666666666667,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 18,
+        "n_context": 18,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 830,
+        "n_entities": 18,
+        "egonet": {
+          "n_nodes": 18.0,
+          "n_edges": 48.0,
+          "isolated_frac": 0.05555555555555555,
+          "component_frac": 0.1111111111111111,
+          "lcc_frac": 0.9444444444444444
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2484,
+          "blockodds": 0.9892,
+          "cohesion": 0.4839
+        },
+        "fallback": false,
+        "elapsed_ms": 37.354
+      }
+    },
+    {
+      "doc_id": 108,
+      "score": 0.9,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 19,
+        "n_context": 19,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 921,
+        "n_entities": 19,
+        "egonet": {
+          "n_nodes": 19.0,
+          "n_edges": 49.0,
+          "isolated_frac": 0.10526315789473684,
+          "component_frac": 0.15789473684210525,
+          "lcc_frac": 0.8947368421052632
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.0892,
+          "cohesion": 0.4404
+        },
+        "fallback": false,
+        "elapsed_ms": 41.366
+      }
+    },
+    {
+      "doc_id": 324,
+      "score": 0.3333333333333333,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 11,
+        "n_context": 11,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 880,
+        "n_entities": 11,
+        "egonet": {
+          "n_nodes": 11.0,
+          "n_edges": 21.0,
+          "isolated_frac": 0.09090909090909091,
+          "component_frac": 0.18181818181818182,
+          "lcc_frac": 0.9090909090909091
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2484,
+          "blockodds": 0.0279,
+          "cohesion": 0.2638
+        },
+        "fallback": false,
+        "elapsed_ms": 14.703
+      }
+    },
+    {
+      "doc_id": 194,
+      "score": 0.1,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 8,
+        "n_context": 8,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 568,
+        "n_entities": 8,
+        "egonet": {
+          "n_nodes": 8.0,
+          "n_edges": 20.0,
+          "isolated_frac": 0.0,
+          "component_frac": 0.125,
+          "lcc_frac": 1.0
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.5584,
+          "blockodds": 0.362,
+          "cohesion": 0.5928
+        },
+        "fallback": false,
+        "elapsed_ms": 8.399
+      }
+    },
+    {
+      "doc_id": 314,
+      "score": 0.4,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 10,
+        "n_context": 10,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 901,
+        "n_entities": 10,
+        "egonet": {
+          "n_nodes": 10.0,
+          "n_edges": 17.0,
+          "isolated_frac": 0.1,
+          "component_frac": 0.2,
+          "lcc_frac": 0.9
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.346,
+          "blockodds": 0.6274,
+          "cohesion": 0.1755
+        },
+        "fallback": false,
+        "elapsed_ms": 12.221
+      }
+    },
+    {
+      "doc_id": 63,
+      "score": 0.4,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 14,
+        "n_context": 14,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 907,
+        "n_entities": 14,
+        "egonet": {
+          "n_nodes": 14.0,
+          "n_edges": 28.0,
+          "isolated_frac": 0.14285714285714285,
+          "component_frac": 0.21428571428571427,
+          "lcc_frac": 0.8571428571428571
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2836,
+          "blockodds": 0.6816,
+          "cohesion": 0.2557
+        },
+        "fallback": false,
+        "elapsed_ms": 23.27
+      }
+    },
+    {
+      "doc_id": 95,
+      "score": 0.8,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 10,
+        "n_context": 10,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 810,
+        "n_entities": 10,
+        "egonet": {
+          "n_nodes": 10.0,
+          "n_edges": 6.0,
+          "isolated_frac": 0.3,
+          "component_frac": 0.5,
+          "lcc_frac": 0.4
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.9191,
+          "cohesion": -0.7689
+        },
+        "fallback": false,
+        "elapsed_ms": 10.839
+      }
+    },
+    {
+      "doc_id": 345,
+      "score": 0.43333333333333335,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 19,
+        "n_context": 19,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 869,
+        "n_entities": 19,
+        "egonet": {
+          "n_nodes": 19.0,
+          "n_edges": 46.0,
+          "isolated_frac": 0.21052631578947367,
+          "component_frac": 0.2631578947368421,
+          "lcc_frac": 0.7894736842105263
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.8563,
+          "cohesion": 0.3785
+        },
+        "fallback": false,
+        "elapsed_ms": 41.506
+      }
+    },
+    {
+      "doc_id": 254,
+      "score": 0.43333333333333335,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 18,
+        "n_context": 18,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1012,
+        "n_entities": 18,
+        "egonet": {
+          "n_nodes": 18.0,
+          "n_edges": 41.0,
+          "isolated_frac": 0.1111111111111111,
+          "component_frac": 0.16666666666666666,
+          "lcc_frac": 0.8888888888888888
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.8194,
+          "cohesion": 0.3298
+        },
+        "fallback": false,
+        "elapsed_ms": 36.141
+      }
+    },
+    {
+      "doc_id": 301,
+      "score": 0.4,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 14,
+        "n_context": 14,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1095,
+        "n_entities": 14,
+        "egonet": {
+          "n_nodes": 14.0,
+          "n_edges": 27.0,
+          "isolated_frac": 0.14285714285714285,
+          "component_frac": 0.21428571428571427,
+          "lcc_frac": 0.8571428571428571
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2531,
+          "blockodds": 0.4558,
+          "cohesion": 0.2206
+        },
+        "fallback": false,
+        "elapsed_ms": 22.996
+      }
+    },
+    {
+      "doc_id": 77,
+      "score": 0.8333333333333334,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 7,
+        "n_context": 7,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1367,
+        "n_entities": 7,
+        "egonet": {
+          "n_nodes": 7.0,
+          "n_edges": 4.0,
+          "isolated_frac": 0.42857142857142855,
+          "component_frac": 0.5714285714285714,
+          "lcc_frac": 0.5714285714285714
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.9495,
+          "cohesion": -0.6849
+        },
+        "fallback": false,
+        "elapsed_ms": 6.539
+      }
+    },
+    {
+      "doc_id": 303,
+      "score": 0.06666666666666667,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 9,
+        "n_context": 9,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1042,
+        "n_entities": 9,
+        "egonet": {
+          "n_nodes": 9.0,
+          "n_edges": 29.0,
+          "isolated_frac": 0.0,
+          "component_frac": 0.1111111111111111,
+          "lcc_frac": 1.0
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -2.2886,
+          "blockodds": 0.3553,
+          "cohesion": 0.8106
+        },
+        "fallback": false,
+        "elapsed_ms": 10.872
+      }
+    },
+    {
+      "doc_id": 53,
+      "score": 1.0,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 9,
+        "n_context": 9,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1102,
+        "n_entities": 9,
+        "egonet": {
+          "n_nodes": 9.0,
+          "n_edges": 3.0,
+          "isolated_frac": 0.6666666666666666,
+          "component_frac": 0.7777777777777778,
+          "lcc_frac": 0.3333333333333333
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.0121,
+          "cohesion": -1.2043
+        },
+        "fallback": false,
+        "elapsed_ms": 9.298
+      }
+    },
+    {
+      "doc_id": 189,
+      "score": 0.3333333333333333,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 18,
+        "n_context": 18,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1023,
+        "n_entities": 18,
+        "egonet": {
+          "n_nodes": 18.0,
+          "n_edges": 51.0,
+          "isolated_frac": 0.0,
+          "component_frac": 0.05555555555555555,
+          "lcc_frac": 1.0
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.3034,
+          "blockodds": 0.8321,
+          "cohesion": 0.5434
+        },
+        "fallback": false,
+        "elapsed_ms": 37.569
+      }
+    },
+    {
+      "doc_id": 29,
+      "score": 0.43333333333333335,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 26,
+        "n_context": 26,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1007,
+        "n_entities": 26,
+        "egonet": {
+          "n_nodes": 26.0,
+          "n_edges": 79.0,
+          "isolated_frac": 0.15384615384615385,
+          "component_frac": 0.19230769230769232,
+          "lcc_frac": 0.8461538461538461
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0385,
+          "support": -0.0,
+          "blockodds": 0.9023,
+          "cohesion": 0.5406
+        },
+        "fallback": false,
+        "elapsed_ms": 69.153
+      }
+    },
+    {
+      "doc_id": 348,
+      "score": 1.0,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 15,
+        "n_context": 15,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 929,
+        "n_entities": 15,
+        "egonet": {
+          "n_nodes": 15.0,
+          "n_edges": 25.0,
+          "isolated_frac": 0.2,
+          "component_frac": 0.26666666666666666,
+          "lcc_frac": 0.8
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.1613,
+          "cohesion": 0.0652
+        },
+        "fallback": false,
+        "elapsed_ms": 26.569
+      }
+    },
+    {
+      "doc_id": 180,
+      "score": 0.1,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 11,
+        "n_context": 11,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1169,
+        "n_entities": 11,
+        "egonet": {
+          "n_nodes": 11.0,
+          "n_edges": 27.0,
+          "isolated_frac": 0.09090909090909091,
+          "component_frac": 0.18181818181818182,
+          "lcc_frac": 0.9090909090909091
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.5584,
+          "blockodds": 0.5312,
+          "cohesion": 0.505
+        },
+        "fallback": false,
+        "elapsed_ms": 15.116
+      }
+    },
+    {
+      "doc_id": 102,
+      "score": 0.4,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 16,
+        "n_context": 16,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1087,
+        "n_entities": 16,
+        "egonet": {
+          "n_nodes": 16.0,
+          "n_edges": 42.0,
+          "isolated_frac": 0.125,
+          "component_frac": 0.1875,
+          "lcc_frac": 0.875
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.8156,
+          "cohesion": 0.4922
+        },
+        "fallback": false,
+        "elapsed_ms": 29.933
+      }
+    },
+    {
+      "doc_id": 14,
+      "score": 0.3333333333333333,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 19,
+        "n_context": 19,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 856,
+        "n_entities": 19,
+        "egonet": {
+          "n_nodes": 19.0,
+          "n_edges": 47.0,
+          "isolated_frac": 0.10526315789473684,
+          "component_frac": 0.15789473684210525,
+          "lcc_frac": 0.8947368421052632
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.4991,
+          "cohesion": 0.3996
+        },
+        "fallback": false,
+        "elapsed_ms": 41.847
+      }
+    },
+    {
+      "doc_id": 120,
+      "score": 0.3,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 10,
+        "n_context": 10,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 865,
+        "n_entities": 10,
+        "egonet": {
+          "n_nodes": 10.0,
+          "n_edges": 25.0,
+          "isolated_frac": 0.1,
+          "component_frac": 0.2,
+          "lcc_frac": 0.9
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2455,
+          "blockodds": 0.1613,
+          "cohesion": 0.5432
+        },
+        "fallback": false,
+        "elapsed_ms": 12.184
+      }
+    },
+    {
+      "doc_id": 239,
+      "score": 0.3333333333333333,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 13,
+        "n_context": 13,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 910,
+        "n_entities": 13,
+        "egonet": {
+          "n_nodes": 13.0,
+          "n_edges": 38.0,
+          "isolated_frac": 0.07692307692307693,
+          "component_frac": 0.15384615384615385,
+          "lcc_frac": 0.9230769230769231
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.3265,
+          "blockodds": 0.8563,
+          "cohesion": 0.6394
+        },
+        "fallback": false,
+        "elapsed_ms": 20.234
+      }
+    },
+    {
+      "doc_id": 226,
+      "score": 0.5666666666666667,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 19,
+        "n_context": 19,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 847,
+        "n_entities": 19,
+        "egonet": {
+          "n_nodes": 19.0,
+          "n_edges": 33.0,
+          "isolated_frac": 0.21052631578947367,
+          "component_frac": 0.2631578947368421,
+          "lcc_frac": 0.7894736842105263
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.9023,
+          "cohesion": 0.0547
+        },
+        "fallback": false,
+        "elapsed_ms": 37.944
+      }
+    },
+    {
+      "doc_id": 104,
+      "score": 0.3,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 12,
+        "n_context": 12,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1005,
+        "n_entities": 12,
+        "egonet": {
+          "n_nodes": 12.0,
+          "n_edges": 28.0,
+          "isolated_frac": 0.16666666666666666,
+          "component_frac": 0.25,
+          "lcc_frac": 0.8333333333333334
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.3034,
+          "blockodds": 0.2519,
+          "cohesion": 0.4375
+        },
+        "fallback": false,
+        "elapsed_ms": 17.433
+      }
+    },
+    {
+      "doc_id": 105,
+      "score": 0.06666666666666667,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 7,
+        "n_context": 7,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 868,
+        "n_entities": 7,
+        "egonet": {
+          "n_nodes": 7.0,
+          "n_edges": 13.0,
+          "isolated_frac": 0.14285714285714285,
+          "component_frac": 0.2857142857142857,
+          "lcc_frac": 0.8571428571428571
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.5919,
+          "blockodds": -0.0675,
+          "cohesion": 0.3447
+        },
+        "fallback": false,
+        "elapsed_ms": 6.666
+      }
+    },
+    {
+      "doc_id": 315,
+      "score": 0.43333333333333335,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 18,
+        "n_context": 18,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1076,
+        "n_entities": 18,
+        "egonet": {
+          "n_nodes": 18.0,
+          "n_edges": 38.0,
+          "isolated_frac": 0.2222222222222222,
+          "component_frac": 0.2777777777777778,
+          "lcc_frac": 0.7777777777777778
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.8563,
+          "cohesion": 0.2557
+        },
+        "fallback": false,
+        "elapsed_ms": 36.249
+      }
+    },
+    {
+      "doc_id": 299,
+      "score": 0.1,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 13,
+        "n_context": 13,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1020,
+        "n_entities": 13,
+        "egonet": {
+          "n_nodes": 13.0,
+          "n_edges": 41.0,
+          "isolated_frac": 0.15384615384615385,
+          "component_frac": 0.23076923076923078,
+          "lcc_frac": 0.8461538461538461
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2976,
+          "blockodds": 0.2131,
+          "cohesion": 0.7135
+        },
+        "fallback": false,
+        "elapsed_ms": 20.422
+      }
+    },
+    {
+      "doc_id": 103,
+      "score": 0.36666666666666664,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 20,
+        "n_context": 20,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 982,
+        "n_entities": 20,
+        "egonet": {
+          "n_nodes": 20.0,
+          "n_edges": 47.0,
+          "isolated_frac": 0.1,
+          "component_frac": 0.15,
+          "lcc_frac": 0.9
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.5815,
+          "cohesion": 0.3391
+        },
+        "fallback": false,
+        "elapsed_ms": 44.122
+      }
+    },
+    {
+      "doc_id": 344,
+      "score": 0.5,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 12,
+        "n_context": 12,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 946,
+        "n_entities": 12,
+        "egonet": {
+          "n_nodes": 12.0,
+          "n_edges": 20.0,
+          "isolated_frac": 0.16666666666666666,
+          "component_frac": 0.25,
+          "lcc_frac": 0.8333333333333334
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.8156,
+          "cohesion": 0.1147
+        },
+        "fallback": false,
+        "elapsed_ms": 17.133
+      }
+    },
+    {
+      "doc_id": 31,
+      "score": 0.3333333333333333,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 21,
+        "n_context": 21,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1046,
+        "n_entities": 21,
+        "egonet": {
+          "n_nodes": 21.0,
+          "n_edges": 56.0,
+          "isolated_frac": 0.047619047619047616,
+          "component_frac": 0.09523809523809523,
+          "lcc_frac": 0.9523809523809523
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.6303,
+          "cohesion": 0.4534
+        },
+        "fallback": false,
+        "elapsed_ms": 49.252
+      }
+    },
+    {
+      "doc_id": 23,
+      "score": 1.0,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 11,
+        "n_context": 11,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 873,
+        "n_entities": 11,
+        "egonet": {
+          "n_nodes": 11.0,
+          "n_edges": 2.0,
+          "isolated_frac": 0.6363636363636364,
+          "component_frac": 0.8181818181818182,
+          "lcc_frac": 0.18181818181818182
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.7877,
+          "cohesion": -1.7286
+        },
+        "fallback": false,
+        "elapsed_ms": 12.716
+      }
+    },
+    {
+      "doc_id": 271,
+      "score": 0.5,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 11,
+        "n_context": 11,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1016,
+        "n_entities": 11,
+        "egonet": {
+          "n_nodes": 11.0,
+          "n_edges": 14.0,
+          "isolated_frac": 0.18181818181818182,
+          "component_frac": 0.2727272727272727,
+          "lcc_frac": 0.8181818181818182
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2693,
+          "blockodds": 0.4558,
+          "cohesion": -0.1192
+        },
+        "fallback": false,
+        "elapsed_ms": 14.257
+      }
+    },
+    {
+      "doc_id": 35,
+      "score": 0.8333333333333334,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 11,
+        "n_context": 11,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 875,
+        "n_entities": 11,
+        "egonet": {
+          "n_nodes": 11.0,
+          "n_edges": 7.0,
+          "isolated_frac": 0.36363636363636365,
+          "component_frac": 0.45454545454545453,
+          "lcc_frac": 0.6363636363636364
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.9191,
+          "cohesion": -0.7478
+        },
+        "fallback": false,
+        "elapsed_ms": 13.421
+      }
+    },
+    {
+      "doc_id": 40,
+      "score": 0.5666666666666667,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 16,
+        "n_context": 16,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 929,
+        "n_entities": 16,
+        "egonet": {
+          "n_nodes": 16.0,
+          "n_edges": 27.0,
+          "isolated_frac": 0.1875,
+          "component_frac": 0.25,
+          "lcc_frac": 0.8125
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.8852,
+          "cohesion": 0.0632
+        },
+        "fallback": false,
+        "elapsed_ms": 28.535
+      }
+    },
+    {
+      "doc_id": 200,
+      "score": 0.0,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 9,
+        "n_context": 9,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 894,
+        "n_entities": 9,
+        "egonet": {
+          "n_nodes": 9.0,
+          "n_edges": 25.0,
+          "isolated_frac": 0.0,
+          "component_frac": 0.1111111111111111,
+          "lcc_frac": 1.0
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -2.2656,
+          "blockodds": -0.5203,
+          "cohesion": 0.6675
+        },
+        "fallback": false,
+        "elapsed_ms": 10.257
+      }
+    },
+    {
+      "doc_id": 313,
+      "score": 0.5,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 16,
+        "n_context": 16,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 841,
+        "n_entities": 16,
+        "egonet": {
+          "n_nodes": 16.0,
+          "n_edges": 27.0,
+          "isolated_frac": 0.1875,
+          "component_frac": 0.25,
+          "lcc_frac": 0.8125
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.6647,
+          "cohesion": 0.0632
+        },
+        "fallback": false,
+        "elapsed_ms": 29.048
+      }
+    },
+    {
+      "doc_id": 331,
+      "score": 0.5,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 15,
+        "n_context": 15,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 876,
+        "n_entities": 15,
+        "egonet": {
+          "n_nodes": 15.0,
+          "n_edges": 22.0,
+          "isolated_frac": 0.26666666666666666,
+          "component_frac": 0.3333333333333333,
+          "lcc_frac": 0.7333333333333333
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.5312,
+          "cohesion": -0.0574
+        },
+        "fallback": false,
+        "elapsed_ms": 25.26
+      }
+    },
+    {
+      "doc_id": 49,
+      "score": 0.9,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 16,
+        "n_context": 16,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1354,
+        "n_entities": 16,
+        "egonet": {
+          "n_nodes": 16.0,
+          "n_edges": 25.0,
+          "isolated_frac": 0.0625,
+          "component_frac": 0.125,
+          "lcc_frac": 0.9375
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2484,
+          "blockodds": 1.0121,
+          "cohesion": -0.0109
+        },
+        "fallback": false,
+        "elapsed_ms": 29.271
+      }
+    },
+    {
+      "doc_id": 289,
+      "score": 0.9,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 17,
+        "n_context": 17,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 907,
+        "n_entities": 17,
+        "egonet": {
+          "n_nodes": 17.0,
+          "n_edges": 39.0,
+          "isolated_frac": 0.17647058823529413,
+          "component_frac": 0.23529411764705882,
+          "lcc_frac": 0.8235294117647058
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.0298,
+          "cohesion": 0.3484
+        },
+        "fallback": false,
+        "elapsed_ms": 31.721
+      }
+    },
+    {
+      "doc_id": 316,
+      "score": 0.5,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 14,
+        "n_context": 14,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1102,
+        "n_entities": 14,
+        "egonet": {
+          "n_nodes": 14.0,
+          "n_edges": 23.0,
+          "isolated_frac": 0.14285714285714285,
+          "component_frac": 0.21428571428571427,
+          "lcc_frac": 0.8571428571428571
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.8321,
+          "cohesion": 0.0665
+        },
+        "fallback": false,
+        "elapsed_ms": 21.856
+      }
+    },
+    {
+      "doc_id": 282,
+      "score": 0.06666666666666667,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 14,
+        "n_context": 14,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1217,
+        "n_entities": 14,
+        "egonet": {
+          "n_nodes": 14.0,
+          "n_edges": 36.0,
+          "isolated_frac": 0.0,
+          "component_frac": 0.07142857142857142,
+          "lcc_frac": 1.0
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.353,
+          "blockodds": -0.3323,
+          "cohesion": 0.4993
+        },
+        "fallback": false,
+        "elapsed_ms": 22.871
+      }
+    },
+    {
+      "doc_id": 56,
+      "score": 0.7333333333333333,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 14,
+        "n_context": 14,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1021,
+        "n_entities": 14,
+        "egonet": {
+          "n_nodes": 14.0,
+          "n_edges": 12.0,
+          "isolated_frac": 0.21428571428571427,
+          "component_frac": 0.42857142857142855,
+          "lcc_frac": 0.5
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.6816,
+          "cohesion": -0.5466
+        },
+        "fallback": false,
+        "elapsed_ms": 21.882
+      }
+    },
+    {
+      "doc_id": 154,
+      "score": 1.0,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 14,
+        "n_context": 14,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 940,
+        "n_entities": 14,
+        "egonet": {
+          "n_nodes": 14.0,
+          "n_edges": 18.0,
+          "isolated_frac": 0.35714285714285715,
+          "component_frac": 0.42857142857142855,
+          "lcc_frac": 0.6428571428571429
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 1.0892,
+          "cohesion": -0.1671
+        },
+        "fallback": false,
+        "elapsed_ms": 22.774
+      }
+    },
+    {
+      "doc_id": 166,
+      "score": 0.5666666666666667,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 11,
+        "n_context": 11,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1147,
+        "n_entities": 11,
+        "egonet": {
+          "n_nodes": 11.0,
+          "n_edges": 21.0,
+          "isolated_frac": 0.18181818181818182,
+          "component_frac": 0.2727272727272727,
+          "lcc_frac": 0.8181818181818182
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.9384,
+          "cohesion": 0.2638
+        },
+        "fallback": false,
+        "elapsed_ms": 14.8
+      }
+    },
+    {
+      "doc_id": 65,
+      "score": 0.4,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 18,
+        "n_context": 18,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 958,
+        "n_entities": 18,
+        "egonet": {
+          "n_nodes": 18.0,
+          "n_edges": 47.0,
+          "isolated_frac": 0.05555555555555555,
+          "component_frac": 0.16666666666666666,
+          "lcc_frac": 0.8333333333333334
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.8563,
+          "cohesion": 0.4633
+        },
+        "fallback": false,
+        "elapsed_ms": 36.849
+      }
+    },
+    {
+      "doc_id": 259,
+      "score": 0.3333333333333333,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 21,
+        "n_context": 21,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 898,
+        "n_entities": 21,
+        "egonet": {
+          "n_nodes": 21.0,
+          "n_edges": 64.0,
+          "isolated_frac": 0.047619047619047616,
+          "component_frac": 0.09523809523809523,
+          "lcc_frac": 0.9523809523809523
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2484,
+          "blockodds": 0.5312,
+          "cohesion": 0.5848
+        },
+        "fallback": false,
+        "elapsed_ms": 50.188
+      }
+    },
+    {
+      "doc_id": 98,
+      "score": 0.5333333333333333,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 10,
+        "n_context": 10,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 886,
+        "n_entities": 10,
+        "egonet": {
+          "n_nodes": 10.0,
+          "n_edges": 14.0,
+          "isolated_frac": 0.1,
+          "component_frac": 0.2,
+          "lcc_frac": 0.9
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2484,
+          "blockodds": 0.8466,
+          "cohesion": -0.0068
+        },
+        "fallback": false,
+        "elapsed_ms": 12.016
+      }
+    },
+    {
+      "doc_id": 263,
+      "score": 0.23333333333333334,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 8,
+        "n_context": 8,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1003,
+        "n_entities": 8,
+        "egonet": {
+          "n_nodes": 8.0,
+          "n_edges": 18.0,
+          "isolated_frac": 0.125,
+          "component_frac": 0.25,
+          "lcc_frac": 0.875
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2836,
+          "blockodds": 0.1203,
+          "cohesion": 0.4927
+        },
+        "fallback": false,
+        "elapsed_ms": 8.423
+      }
+    },
+    {
+      "doc_id": 283,
+      "score": 0.3333333333333333,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 15,
+        "n_context": 15,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1287,
+        "n_entities": 15,
+        "egonet": {
+          "n_nodes": 15.0,
+          "n_edges": 36.0,
+          "isolated_frac": 0.06666666666666667,
+          "component_frac": 0.13333333333333333,
+          "lcc_frac": 0.9333333333333333
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.2386,
+          "cohesion": 0.418
+        },
+        "fallback": false,
+        "elapsed_ms": 26.022
+      }
+    },
+    {
+      "doc_id": 97,
+      "score": 0.7333333333333333,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 11,
+        "n_context": 11,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 927,
+        "n_entities": 11,
+        "egonet": {
+          "n_nodes": 11.0,
+          "n_edges": 15.0,
+          "isolated_frac": 0.2727272727272727,
+          "component_frac": 0.36363636363636365,
+          "lcc_frac": 0.7272727272727273
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.9191,
+          "cohesion": -0.0546
+        },
+        "fallback": false,
+        "elapsed_ms": 14.225
+      }
+    },
+    {
+      "doc_id": 101,
+      "score": 0.43333333333333335,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 18,
+        "n_context": 18,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1051,
+        "n_entities": 18,
+        "egonet": {
+          "n_nodes": 18.0,
+          "n_edges": 35.0,
+          "isolated_frac": 0.3333333333333333,
+          "component_frac": 0.3888888888888889,
+          "lcc_frac": 0.6666666666666666
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.3462,
+          "cohesion": 0.1756
+        },
+        "fallback": false,
+        "elapsed_ms": 35.998
+      }
+    },
+    {
+      "doc_id": 253,
+      "score": 0.4,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 18,
+        "n_context": 18,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1080,
+        "n_entities": 18,
+        "egonet": {
+          "n_nodes": 18.0,
+          "n_edges": 53.0,
+          "isolated_frac": 0.1111111111111111,
+          "component_frac": 0.16666666666666666,
+          "lcc_frac": 0.8888888888888888
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.3001,
+          "blockodds": 0.8922,
+          "cohesion": 0.5811
+        },
+        "fallback": false,
+        "elapsed_ms": 38.121
+      }
+    },
+    {
+      "doc_id": 81,
+      "score": 0.9666666666666667,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 9,
+        "n_context": 9,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 990,
+        "n_entities": 9,
+        "egonet": {
+          "n_nodes": 9.0,
+          "n_edges": 3.0,
+          "isolated_frac": 0.6666666666666666,
+          "component_frac": 0.7777777777777778,
+          "lcc_frac": 0.3333333333333333
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.6877,
+          "cohesion": -1.2043
+        },
+        "fallback": false,
+        "elapsed_ms": 9.699
+      }
+    },
+    {
+      "doc_id": 130,
+      "score": 0.5666666666666667,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 21,
+        "n_context": 21,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 946,
+        "n_entities": 21,
+        "egonet": {
+          "n_nodes": 21.0,
+          "n_edges": 55.0,
+          "isolated_frac": 0.23809523809523808,
+          "component_frac": 0.2857142857142857,
+          "lcc_frac": 0.7619047619047619
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2562,
+          "blockodds": 0.9694,
+          "cohesion": 0.4357
+        },
+        "fallback": false,
+        "elapsed_ms": 50.023
+      }
+    },
+    {
+      "doc_id": 213,
+      "score": 0.16666666666666666,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 16,
+        "n_context": 16,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1057,
+        "n_entities": 16,
+        "egonet": {
+          "n_nodes": 16.0,
+          "n_edges": 42.0,
+          "isolated_frac": 0.0625,
+          "component_frac": 0.125,
+          "lcc_frac": 0.9375
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.3069,
+          "blockodds": 0.2131,
+          "cohesion": 0.4922
+        },
+        "fallback": false,
+        "elapsed_ms": 29.576
+      }
+    },
+    {
+      "doc_id": 229,
+      "score": 0.43333333333333335,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 14,
+        "n_context": 14,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 946,
+        "n_entities": 14,
+        "egonet": {
+          "n_nodes": 14.0,
+          "n_edges": 26.0,
+          "isolated_frac": 0.14285714285714285,
+          "component_frac": 0.21428571428571427,
+          "lcc_frac": 0.8571428571428571
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2836,
+          "blockodds": 0.6274,
+          "cohesion": 0.1843
+        },
+        "fallback": false,
+        "elapsed_ms": 22.845
+      }
+    },
+    {
+      "doc_id": 22,
+      "score": 0.8,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 8,
+        "n_context": 8,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 923,
+        "n_entities": 8,
+        "egonet": {
+          "n_nodes": 8.0,
+          "n_edges": 3.0,
+          "isolated_frac": 0.375,
+          "component_frac": 0.625,
+          "lcc_frac": 0.375
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.0,
+          "blockodds": 0.7086,
+          "cohesion": -1.0655
+        },
+        "fallback": false,
+        "elapsed_ms": 7.31
+      }
+    },
+    {
+      "doc_id": 115,
+      "score": 0.3333333333333333,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 14,
+        "n_context": 14,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 843,
+        "n_entities": 14,
+        "egonet": {
+          "n_nodes": 14.0,
+          "n_edges": 44.0,
+          "isolated_frac": 0.07142857142857142,
+          "component_frac": 0.14285714285714285,
+          "lcc_frac": 0.9285714285714286
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.3001,
+          "blockodds": 0.8156,
+          "cohesion": 0.6951
+        },
+        "fallback": false,
+        "elapsed_ms": 24.33
+      }
+    },
+    {
+      "doc_id": 296,
+      "score": 0.1,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 15,
+        "n_context": 15,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1096,
+        "n_entities": 15,
+        "egonet": {
+          "n_nodes": 15.0,
+          "n_edges": 46.0,
+          "isolated_frac": 0.13333333333333333,
+          "component_frac": 0.2,
+          "lcc_frac": 0.8666666666666667
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2836,
+          "blockodds": 0.1203,
+          "cohesion": 0.6572
+        },
+        "fallback": false,
+        "elapsed_ms": 26.247
+      }
+    },
+    {
+      "doc_id": 338,
+      "score": 0.7333333333333333,
+      "poisoned": false,
+      "meta": {
+        "n_focus": 12,
+        "n_context": 12,
+        "n_inserted": null,
+        "n_removed": null,
+        "doc_len": 1047,
+        "n_entities": 12,
+        "egonet": {
+          "n_nodes": 12.0,
+          "n_edges": 15.0,
+          "isolated_frac": 0.08333333333333333,
+          "component_frac": 0.16666666666666666,
+          "lcc_frac": 0.9166666666666666
+        },
+        "abstained": [
+          "dist"
+        ],
+        "signals": {
+          "dist": 0.0,
+          "support": -0.2531,
+          "blockodds": 0.9023,
+          "cohesion": -0.1572
+        },
+        "fallback": false,
+        "elapsed_ms": 16.866
+      }
+    }
+  ],
+  "records_edit": []
+}

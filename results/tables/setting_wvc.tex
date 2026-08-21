@@ -1,0 +1,30 @@
+\begin{table}[t]
+  \centering
+  \scriptsize
+  \setlength{\tabcolsep}{2.5pt}
+  \begin{tabular}{lrrrrrrrrrrrr}
+    \toprule
+    & \multicolumn{6}{c}{n mode} & \multicolumn{6}{c}{dva mode} \\
+    \cmidrule(lr){2-7} \cmidrule(lr){8-13}
+    \textbf{Detector} & \multicolumn{1}{c}{AUC} & \multicolumn{1}{c}{Recall} & \multicolumn{1}{c}{Precision} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c}{Informedness} & \multicolumn{1}{c}{MCC} & \multicolumn{1}{c}{AUC} & \multicolumn{1}{c}{Recall} & \multicolumn{1}{c}{Precision} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c}{Informedness} & \multicolumn{1}{c}{MCC} \\
+    \midrule
+    \multicolumn{13}{l}{\textit{document-level}} \\
+    Rand & 0.495 & 0.880 & 0.516 & 0.651 & 0.056 & 0.079 & -- & -- & -- & -- & -- & -- \\
+    Rand1 & 0.507 & 0.364 & 0.542 & 0.435 & 0.056 & 0.059 & -- & -- & -- & -- & -- & -- \\
+    Perp & 0.926 & 0.928 & 0.806 & 0.862 & 0.704 & 0.712 & 0.967 & 0.960 & 0.956 & 0.958 & 0.916 & 0.916 \\
+    LLMaaJ & \textbf{0.993} & \textbf{0.952} & 0.983 & \textbf{0.967} & \textbf{0.936} & \textbf{0.936} & \textbf{1.000} & \textbf{0.992} & \textbf{1.000} & \textbf{0.996} & \textbf{0.992} & \textbf{0.992} \\
+    \addlinespace
+    \multicolumn{13}{l}{\textit{embedding-aware}} \\
+    EmbO & 0.581 & 0.524 & 0.572 & 0.547 & 0.132 & 0.132 & 0.993 & 0.988 & 0.988 & 0.988 & 0.976 & 0.976 \\
+    NLIC & 0.479 & 0.192 & 0.800 & 0.310 & 0.144 & 0.222 & 0.923 & 0.848 & 0.930 & 0.887 & 0.784 & 0.787 \\
+    \addlinespace
+    \multicolumn{13}{l}{\textit{grag-aware}} \\
+    GNLIC & 0.590 & 0.304 & 0.835 & 0.446 & 0.244 & 0.316 & -- & -- & -- & -- & -- & -- \\
+    GRAGaaJ & 0.990 & 0.916 & \textbf{0.991} & 0.952 & 0.908 & 0.910 & 0.911 & 0.482 & 0.774 & 0.594 & 0.341 & 0.368 \\
+    GTopo & 0.417 & 0.032 & 0.727 & 0.061 & 0.020 & 0.068 & 0.371 & 0.064 & 0.727 & 0.118 & 0.040 & 0.098 \\
+    GTopo2 & 0.401 & 0.044 & 0.244 & 0.075 & -0.092 & -0.161 & 0.602 & 0.000 & 0.000 & 0.000 & -0.068 & -0.188 \\
+    \bottomrule
+  \end{tabular}
+  \caption{All detectors on the wvc setting, grouped by awareness category. Best value per column in bold; chance baselines excluded from the comparison. Threshold-dependent metrics use the threshold tuned on the training split.}
+  \label{tab:setting-wvc}
+\end{table}

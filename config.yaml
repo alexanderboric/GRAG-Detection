@@ -1,0 +1,83 @@
+logging:
+  verbosity: "debug"
+
+graphrag_test: False
+visualize_graph: False
+attack: True # run the LogicPoison attack against synthetic_dataset before optimize+benchmark - see attack_config below
+
+benchmark:
+  run: True
+  ingest_detected: "none" # no real per-doc ingestion this run - grag-aware detectors score against the already-indexed static corpus, trading the live-ingestion realism for speed
+  datasets: ["synthetic_dataset"] # dataset names or "all" - scoped to just synthetic_dataset for this run (parametric-knowledge experiment); wvc/graphrag_under_fire/logicpoison disabled below so this run stays small and fast. Flip back to ["wvc"] (and re-enable the others) to resume the main sweep.
+  versioning: False
+  detectors: [rand,rand1,perplexity_filtering,llm_as_a_judge,embedding_outlier,nli_contradiction,gnlic,grag_as_a_judge,gtopo,gtopo2] # grag_contradiction excluded for now - shows a length-confound-driven inversion worth investigating separately, not worth more tuning time tonight
+  n: 250 # bumped from 100: at 100/100 a bootstrap 95% CI on AUC is ~0.16 wide (gtopo 0.499 [0.416,0.580]), which leaves gnlic-vs-rand and similar near-chance comparisons unresolvable. 250 narrows that to ~0.10 (CI width scales 1/sqrt(n)). Pools allow it: 747 LogicPoison diffs and 809 WVC regular-edit clean diffs, so 250+50 val is well clear of both. WVC passes exclude_test_docs=False, so no index rebuild is triggered by the larger split. Irrelevant to synthetic_dataset, which overrides n/val_size in its own block below (only 40 total edits available).
+  out_dir: "results/charts/"
+  records_dir: "results/detector_records/" # where each detector's raw (doc, score, true label) records get saved
+  detect_insertions: True  # both n and dva mode optimized+run for wvc; LogicPoison-only datasets reuse both
+  detect_edits: True
+  logicpoison_only_datasets: []  # musique/hotpotqa disabled for this synthetic_dataset-only run - was ["musique", "hotpotqa"], see _run_logicpoison_no_negatives()
+  optimize_threshold: True  # if true, each detector auto-picks its threshold (via ROC/Youden's J) from its own collected records instead of using its hardcoded default
+  prompt_variants_path: "results/detector_best_params/prompt_variants.json" # cross-dataset-selected prompt variant for llm_as_a_judge/grag_as_a_judge - see scripts/select_prompt_variant.py. Not part of optimize_params: prompt choice is a single fixed deployment decision, never tuned per dataset/attack type.
+  optimize_params:
+    enabled: True      # turned back on for the synthetic_dataset v2 run (200 diffs now, vs 40 before) - was False when the pool was too small to tune without overfitting. Global flag, but this run's datasets: [synthetic_dataset] and everything else is disabled below, so only synthetic_dataset's Optuna study actually runs.
+    n_trials: 30 # left at 30 deliberately: every n-mode study so far finished in 6-20 trials because GridSampler exhausts the search space (see optimize_detector_params) - the budget was never the binding constraint, the validation split was.
+    val_size: 30 # synthetic_dataset's own val_size override below (30) takes precedence via the val_size=val_size fix in run_benchmark's two in-loop _optimize_detector_params calls - this global default just needs to match it so nothing silently reads the old 50 (there is no wvc/GUF run happening this session to care about the global value instead).
+    best_params_dir: "results/detector_best_params/"  # results saved as <dir>/<dataset>_n.json and <dir>/<dataset>_dva.json (separately tuned per mode), trial history under <dir>/<dataset>_<mode>_trials/
+    force_reoptimize: True  # fresh corpus (350 docs vs 100, 200 diffs vs 40) - must re-tune from scratch, nothing cached for synthetic_dataset yet anyway.
+  # document_length_sweep:
+  #   enabled: false
+  #   lengths: [100, 500, 1000, 1500, 2500, 3000]
+  #   n_per_length: 50
+  wvc:
+    enabled: false # disabled for this synthetic_dataset-only run (was true) - flip back to true when resuming the main wvc sweep
+    corpus_path: "datasets/pan-wikipedia-vandalism-corpus-2010"
+    data_root: "datasets/wvc"
+    input_dir: "grag-data/input/wvc"
+    categories: []          # empty list = all categories; e.g. ["Category:Association football"] - ignored when category_pattern is set
+    category_pattern: "footballer|association football" # regex over category names - pulls in the whole topically-coherent football cluster (748 articles across ~1238 sub-category tags: position, nationality, club, expatriate status, etc.) instead of a random cross-topic sample
+    subset_size: null       # null = use the full category_pattern match (748 articles), no further downsampling
+    reindex: false      # football-cluster corpus already built and indexed - leave false so stage C doesn't accidentally trigger another multi-hour rebuild
+  graphrag_under_fire:
+    enabled: False  # disabled for this synthetic_dataset-only run (was True) - flip back to True when resuming the main sweep - see _run_graphrag_under_fire()
+    attack_types: ["direct", "indirect", "enhanced"]  # which corpus_<type>.jsonl files to benchmark (see setup_dataset.py)
+    poisoned_dir: "results/poisoned_data/graphrag_under_fire"
+    n: 150        # override benchmark.n - the clean corpus is only 208 documents (poisoned: 222/attack type), so 150+50 uses 200 of 208 and is the most this dataset can give. Was 60, where the CI on AUC ran ~0.21 wide.
+    val_size: 50  # override optimize_params.val_size; lowered from 60 to buy the benchmark split those documents instead - the reported AUC is what the thesis quotes, and 50 matches the global val_size anyway
+  synthetic_dataset:
+    enabled: true  # synthetic fictional-world dataset for the parametric-knowledge experiment: 350
+    # tiny (~100-300 word) documents about entirely invented entities/facts (fictional nations
+    # Vantessa/Kallith Reach/Ostrelle and their people/organizations/places/events - see the world
+    # bible in scripts/synthetic_dataset_generation/world_bible.py / generate.py), so no LLM judge
+    # can lean on pretraining knowledge to fact-check an edit. Poisoned edits now come from the
+    # regular LogicPoison attack pipeline (attack_config below), same as wvc/hotpotqa/musique,
+    # instead of the earlier hand-authored poisoned half of diffs.jsonl - real entity-swap
+    # poisoning against a corpus small enough that no LLM in its pretraining data has ever seen
+    # these entities. The clean class still comes from diffs.jsonl's LLM-authored "legit" half
+    # (same role as wvc's real non-vandalism edit pool - see benchmark.py's synthetic_dataset
+    # branch): the attack poisons ~all of this small, self-referential corpus's high-frequency
+    # entities, so untouched documents aren't a usable negative pool here either.
+    diffs_path: "grag-data/input/synthetic_dataset/diffs.jsonl"  # only the is_vandalism=false half is read now - the true half comes from the attack instead.
+    n: 70         # override benchmark.n - 100 legit diffs/class available; the attack's poisoned pool size is only known once it has run, and benchmark.py slices [:n] so a smaller pool just yields fewer than 70 poisoned.
+    val_size: 30  # override optimize_params.val_size - see n above.
+
+
+attack_config: # parameters passed to the attack script from the LogicPoison paper
+  stages: ["global", "logic"]           # choices: all, global, query, logic - synthetic_dataset has no queries.jsonl (only wvc/hotpotqa/musique do), so "query" is left out here: scripts/attack.py's ensure_queries_entities() synthesizes a stub queries_entities file from corpus stats instead, which is what "logic" actually needs. Restore "query" when scoping this back to wvc.
+  datasets: ["synthetic_dataset"]    # dataset names or "all" - scoped to just synthetic_dataset for this run; was ["wvc"]. scripts/attack.py's ensure_datasets_visible() symlinks it into data_root from grag-data/input/synthetic_dataset/ since it isn't part of the logicPoison_original_Dataset submodule.
+  data_root: "datasets/logicPoison_original_Dataset"
+  corpus_entities_root: "results/corpus_entities"
+  queries_entities_root: "results/queries_entities"
+  poisoned_root: "results/poisoned_data"
+  batch_size: 32
+  query_model: "Llama-3.3-70B" # requested query model from the api
+  max_workers: 8
+  queue_factor: 4
+  top_ratio: 0.01
+  force: False #attack, even when previous results from attack exist
+
+# used for versioning
+repo_root: "" 
+tracked_folders:
+  - "grag-data/input"
+  - "grag-data/output"

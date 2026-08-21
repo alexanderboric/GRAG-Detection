@@ -1,0 +1,1271 @@
+{
+  "detector": "rand1",
+  "threshold": 0.5,
+  "threshold_edit": 0.5,
+  "optimize_threshold": false,
+  "coverage": {
+    "n_total": 250,
+    "n_fallback": 0,
+    "n_fallback_poisoned": 0,
+    "n_fallback_clean": 0
+  },
+  "coverage_edit": {
+    "n_total": 0,
+    "n_fallback": 0,
+    "n_fallback_poisoned": 0,
+    "n_fallback_clean": 0
+  },
+  "records": [
+    {
+      "doc_id": 0,
+      "score": 0.06262665023628089,
+      "poisoned": true
+    },
+    {
+      "doc_id": 1,
+      "score": 0.6497954250668899,
+      "poisoned": true
+    },
+    {
+      "doc_id": 2,
+      "score": 0.986500189083055,
+      "poisoned": true
+    },
+    {
+      "doc_id": 3,
+      "score": 0.18768441642964606,
+      "poisoned": true
+    },
+    {
+      "doc_id": 4,
+      "score": 0.4672886052066052,
+      "poisoned": true
+    },
+    {
+      "doc_id": 5,
+      "score": 0.012497494221743066,
+      "poisoned": true
+    },
+    {
+      "doc_id": 6,
+      "score": 0.2520491060609442,
+      "poisoned": true
+    },
+    {
+      "doc_id": 7,
+      "score": 0.9088185157380487,
+      "poisoned": true
+    },
+    {
+      "doc_id": 8,
+      "score": 0.13739080686757743,
+      "poisoned": true
+    },
+    {
+      "doc_id": 9,
+      "score": 0.08879466013220294,
+      "poisoned": true
+    },
+    {
+      "doc_id": 10,
+      "score": 0.7349578271644821,
+      "poisoned": true
+    },
+    {
+      "doc_id": 11,
+      "score": 0.9559353340828747,
+      "poisoned": true
+    },
+    {
+      "doc_id": 12,
+      "score": 0.9503148918156532,
+      "poisoned": true
+    },
+    {
+      "doc_id": 13,
+      "score": 0.7107952650637684,
+      "poisoned": true
+    },
+    {
+      "doc_id": 14,
+      "score": 0.11545754100942518,
+      "poisoned": true
+    },
+    {
+      "doc_id": 15,
+      "score": 0.9200609824625668,
+      "poisoned": true
+    },
+    {
+      "doc_id": 16,
+      "score": 0.3947855532793303,
+      "poisoned": true
+    },
+    {
+      "doc_id": 18,
+      "score": 0.9241676990746587,
+      "poisoned": true
+    },
+    {
+      "doc_id": 19,
+      "score": 0.1583395019496473,
+      "poisoned": true
+    },
+    {
+      "doc_id": 20,
+      "score": 0.42658165680544446,
+      "poisoned": true
+    },
+    {
+      "doc_id": 21,
+      "score": 0.5852592309897734,
+      "poisoned": true
+    },
+    {
+      "doc_id": 22,
+      "score": 0.7173760800656622,
+      "poisoned": true
+    },
+    {
+      "doc_id": 23,
+      "score": 0.7272678664763712,
+      "poisoned": true
+    },
+    {
+      "doc_id": 24,
+      "score": 0.2739564414242779,
+      "poisoned": true
+    },
+    {
+      "doc_id": 25,
+      "score": 0.4554734768230051,
+      "poisoned": true
+    },
+    {
+      "doc_id": 26,
+      "score": 0.4870880876412369,
+      "poisoned": true
+    },
+    {
+      "doc_id": 27,
+      "score": 0.7686594382935978,
+      "poisoned": true
+    },
+    {
+      "doc_id": 28,
+      "score": 0.25842889244376455,
+      "poisoned": true
+    },
+    {
+      "doc_id": 29,
+      "score": 0.35209888574630843,
+      "poisoned": true
+    },
+    {
+      "doc_id": 30,
+      "score": 0.9428046969289947,
+      "poisoned": true
+    },
+    {
+      "doc_id": 31,
+      "score": 0.19951977904857243,
+      "poisoned": true
+    },
+    {
+      "doc_id": 32,
+      "score": 0.16145059091890024,
+      "poisoned": true
+    },
+    {
+      "doc_id": 33,
+      "score": 0.3831381758008017,
+      "poisoned": true
+    },
+    {
+      "doc_id": 34,
+      "score": 0.20247862814835482,
+      "poisoned": true
+    },
+    {
+      "doc_id": 35,
+      "score": 0.023748036398951733,
+      "poisoned": true
+    },
+    {
+      "doc_id": 36,
+      "score": 0.32287618106193916,
+      "poisoned": true
+    },
+    {
+      "doc_id": 37,
+      "score": 0.11230581796833827,
+      "poisoned": true
+    },
+    {
+      "doc_id": 38,
+      "score": 0.35025923058705877,
+      "poisoned": true
+    },
+    {
+      "doc_id": 39,
+      "score": 0.4853212001972854,
+      "poisoned": true
+    },
+    {
+      "doc_id": 40,
+      "score": 0.2108790132991376,
+      "poisoned": true
+    },
+    {
+      "doc_id": 41,
+      "score": 0.24998487437615557,
+      "poisoned": true
+    },
+    {
+      "doc_id": 42,
+      "score": 0.14817420375964596,
+      "poisoned": true
+    },
+    {
+      "doc_id": 43,
+      "score": 0.13486289965382725,
+      "poisoned": true
+    },
+    {
+      "doc_id": 44,
+      "score": 0.992148281413608,
+      "poisoned": true
+    },
+    {
+      "doc_id": 45,
+      "score": 0.0308872667198814,
+      "poisoned": true
+    },
+    {
+      "doc_id": 46,
+      "score": 0.1811432576696551,
+      "poisoned": true
+    },
+    {
+      "doc_id": 47,
+      "score": 0.0033451245001856478,
+      "poisoned": true
+    },
+    {
+      "doc_id": 48,
+      "score": 0.06701985745094852,
+      "poisoned": true
+    },
+    {
+      "doc_id": 50,
+      "score": 0.8189882386320071,
+      "poisoned": true
+    },
+    {
+      "doc_id": 51,
+      "score": 0.7097198348310567,
+      "poisoned": true
+    },
+    {
+      "doc_id": 52,
+      "score": 0.952867174954691,
+      "poisoned": true
+    },
+    {
+      "doc_id": 53,
+      "score": 0.038765703285417286,
+      "poisoned": true
+    },
+    {
+      "doc_id": 54,
+      "score": 0.1542866571218916,
+      "poisoned": true
+    },
+    {
+      "doc_id": 55,
+      "score": 0.35636660026144396,
+      "poisoned": true
+    },
+    {
+      "doc_id": 56,
+      "score": 0.2496518232425372,
+      "poisoned": true
+    },
+    {
+      "doc_id": 57,
+      "score": 0.9731428999154388,
+      "poisoned": true
+    },
+    {
+      "doc_id": 58,
+      "score": 0.5945868233714847,
+      "poisoned": true
+    },
+    {
+      "doc_id": 59,
+      "score": 0.19003971500303984,
+      "poisoned": true
+    },
+    {
+      "doc_id": 60,
+      "score": 0.34376759345833674,
+      "poisoned": true
+    },
+    {
+      "doc_id": 61,
+      "score": 0.899775445265697,
+      "poisoned": true
+    },
+    {
+      "doc_id": 62,
+      "score": 0.6734292155508198,
+      "poisoned": true
+    },
+    {
+      "doc_id": 63,
+      "score": 0.11883039637950743,
+      "poisoned": true
+    },
+    {
+      "doc_id": 64,
+      "score": 0.7031194879744125,
+      "poisoned": true
+    },
+    {
+      "doc_id": 65,
+      "score": 0.53540175663485,
+      "poisoned": true
+    },
+    {
+      "doc_id": 66,
+      "score": 0.31117527412295054,
+      "poisoned": true
+    },
+    {
+      "doc_id": 67,
+      "score": 0.8934240945993616,
+      "poisoned": true
+    },
+    {
+      "doc_id": 68,
+      "score": 0.8210919114525236,
+      "poisoned": true
+    },
+    {
+      "doc_id": 69,
+      "score": 0.43122488988062413,
+      "poisoned": true
+    },
+    {
+      "doc_id": 70,
+      "score": 0.49377436453676593,
+      "poisoned": true
+    },
+    {
+      "doc_id": 71,
+      "score": 0.35655485181980506,
+      "poisoned": true
+    },
+    {
+      "doc_id": 72,
+      "score": 0.2533519261368218,
+      "poisoned": true
+    },
+    {
+      "doc_id": 73,
+      "score": 0.9550119376113345,
+      "poisoned": true
+    },
+    {
+      "doc_id": 74,
+      "score": 0.8362494286404705,
+      "poisoned": true
+    },
+    {
+      "doc_id": 75,
+      "score": 0.23417032288036188,
+      "poisoned": true
+    },
+    {
+      "doc_id": 76,
+      "score": 0.14846209834292878,
+      "poisoned": true
+    },
+    {
+      "doc_id": 77,
+      "score": 0.32036558347645505,
+      "poisoned": true
+    },
+    {
+      "doc_id": 78,
+      "score": 0.7400794650979882,
+      "poisoned": true
+    },
+    {
+      "doc_id": 79,
+      "score": 0.16514759432804116,
+      "poisoned": true
+    },
+    {
+      "doc_id": 80,
+      "score": 0.5763986180781302,
+      "poisoned": true
+    },
+    {
+      "doc_id": 81,
+      "score": 0.9309055007778373,
+      "poisoned": true
+    },
+    {
+      "doc_id": 82,
+      "score": 0.21983787970592572,
+      "poisoned": true
+    },
+    {
+      "doc_id": 83,
+      "score": 0.2250775780100951,
+      "poisoned": true
+    },
+    {
+      "doc_id": 84,
+      "score": 0.31052447325889343,
+      "poisoned": true
+    },
+    {
+      "doc_id": 85,
+      "score": 0.4302564996945717,
+      "poisoned": true
+    },
+    {
+      "doc_id": 86,
+      "score": 0.10827795579156174,
+      "poisoned": true
+    },
+    {
+      "doc_id": 87,
+      "score": 0.9320216331383017,
+      "poisoned": true
+    },
+    {
+      "doc_id": 88,
+      "score": 0.3992876743218913,
+      "poisoned": true
+    },
+    {
+      "doc_id": 89,
+      "score": 0.022650009656789538,
+      "poisoned": true
+    },
+    {
+      "doc_id": 90,
+      "score": 0.05586799992264768,
+      "poisoned": true
+    },
+    {
+      "doc_id": 91,
+      "score": 0.9797479082997991,
+      "poisoned": true
+    },
+    {
+      "doc_id": 92,
+      "score": 0.8063544711321685,
+      "poisoned": true
+    },
+    {
+      "doc_id": 93,
+      "score": 0.3414441051070014,
+      "poisoned": true
+    },
+    {
+      "doc_id": 94,
+      "score": 0.16754958934247488,
+      "poisoned": true
+    },
+    {
+      "doc_id": 95,
+      "score": 0.9884625227767865,
+      "poisoned": true
+    },
+    {
+      "doc_id": 96,
+      "score": 0.043667176334629576,
+      "poisoned": true
+    },
+    {
+      "doc_id": 97,
+      "score": 0.8962296310867968,
+      "poisoned": true
+    },
+    {
+      "doc_id": 98,
+      "score": 0.02919216983304529,
+      "poisoned": true
+    },
+    {
+      "doc_id": 99,
+      "score": 0.7114850819623882,
+      "poisoned": true
+    },
+    {
+      "doc_id": 100,
+      "score": 0.2862277254496206,
+      "poisoned": true
+    },
+    {
+      "doc_id": 102,
+      "score": 0.37122045953941296,
+      "poisoned": true
+    },
+    {
+      "doc_id": 103,
+      "score": 0.17703889282766583,
+      "poisoned": true
+    },
+    {
+      "doc_id": 104,
+      "score": 0.9613798291983999,
+      "poisoned": true
+    },
+    {
+      "doc_id": 105,
+      "score": 0.28102465906576657,
+      "poisoned": true
+    },
+    {
+      "doc_id": 106,
+      "score": 0.6156343814501252,
+      "poisoned": true
+    },
+    {
+      "doc_id": 107,
+      "score": 0.07164204795064355,
+      "poisoned": true
+    },
+    {
+      "doc_id": 108,
+      "score": 0.9003617405902572,
+      "poisoned": true
+    },
+    {
+      "doc_id": 109,
+      "score": 0.5253999620962686,
+      "poisoned": true
+    },
+    {
+      "doc_id": 110,
+      "score": 0.9306581506955965,
+      "poisoned": true
+    },
+    {
+      "doc_id": 111,
+      "score": 0.49364456436982507,
+      "poisoned": true
+    },
+    {
+      "doc_id": 112,
+      "score": 0.5464846969438618,
+      "poisoned": true
+    },
+    {
+      "doc_id": 113,
+      "score": 0.7389491049215444,
+      "poisoned": true
+    },
+    {
+      "doc_id": 114,
+      "score": 0.5862696813528748,
+      "poisoned": true
+    },
+    {
+      "doc_id": 115,
+      "score": 0.05255034239288148,
+      "poisoned": true
+    },
+    {
+      "doc_id": 116,
+      "score": 0.09774509581837387,
+      "poisoned": true
+    },
+    {
+      "doc_id": 117,
+      "score": 0.4427698295656932,
+      "poisoned": true
+    },
+    {
+      "doc_id": 118,
+      "score": 0.8343338829993994,
+      "poisoned": true
+    },
+    {
+      "doc_id": 119,
+      "score": 0.041185014646755835,
+      "poisoned": true
+    },
+    {
+      "doc_id": 120,
+      "score": 0.0878610368574303,
+      "poisoned": true
+    },
+    {
+      "doc_id": 121,
+      "score": 0.7320942288861315,
+      "poisoned": true
+    },
+    {
+      "doc_id": 122,
+      "score": 0.3721255629995065,
+      "poisoned": true
+    },
+    {
+      "doc_id": 123,
+      "score": 0.3141959662198086,
+      "poisoned": true
+    },
+    {
+      "doc_id": 124,
+      "score": 0.3637208356114138,
+      "poisoned": true
+    },
+    {
+      "doc_id": 125,
+      "score": 0.6363394054397997,
+      "poisoned": true
+    },
+    {
+      "doc_id": 126,
+      "score": 0.5843964915890902,
+      "poisoned": true
+    },
+    {
+      "doc_id": 128,
+      "score": 0.14210366868645907,
+      "poisoned": true
+    },
+    {
+      "doc_id": 129,
+      "score": 0.481886808836937,
+      "poisoned": true
+    },
+    {
+      "doc_id": 130,
+      "score": 0.9571968776390138,
+      "poisoned": true
+    },
+    {
+      "doc_id": 131,
+      "score": 0.29861720086088206,
+      "poisoned": true
+    },
+    {
+      "doc_id": 132,
+      "score": 0.6589168148406165,
+      "poisoned": true
+    },
+    {
+      "doc_id": 133,
+      "score": 0.9663388885401627,
+      "poisoned": true
+    },
+    {
+      "doc_id": 134,
+      "score": 0.09522947424872474,
+      "poisoned": true
+    },
+    {
+      "doc_id": 135,
+      "score": 0.03354647469140448,
+      "poisoned": true
+    },
+    {
+      "doc_id": 136,
+      "score": 0.20252574555211778,
+      "poisoned": true
+    },
+    {
+      "doc_id": 137,
+      "score": 0.6372113475625216,
+      "poisoned": true
+    },
+    {
+      "doc_id": 138,
+      "score": 0.40203933399999026,
+      "poisoned": true
+    },
+    {
+      "doc_id": 139,
+      "score": 0.41131508990596477,
+      "poisoned": true
+    },
+    {
+      "doc_id": 140,
+      "score": 0.15315139133342315,
+      "poisoned": true
+    },
+    {
+      "doc_id": 141,
+      "score": 0.7830200244660596,
+      "poisoned": true
+    },
+    {
+      "doc_id": 142,
+      "score": 0.5308110231667256,
+      "poisoned": true
+    },
+    {
+      "doc_id": 143,
+      "score": 0.7208557025311647,
+      "poisoned": true
+    },
+    {
+      "doc_id": 144,
+      "score": 0.6159600779633377,
+      "poisoned": true
+    },
+    {
+      "doc_id": 145,
+      "score": 0.6033706653357013,
+      "poisoned": true
+    },
+    {
+      "doc_id": 146,
+      "score": 0.7014893974462959,
+      "poisoned": true
+    },
+    {
+      "doc_id": 147,
+      "score": 0.9454620919662694,
+      "poisoned": true
+    },
+    {
+      "doc_id": 148,
+      "score": 0.7807723847296911,
+      "poisoned": true
+    },
+    {
+      "doc_id": 149,
+      "score": 0.6764308176698923,
+      "poisoned": true
+    },
+    {
+      "doc_id": 150,
+      "score": 0.4316637735128245,
+      "poisoned": true
+    },
+    {
+      "doc_id": 151,
+      "score": 0.1608274247805932,
+      "poisoned": true
+    },
+    {
+      "doc_id": 152,
+      "score": 0.6211068085049206,
+      "poisoned": true
+    },
+    {
+      "doc_id": 153,
+      "score": 0.3146932945119745,
+      "poisoned": true
+    },
+    {
+      "doc_id": 154,
+      "score": 0.6410839575518961,
+      "poisoned": true
+    },
+    {
+      "doc_id": 155,
+      "score": 0.31358245315855127,
+      "poisoned": true
+    },
+    {
+      "doc_id": 156,
+      "score": 0.08677244031087217,
+      "poisoned": true
+    },
+    {
+      "doc_id": 157,
+      "score": 0.9324867720634165,
+      "poisoned": true
+    },
+    {
+      "doc_id": 158,
+      "score": 0.893006971386744,
+      "poisoned": true
+    },
+    {
+      "doc_id": 159,
+      "score": 0.7886917552917883,
+      "poisoned": true
+    },
+    {
+      "doc_id": 160,
+      "score": 0.910911023699918,
+      "poisoned": true
+    },
+    {
+      "doc_id": 161,
+      "score": 0.5005755818008101,
+      "poisoned": true
+    },
+    {
+      "doc_id": 162,
+      "score": 0.10425577729057056,
+      "poisoned": true
+    },
+    {
+      "doc_id": 163,
+      "score": 0.17200969470635985,
+      "poisoned": true
+    },
+    {
+      "doc_id": 164,
+      "score": 0.8479925152087453,
+      "poisoned": true
+    },
+    {
+      "doc_id": 165,
+      "score": 0.7213025321835659,
+      "poisoned": true
+    },
+    {
+      "doc_id": 166,
+      "score": 0.9427712412849618,
+      "poisoned": true
+    },
+    {
+      "doc_id": 167,
+      "score": 0.09246700627863313,
+      "poisoned": true
+    },
+    {
+      "doc_id": 168,
+      "score": 0.35338795377807064,
+      "poisoned": true
+    },
+    {
+      "doc_id": 169,
+      "score": 0.7537285700205001,
+      "poisoned": true
+    },
+    {
+      "doc_id": 170,
+      "score": 0.6281695001444917,
+      "poisoned": true
+    },
+    {
+      "doc_id": 171,
+      "score": 0.06862361585348697,
+      "poisoned": true
+    },
+    {
+      "doc_id": 172,
+      "score": 0.8344777989705497,
+      "poisoned": true
+    },
+    {
+      "doc_id": 173,
+      "score": 0.5658202369057754,
+      "poisoned": true
+    },
+    {
+      "doc_id": 174,
+      "score": 0.724763910204824,
+      "poisoned": true
+    },
+    {
+      "doc_id": 175,
+      "score": 0.9914897221269777,
+      "poisoned": true
+    },
+    {
+      "doc_id": 176,
+      "score": 0.7478042558602894,
+      "poisoned": true
+    },
+    {
+      "doc_id": 177,
+      "score": 0.9281054935630867,
+      "poisoned": true
+    },
+    {
+      "doc_id": 178,
+      "score": 0.07715597237888472,
+      "poisoned": true
+    },
+    {
+      "doc_id": 179,
+      "score": 0.40630253278946804,
+      "poisoned": true
+    },
+    {
+      "doc_id": 180,
+      "score": 0.8855571899382338,
+      "poisoned": true
+    },
+    {
+      "doc_id": 181,
+      "score": 0.09535196030288495,
+      "poisoned": true
+    },
+    {
+      "doc_id": 182,
+      "score": 0.2639312170045294,
+      "poisoned": true
+    },
+    {
+      "doc_id": 183,
+      "score": 0.23911364142628244,
+      "poisoned": true
+    },
+    {
+      "doc_id": 184,
+      "score": 0.24738996061048568,
+      "poisoned": true
+    },
+    {
+      "doc_id": 185,
+      "score": 0.947637313915766,
+      "poisoned": true
+    },
+    {
+      "doc_id": 186,
+      "score": 0.26662732653491106,
+      "poisoned": true
+    },
+    {
+      "doc_id": 187,
+      "score": 0.5816451214129867,
+      "poisoned": true
+    },
+    {
+      "doc_id": 188,
+      "score": 0.8708005373520651,
+      "poisoned": true
+    },
+    {
+      "doc_id": 189,
+      "score": 0.5391547732572521,
+      "poisoned": true
+    },
+    {
+      "doc_id": 190,
+      "score": 0.6260225979287406,
+      "poisoned": true
+    },
+    {
+      "doc_id": 191,
+      "score": 0.7664024179190488,
+      "poisoned": true
+    },
+    {
+      "doc_id": 192,
+      "score": 0.09804238429066658,
+      "poisoned": true
+    },
+    {
+      "doc_id": 193,
+      "score": 0.7936369535027783,
+      "poisoned": true
+    },
+    {
+      "doc_id": 194,
+      "score": 0.2793485727176054,
+      "poisoned": true
+    },
+    {
+      "doc_id": 195,
+      "score": 0.7056412420926881,
+      "poisoned": true
+    },
+    {
+      "doc_id": 196,
+      "score": 0.18772825078926658,
+      "poisoned": true
+    },
+    {
+      "doc_id": 197,
+      "score": 0.875596099431374,
+      "poisoned": true
+    },
+    {
+      "doc_id": 198,
+      "score": 0.31202465868313534,
+      "poisoned": true
+    },
+    {
+      "doc_id": 199,
+      "score": 0.5197174258790469,
+      "poisoned": true
+    },
+    {
+      "doc_id": 200,
+      "score": 0.9839614492121127,
+      "poisoned": true
+    },
+    {
+      "doc_id": 201,
+      "score": 0.5733968573688101,
+      "poisoned": true
+    },
+    {
+      "doc_id": 202,
+      "score": 0.30993801161648227,
+      "poisoned": true
+    },
+    {
+      "doc_id": 203,
+      "score": 0.2054282809421164,
+      "poisoned": true
+    },
+    {
+      "doc_id": 204,
+      "score": 0.6956708995521159,
+      "poisoned": true
+    },
+    {
+      "doc_id": 205,
+      "score": 0.5724880960357587,
+      "poisoned": true
+    },
+    {
+      "doc_id": 206,
+      "score": 0.7748977916806016,
+      "poisoned": true
+    },
+    {
+      "doc_id": 207,
+      "score": 0.5336115783075485,
+      "poisoned": true
+    },
+    {
+      "doc_id": 208,
+      "score": 0.14879170255744556,
+      "poisoned": true
+    },
+    {
+      "doc_id": 209,
+      "score": 0.01897260293658032,
+      "poisoned": true
+    },
+    {
+      "doc_id": 210,
+      "score": 0.5196186604578086,
+      "poisoned": true
+    },
+    {
+      "doc_id": 211,
+      "score": 0.5692416716461193,
+      "poisoned": true
+    },
+    {
+      "doc_id": 212,
+      "score": 0.49269816913692044,
+      "poisoned": true
+    },
+    {
+      "doc_id": 213,
+      "score": 0.7079231528153366,
+      "poisoned": true
+    },
+    {
+      "doc_id": 214,
+      "score": 0.5688337866267574,
+      "poisoned": true
+    },
+    {
+      "doc_id": 215,
+      "score": 0.34428318460414997,
+      "poisoned": true
+    },
+    {
+      "doc_id": 216,
+      "score": 0.07725343162918674,
+      "poisoned": true
+    },
+    {
+      "doc_id": 217,
+      "score": 0.19975883877088108,
+      "poisoned": true
+    },
+    {
+      "doc_id": 218,
+      "score": 0.3541273747356416,
+      "poisoned": true
+    },
+    {
+      "doc_id": 219,
+      "score": 0.9158762481698817,
+      "poisoned": true
+    },
+    {
+      "doc_id": 220,
+      "score": 0.7932937196002261,
+      "poisoned": true
+    },
+    {
+      "doc_id": 221,
+      "score": 0.6509142064755689,
+      "poisoned": true
+    },
+    {
+      "doc_id": 222,
+      "score": 0.39347267122608076,
+      "poisoned": true
+    },
+    {
+      "doc_id": 223,
+      "score": 0.9752730230090727,
+      "poisoned": true
+    },
+    {
+      "doc_id": 224,
+      "score": 0.343378438562021,
+      "poisoned": true
+    },
+    {
+      "doc_id": 225,
+      "score": 0.14846548085902733,
+      "poisoned": true
+    },
+    {
+      "doc_id": 226,
+      "score": 0.9489667713448409,
+      "poisoned": true
+    },
+    {
+      "doc_id": 227,
+      "score": 0.7605502683478633,
+      "poisoned": true
+    },
+    {
+      "doc_id": 228,
+      "score": 0.6033129251400862,
+      "poisoned": true
+    },
+    {
+      "doc_id": 229,
+      "score": 0.6884297613742407,
+      "poisoned": true
+    },
+    {
+      "doc_id": 230,
+      "score": 0.7866347439961779,
+      "poisoned": true
+    },
+    {
+      "doc_id": 231,
+      "score": 0.6260956050982627,
+      "poisoned": true
+    },
+    {
+      "doc_id": 232,
+      "score": 0.11190669941444897,
+      "poisoned": true
+    },
+    {
+      "doc_id": 233,
+      "score": 0.926146814217239,
+      "poisoned": true
+    },
+    {
+      "doc_id": 234,
+      "score": 0.8052608633627336,
+      "poisoned": true
+    },
+    {
+      "doc_id": 235,
+      "score": 0.9022843382701856,
+      "poisoned": true
+    },
+    {
+      "doc_id": 236,
+      "score": 0.320769030975399,
+      "poisoned": true
+    },
+    {
+      "doc_id": 237,
+      "score": 0.563719051289929,
+      "poisoned": true
+    },
+    {
+      "doc_id": 238,
+      "score": 0.024257198827800752,
+      "poisoned": true
+    },
+    {
+      "doc_id": 239,
+      "score": 0.25807816202568157,
+      "poisoned": true
+    },
+    {
+      "doc_id": 240,
+      "score": 0.45572360894337016,
+      "poisoned": true
+    },
+    {
+      "doc_id": 241,
+      "score": 0.7257841898966403,
+      "poisoned": true
+    },
+    {
+      "doc_id": 243,
+      "score": 0.2581080244164763,
+      "poisoned": true
+    },
+    {
+      "doc_id": 244,
+      "score": 0.26337766945608654,
+      "poisoned": true
+    },
+    {
+      "doc_id": 245,
+      "score": 0.4883990291267739,
+      "poisoned": true
+    },
+    {
+      "doc_id": 246,
+      "score": 0.47592475779328003,
+      "poisoned": true
+    },
+    {
+      "doc_id": 247,
+      "score": 0.8736756003304622,
+      "poisoned": true
+    },
+    {
+      "doc_id": 248,
+      "score": 0.33469298277272586,
+      "poisoned": true
+    },
+    {
+      "doc_id": 249,
+      "score": 0.9446728353710575,
+      "poisoned": true
+    },
+    {
+      "doc_id": 250,
+      "score": 0.8500651871020474,
+      "poisoned": true
+    },
+    {
+      "doc_id": 251,
+      "score": 0.5441763603030662,
+      "poisoned": true
+    },
+    {
+      "doc_id": 252,
+      "score": 0.28291144049316375,
+      "poisoned": true
+    },
+    {
+      "doc_id": 253,
+      "score": 0.5872851224055567,
+      "poisoned": true
+    },
+    {
+      "doc_id": 254,
+      "score": 0.7329276458965741,
+      "poisoned": true
+    }
+  ],
+  "records_edit": []
+}

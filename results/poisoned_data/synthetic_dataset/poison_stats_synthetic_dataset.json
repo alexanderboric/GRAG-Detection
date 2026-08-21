@@ -1,0 +1,78 @@
+{
+  "dataset": "synthetic_dataset",
+  "overall": {
+    "num_types": 17,
+    "num_entities": 51,
+    "total_freq": 1548
+  },
+  "per_type": {
+    "GPE": {
+      "num_entities": 3,
+      "total_freq": 517
+    },
+    "DATE": {
+      "num_entities": 3,
+      "total_freq": 121
+    },
+    "PERSON": {
+      "num_entities": 3,
+      "total_freq": 99
+    },
+    "ORG": {
+      "num_entities": 3,
+      "total_freq": 256
+    },
+    "ORDINAL": {
+      "num_entities": 3,
+      "total_freq": 48
+    },
+    "LOC": {
+      "num_entities": 3,
+      "total_freq": 199
+    },
+    "EVENT": {
+      "num_entities": 3,
+      "total_freq": 55
+    },
+    "PRODUCT": {
+      "num_entities": 3,
+      "total_freq": 32
+    },
+    "LAW": {
+      "num_entities": 3,
+      "total_freq": 55
+    },
+    "CARDINAL": {
+      "num_entities": 3,
+      "total_freq": 64
+    },
+    "FAC": {
+      "num_entities": 3,
+      "total_freq": 70
+    },
+    "NORP": {
+      "num_entities": 3,
+      "total_freq": 7
+    },
+    "WORK_OF_ART": {
+      "num_entities": 3,
+      "total_freq": 6
+    },
+    "TIME": {
+      "num_entities": 3,
+      "total_freq": 6
+    },
+    "PERCENT": {
+      "num_entities": 3,
+      "total_freq": 7
+    },
+    "QUANTITY": {
+      "num_entities": 3,
+      "total_freq": 3
+    },
+    "MONEY": {
+      "num_entities": 3,
+      "total_freq": 3
+    }
+  }
+}

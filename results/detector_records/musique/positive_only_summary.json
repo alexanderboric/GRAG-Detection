@@ -1,0 +1,82 @@
+{
+  "rand_n": {
+    "tp": 112,
+    "fn": 138,
+    "recall": 0.448
+  },
+  "rand1_n": {
+    "tp": 125,
+    "fn": 125,
+    "recall": 0.5
+  },
+  "llm_as_a_judge(mistral-small-4,v0)_n": {
+    "tp": 116,
+    "fn": 134,
+    "recall": 0.464
+  },
+  "perplexity(gpt2)_n": {
+    "tp": 131,
+    "fn": 119,
+    "recall": 0.524
+  },
+  "gnlic_n": {
+    "tp": 122,
+    "fn": 128,
+    "recall": 0.488
+  },
+  "gtopo_n": {
+    "tp": 179,
+    "fn": 71,
+    "recall": 0.716
+  },
+  "gtopo2_n": {
+    "tp": 177,
+    "fn": 73,
+    "recall": 0.708
+  },
+  "grag_as_a_judge(mistral-small-4,v5)_n": {
+    "tp": 150,
+    "fn": 100,
+    "recall": 0.6
+  },
+  "embedding_outlier_n": {
+    "tp": 0,
+    "fn": 250,
+    "recall": 0.0
+  },
+  "nli_contradiction_n": {
+    "tp": 215,
+    "fn": 35,
+    "recall": 0.86
+  },
+  "llm_as_a_judge(mistral-small-4,v7)_dva": {
+    "tp": 199,
+    "fn": 51,
+    "recall": 0.796
+  },
+  "perplexity(gpt2)_dva": {
+    "tp": 225,
+    "fn": 25,
+    "recall": 0.9
+  },
+  "gtopo_dva": {
+    "tp": 11,
+    "fn": 239,
+    "recall": 0.044
+  },
+  "gtopo2_dva": {
+    "tp": 206,
+    "fn": 44,
+    "recall": 0.824
+  },
+  "grag_as_a_judge(mistral-small-4,v1)_dva": {
+    "tp": 180,
+    "fn": 70,
+    "recall": 0.72
+  },
+  "nli_contradiction_dva": {
+    "tp": 226,
+    "fn": 24,
+    "recall": 0.904
+  }
+}

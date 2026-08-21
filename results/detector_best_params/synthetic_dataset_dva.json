@@ -1,0 +1,59 @@
+{
+  "gtopo": {
+    "params": {
+      "level": 1,
+      "q": 0.8
+    },
+    "threshold": 0.5,
+    "threshold_edit": 6.935777512321655,
+    "auc": 0.7488888888888888,
+    "fallback_rate": 0.0
+  },
+  "gtopo2": {
+    "params": {
+      "level": 1,
+      "q": 0.7,
+      "signals": "dist+support+blockodds"
+    },
+    "threshold": 0.95,
+    "threshold_edit": 0.75,
+    "auc": 0.8494444444444446,
+    "fallback_rate": 0.36666666666666664
+  },
+  "llm_as_a_judge": {
+    "params": {
+      "variant": 9
+    },
+    "threshold": 5,
+    "threshold_edit": 3.0,
+    "auc": 0.9983333333333334,
+    "fallback_rate": 0.0
+  },
+  "nli_contradiction": {
+    "params": {
+      "k_neighbors": 10
+    },
+    "threshold": 0.5,
+    "threshold_edit": 0.0006068454240448773,
+    "auc": 0.8288888888888889,
+    "fallback_rate": 0.0
+  },
+  "grag_as_a_judge": {
+    "params": {
+      "variant": 5
+    },
+    "threshold": 5,
+    "threshold_edit": 0.25,
+    "auc": 0.958888888888889,
+    "fallback_rate": 0.0
+  },
+  "embedding_outlier": {
+    "params": {
+      "k": 10
+    },
+    "threshold": 1.74,
+    "threshold_edit": 0.018639145429196202,
+    "auc": 0.9833333333333333,
+    "fallback_rate": 0.0
+  }
+}

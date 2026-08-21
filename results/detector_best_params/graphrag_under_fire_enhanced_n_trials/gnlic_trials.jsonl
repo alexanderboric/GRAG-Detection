@@ -1,0 +1,6 @@
+{"trial": 0, "value": 0.36800000000000005, "params": {"alpha": 0.5}, "best_value_so_far": 0.36800000000000005, "best_params_so_far": {"alpha": 0.5}, "best_threshold_so_far": 0.5675853574552487, "best_threshold_edit_so_far": 0.5}
+{"trial": 1, "value": 0.39199999999999996, "params": {"alpha": 0.2}, "best_value_so_far": 0.39199999999999996, "best_params_so_far": {"alpha": 0.2}, "best_threshold_so_far": 0.3266932729593257, "best_threshold_edit_so_far": 0.5}
+{"trial": 2, "value": 0.4348, "params": {"alpha": 0.1}, "best_value_so_far": 0.4348, "best_params_so_far": {"alpha": 0.1}, "best_threshold_so_far": 0.10126009306289524, "best_threshold_edit_so_far": 0.5}
+{"trial": 3, "value": 0.3888, "params": {"alpha": 0.3}, "best_value_so_far": 0.4348, "best_params_so_far": {"alpha": 0.1}, "best_threshold_so_far": 0.10126009306289524, "best_threshold_edit_so_far": 0.5}
+{"trial": 4, "value": 0.8352, "params": {"alpha": 0.0}, "best_value_so_far": 0.8352, "best_params_so_far": {"alpha": 0.0}, "best_threshold_so_far": 0.00018565778736956418, "best_threshold_edit_so_far": 0.5}
+{"trial": 5, "value": 0.3876, "params": {"alpha": 0.4}, "best_value_so_far": 0.8352, "best_params_so_far": {"alpha": 0.0}, "best_threshold_so_far": 0.00018565778736956418, "best_threshold_edit_so_far": 0.5}

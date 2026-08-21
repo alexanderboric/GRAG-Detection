@@ -1,0 +1,10 @@
+{"trial": 0, "value": 0.9424, "params": {"variant": 2}, "best_value_so_far": 0.9424, "best_params_so_far": {"variant": 2}, "best_threshold_so_far": 4.0, "best_threshold_edit_so_far": 5}
+{"trial": 1, "value": 0.7950000000000002, "params": {"variant": 8}, "best_value_so_far": 0.9424, "best_params_so_far": {"variant": 2}, "best_threshold_so_far": 4.0, "best_threshold_edit_so_far": 5}
+{"trial": 2, "value": 0.9714, "params": {"variant": 4}, "best_value_so_far": 0.9714, "best_params_so_far": {"variant": 4}, "best_threshold_so_far": 7.0, "best_threshold_edit_so_far": 5}
+{"trial": 3, "value": 0.984, "params": {"variant": 9}, "best_value_so_far": 0.984, "best_params_so_far": {"variant": 9}, "best_threshold_so_far": 5.0, "best_threshold_edit_so_far": 5}
+{"trial": 4, "value": 0.9956, "params": {"variant": 1}, "best_value_so_far": 0.9956, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 8.0, "best_threshold_edit_so_far": 5}
+{"trial": 5, "value": 0.11100000000000002, "params": {"variant": 6}, "best_value_so_far": 0.9956, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 8.0, "best_threshold_edit_so_far": 5}
+{"trial": 6, "value": 0.5604, "params": {"variant": 7}, "best_value_so_far": 0.9956, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 8.0, "best_threshold_edit_so_far": 5}
+{"trial": 7, "value": 0.9898, "params": {"variant": 3}, "best_value_so_far": 0.9956, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 8.0, "best_threshold_edit_so_far": 5}
+{"trial": 8, "value": 0.9976, "params": {"variant": 0}, "best_value_so_far": 0.9976, "best_params_so_far": {"variant": 0}, "best_threshold_so_far": 8.0, "best_threshold_edit_so_far": 5}
+{"trial": 9, "value": 0.9858, "params": {"variant": 5}, "best_value_so_far": 0.9976, "best_params_so_far": {"variant": 0}, "best_threshold_so_far": 8.0, "best_threshold_edit_so_far": 5}

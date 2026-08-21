@@ -1,0 +1,10 @@
+{"trial": 0, "value": 0.3466666666666667, "params": {"variant": 2}, "best_value_so_far": 0.3466666666666667, "best_params_so_far": {"variant": 2}, "best_threshold_so_far": 0.0, "best_threshold_edit_so_far": 5}
+{"trial": 1, "value": 0.6422222222222222, "params": {"variant": 8}, "best_value_so_far": 0.6422222222222222, "best_params_so_far": {"variant": 8}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 2, "value": 0.508888888888889, "params": {"variant": 4}, "best_value_so_far": 0.6422222222222222, "best_params_so_far": {"variant": 8}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 3, "value": 0.5872222222222222, "params": {"variant": 9}, "best_value_so_far": 0.6422222222222222, "best_params_so_far": {"variant": 8}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 4, "value": 0.7316666666666665, "params": {"variant": 1}, "best_value_so_far": 0.7316666666666665, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 5, "value": 0.3555555555555555, "params": {"variant": 6}, "best_value_so_far": 0.7316666666666665, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 6, "value": 0.7244444444444444, "params": {"variant": 7}, "best_value_so_far": 0.7316666666666665, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 7, "value": 0.6788888888888889, "params": {"variant": 3}, "best_value_so_far": 0.7316666666666665, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 8, "value": 0.715, "params": {"variant": 0}, "best_value_so_far": 0.7316666666666665, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}
+{"trial": 9, "value": 0.6805555555555556, "params": {"variant": 5}, "best_value_so_far": 0.7316666666666665, "best_params_so_far": {"variant": 1}, "best_threshold_so_far": 2.0, "best_threshold_edit_so_far": 5}

@@ -1,0 +1,1319 @@
+Jostein Gaarder
+
+
+
+Sofies Welt
+
+Roman über die Geschichte
+
+der Philosophie
+
+
+
+
+
+Aus dem Norwegischen von
+
+Gabriele Haefs
+
+
+
+
+
+Carl Hanser Verlag
+
+
+
+Hanser eBook
+
+
+
+
+
+Die Übersetzung wurde von NORLA gefördert:
+
+Die Originalausgabe erschien 1991 unter dem Titel
+
+Sofies verden
+
+bei H. Aschehoug & Co. (W. Nygaard) in Oslo.
+
+
+
+ISBN 978-3-446-24241-8
+
+© H. Aschehoug & Co. (W. Nygaard), Oslo 1991
+
+Alle Rechte der deutschen Ausgabe
+
+© Carl Hanser Verlag München 1993/2013
+
+Umschlag: Quint Buchholz
+
+Unser gesamtes lieferbares Programm und viele andere Informationen
+
+finden Sie unter www.hanser-literaturverlage.de
+
+Erfahren Sie mehr über uns und unsere Autoren auf www.facebook.com/HanserLiteraturverlage oder folgen Sie uns auf Twitter: www.twitter.com/hanserliteratur
+
+Datenkonvertierung E-Book: le-tex publishing services GmbH, Leipzig
+
+
+
+
+
+Der Autor
+
+
+Jostein Gaarder, 1952 in Norwegen geboren, studierte Philosophie, Theologie und Literaturwissenschaften. Er war lange Philosophielehrer und lebt heute als freier Schriftsteller in Oslo. 1993 erschien bei Hanser der Weltbestseller Sofies Welt.
+
+Auszeichnungen
+
+2001 Katholischer Kinder- und Jugendbuchpreis
+
+1997 Österreichischer Jugendbuchpreis der Jury der jungen Leser
+
+1997 Preis der Deutschen Schallplattenkritik
+
+1997 Buxtehuder Bulle
+
+1996 Das goldene Kabel
+
+1995 Preis der Deutschen Schallplattenkritik
+
+1994 Deutscher Jugendliteraturpreis
+
+1993 Luchs (Die Zeit & Radio Bremen)
+
+
+
+Bibliographie
+
+Im Carl Hanser Verlag Kinder- und Jugendbuch sind erschienen:
+
+1993 Sofies Welt. Jugendbuch
+
+1995 Das Kartengeheimnis. Kinderbuch
+
+1996 Durch einen Spiegel, in einem dunklen Wort
+
+1997 Das Leben ist kurz - Vita Brevis. Jugendbuch
+
+1998 Das Weihnachtsgeheimnis. Jugendbuch
+
+1999 Hallo, ist da jemand? Kinderbuch
+
+2000 Maya oder das Wunder des Lebens. Jugendbuch
+
+2001 Bibbi Bokkens magische Bibliothek. Kinderbuch
+
+2003 Das Orangenmädchen. Jugendbuch
+
+2005 Das Schloss der Frösche. Kinderbuch. Illustriert von Henrike Wilson
+
+2006 Schachmatt - Das große Jostein Gaarder Lesebuch. Jugendbuch
+
+2008 Jonathan und die Zwerge aus dem All. Kinderbuch. Illustriert von Peter Schössow.
+
+2012 Fragen fragen. Bilderbuch. Illustriert von Akin Düzakin.
+
+Im Carl Hanser Verlag sind erschienen:
+
+1998 Ein seltener Vogel. Erzählungen
+
+2002 Der Geschichtenverkäufer
+
+2010 Die Frau mit dem roten Tuch. Roman
+
+
+
+
+
+Dieses Buch hätte niemals ohne Siri Dannevigs Aufmunterung entstehen können. Ich danke auch Maiken Ims, die das Manuskript gelesen und wertvolle Kommentare geliefert hat. Nicht zuletzt gilt mein Dank Trond Berg Eriksen für viele Jahre voller launiger Bemerkungen und solider fachlicher Unterstützung.
+
+
+
+
+
+Wer nicht von dreitausend Jahren
+
+Sich weiß Rechenschaft zu geben,
+
+Bleib im Dunkeln unerfahren,
+
+Mag von Tag zu Tage leben.
+
+
+
+
+Johann Wolfgang Goethe
+
+
+
+
+
+Inhaltsverzeichnis
+
+
+
+Der Garten Eden
+
+... schließlich und endlich musste doch irgendwann irgendetwas aus null und nichts entstanden sein ...
+
+Der Zylinderhut
+
+... das Einzige, was wir brauchen, um gute Philosophen zu werden, ist die Fähigkeit, uns zu wundern ...
+
+Die Mythen
+
+... eine prekäre Machtbalance zwischen guten und bösen Kräften ...
+
+Die Naturphilosophen
+
+... von nichts kann nichts kommen ...
+
+Demokrit
+
+... das genialste Spielzeug der Welt ...
+
+Das Schicksal
+
+... der Wahrsager versucht, etwas zu deuten, das eigentlich nicht zu deuten ist ...
+
+Sokrates
+
+... die Klügste ist die, die weiß, was sie nicht weiß...
+
+Athen
+
+... und aus den Ruinen erhoben sich mehrere hohe Bauten ...
+
+Platon
+
+... eine Sehnsucht nach der eigentlichen Wohnung der Seele ...
+
+Die Majorshütte
+
+... das Mädchen im Spiegel zwinkerte mit beiden Augen ...
+
+Aristoteles
+
+... ein peinlich genauer Mann der Ordnung, der in den Begriffen der Menschen aufräumen wollte ...
+
+Der Hellenismus
+
+... ein Funken vom Feuer ...
+
+Die Postkarten
+
+... ich erlege mir selber eine strenge Zensur auf ...
+
+Zwei Kulturkreise
+
+... nur so wirst du nicht durch den leeren Raum schweben ...
+
+Das Mittelalter
+
+... ein Stück des Weges zurückzulegen ist nicht dasselbe, wie sich zu verlaufen ...
+
+Die Renaissance
+
+... o göttliches Geschlecht in menschlicher Verkleidung ...
+
+Das Barock
+
+... vom gleichen Stoff, aus dem die Träume sind ...
+
+Descartes
+
+... er wollte alle alten Materialien vom Bauplatz entfernen ...
+
+Spinoza
+
+... Gott ist kein Puppenspieler ...
+
+Locke
+
+... genauso leer wie eine Tafel, ehe der Lehrer das Klassenzimmer betritt ...
+
+Hume
+
+... so werft ihn ins Feuer ...
+
+Berkeley
+
+... wie ein schwindliger Planet um eine brennende Sonne ...
+
+Bjerkely
+
+... ein alter Zauberspiegel, den die Urgroßmutter einer Zigeunerin abgekauft hatte ...
+
+Die Aufklärung
+
+... von der Nadelherstellung bis zum Kanonenguss ...
+
+Kant
+
+... der bestirnte Himmel über mir und das moralische Gesetz in mir ...
+
+Die Romantik
+
+... nach innen geht der geheimnisvolle Weg ...
+
+Hegel
+
+... vernünftig ist, was lebensfähig ist ...
+
+Kierkegaard
+
+... Europa ist unterwegs in den Bankrott ...
+
+Marx
+
+... ein Gespenst geht um in Europa ...
+
+Darwin
+
+... ein Boot, das mit Genen beladen durchs Leben segelt ...
+
+Freud
+
+... ein hässlicher, egoistischer Wunsch war in ihr aufgetaucht ...
+
+Unsere eigene Zeit
+
+... der Mensch ist zur Freiheit verurteilt ...
+
+Das Gartenfest
+
+... eine weiße Krähe ...
+
+Kontrapunkt
+
+... zwei oder mehr Melodien erklingen gleichzeitig ...
+
+Der große Knall
+
+... auch wir sind Sternenstaub ...
+
+
+
+
+
+Der Garten Eden
+
+
+... schließlich und endlich musste doch irgendwann irgendetwas aus null und nichts entstanden sein ...
+
+Sofie Amundsen war auf dem Heimweg von der Schule. Das erste Stück war sie mit Jorunn zusammen gegangen. Sie hatten sich über Roboter unterhalten. Jorunn hielt das menschliche Gehirn für einen komplizierten Computer. Sofie war sich nicht so sicher, ob sie da zustimmte. Ein Mensch musste doch mehr sein als eine Maschine?
+
+Beim Supermarkt hatten sie sich getrennt. Sofie wohnte am Ende eines ausgedehnten Viertels mit Einfamilienhäusern und hatte einen fast doppelt so langen Schulweg wie Jorunn. Ihr Haus schien am Ende der Welt zu liegen, denn hinter ihrem Garten gab es keine weiteren Häuser mehr, nur noch Wald.
+
+Jetzt bog sie in den Kløverveien ein. Ganz am Ende machte der eine scharfe Kurve, die »Kapitänskurve« genannt wurde. Menschen waren hier fast nur samstags und sonntags zu sehen.
+
+Es war einer der ersten Tage im Mai. In einigen Gärten blühten unter den Obstbäumen dichte Kränze von Osterglocken. Die Birken hatten dünne Umhänge aus grünem Flor.
+
+War es nicht seltsam, wie zu dieser Jahreszeit alles anfing zu wachsen und zu gedeihen? Woran lag es, dass Kilo um Kilo des grünen Pflanzenstoffes aus der leblosen Erde quellen konnte, sowie das Wetter warm wurde und die letzten Schneereste verschwunden waren?
+
+Sofie schaute in den Briefkasten, ehe sie das Gartentor öffnete. In der Regel gab es darin viel Reklamekram und einige große Briefumschläge für ihre Mutter. Sofie legte dann immer einen dicken Stapel Post auf den Küchentisch, ehe sie auf ihr Zimmer ging, um ihre Aufgaben zu machen.
+
+An ihren Vater kamen nur manchmal Kontoauszüge, aber er war schließlich auch kein normaler Vater. Sofies Vater war Kapitän auf einem Öltanker und fast das ganze Jahr unterwegs. Wenn er dann für einige Wochen nach Hause kam, latschte er nur in Pantoffeln im Haus herum und kümmerte sich rührend um Sofie und ihre Mutter. Aber wenn er auf Reisen war, konnte er ziemlich fern wirken.
+
+Heute lag in dem großen grünen Briefkasten nur ein kleiner Brief – und der war für Sofie.
+
+»Sofie Amundsen«, stand auf dem kleinen Briefumschlag. »Kløverveien 3«. Das war alles, kein Absender. Der Brief hatte nicht einmal eine Briefmarke.
+
+Sowie Sofie das Tor hinter sich geschlossen hatte, öffnete sie den Briefumschlag. Darin fand sie nur einen ziemlich kleinen Zettel, nicht größer als der dazugehörende Umschlag. Auf dem Zettel stand: Wer bist du?
+
+Mehr nicht. Der Zettel enthielt keinen Gruß und keinen Absender, nur diese drei handgeschriebenen Wörter, auf die ein großes Fragezeichen folgte.
+
+Sie sah noch einmal den Briefumschlag an. Doch – der Brief war wirklich für sie. Aber wer hatte ihn in den Briefkasten gesteckt?
+
+Sofie schloss rasch die Tür des roten Hauses auf. Wie üblich konnte die Katze Sherekan sich aus den Büschen schleichen, auf den Treppenabsatz springen und ins Haus schlüpfen, ehe Sofie die Tür hinter sich zugemacht hatte.
+
+»Miez, Miez, Miez!«
+
+Wenn Sofies Mutter aus irgendeinem Grund sauer war, bezeichnete sie ihr Haus manchmal als Menagerie. Eine Menagerie war eine Sammlung verschiedene Tiere und wirklich – Sofie war mit ihrer eigenen Sammlung recht zufrieden. Zuerst hatte sie ein Glas mit den Goldfischen Goldlöckchen, Rotkäppchen und Schwarzer Peter bekommen. Dann kamen die Wellensittiche Tom und Jerry, die Schildkröte Govinda und schließlich noch die gelbbraune Tigerkatze Sherekan dazu. Alle Tiere sollten eine Art Entschädigung sein, weil ihre Mutter spät Feierabend hatte und ihr Vater so viel in der Welt herumfuhr.
+
+Sofie warf die Schultasche in die Ecke und stellte Sherekan eine Schale mit Katzenfutter hin. Dann ließ sie sich mit dem geheimnisvollen Brief in der Hand auf einen Küchenhocker fallen.
+
+Wer bist du?
+
+Wenn sie das wüsste! Sie war natürlich Sofie Amundsen, aber wer war das? Das hatte sie noch nicht richtig herausgefunden.
+
+Wenn sie nun anders hieße? Anne Knutsen zum Beispiel. Wäre sie dann auch eine andere?
+
+Plötzlich fiel ihr ein, dass ihr Vater sie zuerst gern Synnøve genannt hätte. Sofie versuchte sich auszumalen, wie es wäre, wenn sie die Hand ausstreckte und sich als Synnøve Amundsen vorstellte – aber nein, das ging nicht. Dabei stellte sie sich die ganze Zeit eine andere vor.
+
+Nun sprang sie vom Hocker und ging mit dem seltsamen Brief in der Hand ins Badezimmer. Sie stellte sich vor den Spiegel und starrte sich in die Augen.
+
+»Ich bin Sofie Amundsen«, sagte sie.
+
+Das Mädchen im Spiegel schnitt als Antwort nicht einmal die kleinste Grimasse. Egal, was Sofie auch machte, sie machte genau dasselbe. Sofie versuchte, dem Spiegelbild mit einer blitzschnellen Bewegung zuvorzukommen, aber die andere war genauso schnell.
+
+»Wer bist du?«, fragte Sofie.
+
+Auch jetzt bekam sie keine Antwort, aber für einen kurzen Moment wusste sie einfach nicht, ob sie oder ihr Spiegelbild diese Frage gestellt hatte.
+
+Sofie drückte den Zeigefinger auf die Nase im Spiegel und sagte:
+
+»Du bist ich.«
+
+Als sie keine Antwort bekam, stellte sie den Satz auf den Kopf und sagte:
+
+»Ich bin du.«
+
+Sofie Amundsen war mit ihrem Aussehen nie besonders zufrieden gewesen. Sie hörte oft, dass sie schöne Mandelaugen hätte, aber das sagten sie wohl nur, weil ihre Nase zu klein und ihr Mund etwas zu groß war. Die Ohren saßen außerdem viel zu nah an den Augen. Am schlimmsten aber waren die glatten Haare, die sich einfach nicht legen ließen. Manchmal strich der Vater ihr darüber und nannte sie »das Mädchen mit den Flachshaaren«, nach einer Komposition von Claude Débussy. Der hatte gut reden, schließlich war er nicht dazu verurteilt, sein Leben lang schwarze, glatt herabhängende Haare zu haben. Bei Sofies Haaren halfen weder Spray noch Gel.
+
+Manchmal fand sie ihr Aussehen so seltsam, dass sie sich fragte, ob sie vielleicht eine Missgeburt sein konnte. Ihre Mutter hatte jedenfalls von einer schwierigen Geburt erzählt. Aber entschied wirklich die Geburt, wie jemand aussah?
+
+War es nicht ein bisschen komisch, dass sie nicht wusste, wer sie war? Und war es nicht auch eine Zumutung, dass sie nicht über ihr eigenes Aussehen bestimmen konnte? Das war ihr einfach in die Wiege gelegt worden. Ihre Freunde konnte sie vielleicht wählen, sich selber hatte sie aber nicht gewählt. Sie hatte sich nicht einmal dafür entschieden, ein Mensch zu sein.
+
+Was war ein Mensch?
+
+Sofie sah wieder das Mädchen im Spiegel an.
+
+»Ich glaube, ich mache jetzt lieber meine Bio-Aufgaben«, sagte sie, fast, wie um sich zu entschuldigen. Im nächsten Moment stand sie draußen im Flur.
+
+Nein, ich gehe lieber in den Garten, dachte sie dort.
+
+»Miez, Miez, Miez, Miez!«
+
+Sofie scheuchte die Katze hinaus auf die Treppe und schloss hinter sich die Tür.
+
+Als sie mit dem geheimnisvollen Brief in der Hand draußen auf dem Kiesweg stand, überkam sie plötzlich ein seltsames Gefühl. Sie kam sich fast wie eine Puppe vor, die durch Zauberkraft lebendig geworden war.
+
+War es nicht seltsam, dass sie auf der Welt war und in einem wunderlichen Märchen herumlaufen konnte?
+
+Sherekan sprang elegant über den Kiesweg und verschwand in den eng stehenden Johannisbeersträuchern. Eine lebendige Katze, quicklebendig von den weißen Schnurrhaaren bis zu dem peitschenden Schwanz ganz hinten am Körper. Auch sie war im Garten, aber sie war sich dessen wohl kaum auf dieselbe Weise bewusst wie Sofie.
+
+Als Sofie eine Weile darüber nachgedacht hatte, dass sie existierte, musste sie auch daran denken, dass sie nicht immer hier sein würde.
+
+Ich bin jetzt auf der Welt, dachte sie. Aber eines Tages werde ich verschwunden sein.
+
+Gab es ein Leben nach dem Tod? Auch von dieser Frage hatte die Katze keine Ahnung.
+
+Vor gar nicht langer Zeit war Sofies Großmutter gestorben. Fast jeden Tag seit über einem halben Jahr dachte Sofie daran, wie sehr sie sie vermisste. War es nicht ungerecht, dass das Leben einmal ein Ende hatte?
+
+Sofie blieb grübelnd auf dem Kiesweg stehen. Sie versuchte, besonders intensiv daran zu denken, dass sie existierte, um dabei zu vergessen, dass sie nicht immer hier sein würde. Aber das war ganz unmöglich. Sowie sie sich darauf konzentrierte, dass sie existierte, tauchte sofort auch ein Gedanke an das Ende des Lebens auf. Umgekehrt war es genauso: Erst wenn sie ganz stark empfand, dass sie eines Tages ganz verschwunden sein würde, ging ihr richtig auf, wie unendlich wertvoll das Leben war. Es war wie die beiden Seiten einer Münze, einer Münze, die sie immer wieder umdrehte. Und je größer und deutlicher die eine Seite der Münze war, umso größer und deutlicher wurde auch die andere. Leben und Tod waren zwei Seiten derselben Sache.
+
+Man kann nicht erleben, dass man existiert, ohne auch zu erleben, dass man sterben muss, dachte sie. Und es ist genauso unmöglich, darüber nachzudenken, dass man sterben muss, ohne zugleich daran zu denken, wie phantastisch das Leben ist.
+
+Sofie fiel ein, dass ihre Großmutter an dem Tag, an dem sie von ihrer Krankheit erfahren hatte, etwas Ähnliches gesagt hatte. »Erst jetzt begreife ich, wie reich das Leben ist«, hatte sie gesagt.
+
+War es nicht traurig, dass die meisten Leute erst krank werden mussten, ehe sie einsahen, wie schön das Leben war? Zumindest mussten sie offenbar einen geheimnisvollen Brief im Briefkasten finden.
+
+Vielleicht sollte sie nachsehen, ob noch mehr gekommen war? Sofie lief zum Tor und hob den grünen Deckel. Sie fuhr zusammen, als sie einen ganz identischen Briefumschlag entdeckte. Sie hatte doch nachgesehen, ob der Briefkasten wirklich leer war, als sie den ersten Brief herausgenommen hatte?
+
+Auch auf diesem Umschlag stand ihr Name. Sie riss ihn auf und zog einen weißen Zettel heraus, der genauso aussah wie der erste.
+
+Woher kommt die Welt?, stand darauf.
+
+Keine Ahnung, dachte Sofie. So was weiß ja wohl niemand! Und trotzdem – Sofie fand diese Frage berechtigt. Zum ersten Mal in ihrem Leben dachte sie, dass es fast unmöglich war, auf einer Welt zu leben, ohne wenigstens zu fragen, woher sie stammte.
+
+Von den geheimnisvollen Briefen war Sofie so schwindlig geworden, dass sie beschloss, sich in die Höhle zu setzen. Die Höhle war Sofies Geheimversteck. Hierhin kam sie nur, wenn sie sehr wütend, sehr traurig oder sehr froh war. Heute war sie verwirrt.
+
+Das rote Haus stand mitten in einem großen Garten. Es gab hier viele Blumenbeete, Johannis- und Stachelbeersträucher, verschiedene Obstbäume, einen großen Rasen mit einer Hollywoodschaukel und sogar einen kleinen Pavillon, den Großvater für Großmutter gebaut hatte, als ihr erstes Kind nur wenige Wochen nach der Geburt gestorben war. Das arme kleine Mädchen hatte Marie geheißen. Auf dem Grabstein stand: »Klein Mariechen zu uns kam, grüßte nur und ging von dann’«.
+
+In einer Ecke des Gartens, noch hinter den Himbeersträuchern, stand ein dichtes Gestrüpp, das weder Blüten noch Beeren trug. Eigentlich war es eine alte Hecke, die die Grenze zum Wald bildete, aber da sich in den letzten zwanzig Jahren niemand mehr darum gekümmert hatte, war sie zu einem undurchdringlichen Gestrüpp herangewachsen. Großmutter hatte erzählt, dass die Hecke im Krieg, als die Hühner frei im Garten herumliefen, den Füchsen die Hühnerjagd etwas schwerer gemacht hatte.
+
+Für alle anderen war die alte Hecke genauso unnütz wie die alten Kaninchenställe weiter vorn im Garten. Aber das lag nur daran, dass sie nichts von Sofies Geheimnis wussten. Solange Sofie sich erinnern konnte, hatte sie in der Hecke einen schmalen Durchgang gekannt. Wenn sie hindurchkroch, erreichte sie bald einen großen Hohlraum, das war ihre Höhle. Hier konnte sie ganz sicher sein, dass niemand sie finden würde.
+
+Mit den beiden Briefumschlägen in der Hand lief Sofie durch den Garten und robbte dann auf allen vieren durch die Hecke. Die Höhle war so groß, dass sie darin fast aufrecht stehen konnte, aber nun setzte sie sich auf einige dicke Wurzeln. Von hier aus konnte sie durch zwei winzig kleine Löcher zwischen Zweigen und Blättern hinaussehen. Obwohl keines dieser Löcher größer war als ein Fünfkronenstück, hatte sie den ganzen Garten im Blick. Als sie klein war, hatte sie gern zugesehen, wie ihre Mutter oder ihr Vater zwischen den Bäumen umherliefen und sie suchten.
+
+Sofie war der Garten immer schon wie eine eigene Welt vorgekommen. Jedes Mal, wenn sie vom Garten Eden aus der Schöpfungsgeschichte gehört hatte, hatte sie an die Höhle denken müssen und daran, wie es war, darin zu sitzen und ihr eigenes kleines Paradies zu betrachten.
+
+»Woher kommt die Welt?«
+
+Nein, das wusste sie wirklich nicht. Sofie wusste natürlich, dass die Welt nur ein kleiner Planet im riesigen Weltraum war. Aber woher kam der Weltraum?
+
+Es war natürlich denkbar, dass der Weltraum immer schon da gewesen war; dann brauchte sie auch keine Antwort auf die Frage zu finden, woher er gekommen war. Aber konnte etwas denn ewig sein? Irgendetwas in ihr protestierte dagegen. Alles, was existiert, muss doch einen Anfang haben. Also musste irgendwann der Weltraum aus etwas anderem entstanden sein.
+
+Aber wenn der Weltraum plötzlich aus etwas anderem entstanden war, dann musste dieses andere ebenfalls irgendwann aus etwas anderem entstanden sein. Sofie begriff, dass sie das Problem nur vor sich hergeschoben hatte. Schließlich und endlich musste irgendwann irgendetwas aus null und nichts entstanden sein. Aber war das möglich? War diese Vorstellung nicht ebenso unmöglich wie die, dass es die Welt immer schon gegeben hatte?
+
+Im Religionsunterricht lernten sie, dass Gott die Welt erschaffen hatte, und Sofie versuchte jetzt, sich damit zufrieden zu geben, dass das trotz allem die beste Lösung für dieses Problem war. Aber dann fing sie wieder an zu denken. Sie konnte gern hinnehmen, dass Gott den Weltraum erschaffen hatte, aber was war mit Gott selber? Hatte er sich selbst aus null und nichts erschaffen? Wieder protestierte etwas in ihr. Obwohl Gott sicher alles Mögliche erschaffen konnte, konnte er sich ja wohl kaum selber schaffen, ehe er ein »Selbst« hatte, mit dem er erschaffen konnte. Und dann gab es nur noch eine Möglichkeit: Gott gab es schon immer. Aber diese Möglichkeit hatte sie doch schon verworfen. Alles, was existierte, musste einen Anfang haben.
+
+»Verflixt!«
+
+Wieder öffnete sie beide Briefumschläge.
+
+»Wer bist du?«
+
+»Woher kommt die Welt?«
+
+Was für gemeine Fragen! Und woher kamen die beiden Briefe? Das war fast genauso geheimnisvoll.
+
+Wer hatte Sofie aus dem Alltag gerissen und sie plötzlich mit den großen Rätseln des Universums konfrontiert?
+
+Zum dritten Mal ging Sofie zum Briefkasten.
+
+Erst jetzt hatte der Postbote die normale Post gebracht. Sofie fischte einen dicken Packen Werbung, Zeitungen und zwei Briefe an ihre Mutter heraus. Es gab auch eine Postkarte – mit dem Bild eines südlichen Strandes. Sie drehte die Karte um. Sie hatte norwegische Briefmarken und den Stempel »UN-Regiment«. Konnte die von ihrem Vater sein? Aber war der nicht ganz woanders? Und seine Handschrift war es auch nicht.
+
+Sofie spürte ihren Puls etwas schneller schlagen, als sie die Adresse auf der Karte las. »Hilde Møller Knag, c/o Sofie Amundsen, Kløverveien 3...« Die übrige Adresse stimmte. Auf der Karte stand:
+
+Liebe Hilde! Ich gratuliere dir herzlich zum 15. Geburtstag. Du verstehst sicher, dass ich dir ein Geschenk machen möchte, an dem du wachsen kannst. Verzeih, dass ich die Karte an Sofie schicke. So war es am leichtesten.
+
+Liebe Grüße, Papa
+
+Sofie lief zum Haus zurück und stürzte in die Küche. Sie spürte, dass ein Sturm in ihr tobte. Was war das nun wieder? Wer war diese Hilde, die einen guten Monat vor Sofies eigenem 15. Geburtstag fünfzehn wurde?
+
+Sofie holte sich das Telefonbuch aus dem Flur. Viele darin hießen Møller, manche auch Knag. Aber im ganzen dicken Telefonbuch hieß kein Mensch Møller Knag.
+
+Wieder musterte sie die geheimnisvolle Karte. Doch, echt war die schon, mit Briefmarke und Stempel.
+
+Warum aber schickte ein Vater eine Geburtstagskarte an Sofies Adresse, wenn sie doch ganz offenbar anderswohin gehörte? Welcher Vater würde eine Postkarte auf Irrwege senden und damit seine Tochter um ihren Geburtstagsgruß betrügen? Wieso konnte es »so am leichtesten« sein? Und vor allem: Wie sollte sie Hilde ausfindig machen?
+
+Auf diese Weise hatte Sofie noch ein Problem, über das sie sich den Kopf zerbrechen konnte. Sie versuchte wieder, Ordnung in ihre Gedanken zu bringen.
+
+Im Laufe weniger Nachmittagsstunden war sie mit drei Rätseln konfrontiert worden. Das erste Rätsel war die Frage, wer die beiden weißen Briefumschläge in ihren Briefkasten gelegt hatte. Das zweite waren die schwierigen Fragen, die diese Briefe stellten. Das dritte Rätsel war, wer Hilde Møller Knag war und warum Sofie eine Geburtstagskarte für dieses fremde Mädchen erhalten hatte.
+
+Sie war sich sicher, dass diese drei Rätsel irgendwie zusammenhängen mussten, denn bisher hatte sie ein ganz normales Leben geführt.
+
+
+
+
+
+Der Zylinderhut
+
+
+... das Einzige, was wir brauchen, um gute Philosophen zu werden, ist die Fähigkeit, uns zu wundern ...
+
+Sofie ging davon aus, dass der Schreiber der anonymen Briefe sich wieder melden würde. Sie beschloss, vorerst niemandem von diesen Briefen zu erzählen.
+
+In der Schule fiel es ihr schwer, sich auf das zu konzentrieren, was der Lehrer sagte. Sofie fand plötzlich, er rede nur von unwichtigen Dingen. Warum sprach er nicht lieber darüber, was ein Mensch ist – oder was die Welt ist und wie sie entstehen konnte?
+
+Sie hatte ein Gefühl, das sie noch nie gehabt hatte: In der Schule und auch sonst überall beschäftigten die Leute sich mit mehr oder minder zufälligen Dingen. Aber es gab doch große und schwierige Fragen, deren Beantwortung wichtiger war als die üblichen Schulfächer.
+
+Hatte irgendwer Antworten auf solche Fragen? Sofie fand es jedenfalls wichtiger, darüber nachzudenken, als starke Verben zu büffeln.
+
+Als es nach der letzten Stunde schellte, lief sie so schnell vom Schulhof, dass Jorunn rennen musste, um sie einzuholen.
+
+Nach einer Weile fragte Jorunn:
+
+»Wollen wir heute Abend Karten spielen?«
+
+Sofie zuckte mit den Schultern.
+
+»Ich glaube, ich interessiere mich nicht mehr so sehr für Kartenspiele.«
+
+Jorunn sah aus wie aus allen Wolken gefallen.
+
+»Nicht? Sollen wir dann lieber Federball spielen?«
+
+Sofie starrte den Asphalt an – und dann ihre Freundin.
+
+»Ich glaube, Federball interessiert mich auch nicht mehr so sehr.«
+
+»Na gut!«
+
+Sofie hörte in Jorunns Stimme einen Hauch von Bitterkeit.
+
+»Du kannst mir aber vielleicht erzählen, was plötzlich soviel wichtiger geworden ist?«
+
+Sofie schüttelte den Kopf.
+
+»Das ... ist ein Geheimnis.«
+
+»Pöh! Du bist bestimmt verliebt.«
+
+Die beiden gingen lange zusammen weiter, ohne etwas zu sagen. Als sie den Fußballplatz erreicht hatten, sagte Jorunn:
+
+»Ich gehe über den Platz.«
+
+»Über den Platz.« Das war der schnellste Weg zu Jorunn, aber sie ging ihn nur, wenn sie dringend nach Hause musste, weil Besuch kam oder weil sie einen Zahnarzttermin hatte.
+
+Sofie merkte, dass es ihr Leid tat, Jorunn verletzt zu haben. Aber was hätte sie antworten sollen? Dass es sie plötzlich so sehr beschäftigte, wer sie war und woher die Welt stammte, dass sie keine Zeit zum Federballspielen hatte? Ob ihre Freundin das verstanden hätte?
+
+Warum war es bloß so schwer, sich mit der allerwichtigsten und irgendwie auch allernatürlichsten Frage zu befassen?
+
+Sie spürte ihr Herz schneller schlagen, als sie den Briefkasten öffnete. Auf den ersten Blick sah sie nur Kontoauszüge und einige große gelbe Briefumschläge für ihre Mutter. Doof, Sofie hatte so sehr auf einen neuen Brief des unbekannten Absenders gehofft.
+
+Als sie hinter sich das Tor schloss, entdeckte sie auf einem der großen Umschläge ihren eigenen Namen. Auf der Rückseite, wo der Umschlag zugeklebt war, stand: Philosophiekurs. Muss mit großer Vorsicht behandelt werden.
+
+Sofie lief über den Kiesweg und stellte ihre Schultasche auf die Treppe. Sie schob die übrigen Briefe unter die Fußmatte, rannte in den Garten hinter das Haus und suchte Zuflucht in der Höhle. Der große Brief musste dort geöffnet werden.
+
+Sherekan kam ihr nachgerannt, aber dagegen konnte sie nichts machen. Sofie war sich aber sicher, dass die Katze nichts ausplaudern würde.
+
+Im Umschlag steckten drei große, mit Maschine beschriebene Bögen, die mit einer Büroklammer zusammengeheftet waren. Sofie fing an zu lesen.
+
+
+
+
+
+Was ist Philosophie?
+
+
+Liebe Sofie! Viele Menschen haben unterschiedliche Hobbys. Manche sammeln alte Münzen oder Briefmarken, andere handarbeiten gern, noch andere widmen fast all ihre Freizeit einer bestimmten Sportart.
+
+Viele lesen auch gern. Aber was wir lesen, ist sehr unterschiedlich. Einige lesen nur Zeitungen oder Comics, andere mögen Romane, noch andere ziehen Bücher über verschiedene Themen wie Astronomie, Tierleben oder technische Erfindungen vor.
+
+Wenn ich mich für Pferde oder Edelsteine interessiere, kann ich nicht verlangen, dass alle anderen diese Interessen teilen. Wenn ich wie gebannt vor allen Sportsendungen im Fernsehen sitze, muss ich mich damit abfinden können, dass andere Sport öde finden.
+
+Gibt es trotzdem etwas, das alle interessieren sollte? Gibt es etwas, das alle Menschen angeht – egal, wer sie sind oder wo auf der Welt sie wohnen? Ja, liebe Sofie, es gibt Fragen, die alle Menschen beschäftigen sollten. Und um solche Fragen geht es in diesem Kurs.
+
+Was ist das Wichtigste im Leben? Wenn wir jemanden in einem Land mit Hungersnot fragen, dann lautet die Antwort: Essen. Wenn wir dieselbe Frage an einen Frierenden stellen, dann ist die Antwort: Wärme. Und wenn wir einen Menschen fragen, der sich einsam und allein fühlt, dann lautet die Antwort sicher: Gemeinschaft mit anderen Menschen.
+
+Aber wenn alle diese Bedürfnisse befriedigt sind – gibt es dann immer noch etwas, das alle Menschen brauchen? Die Philosophen meinen ja. Sie meinen, dass der Mensch nicht vom Brot allein lebt. Alle Menschen müssen natürlich essen. Alle brauchen auch Liebe und Fürsorge. Aber es gibt noch etwas, das alle Menschen brauchen. Wir haben das Bedürfnis, herauszufinden, wer wir sind und warum wir leben.
+
+Sich dafür zu interessieren, warum wir leben, ist also kein ebenso »zufälliges« Interesse wie das am Briefmarkensammeln. Wer sich für solche Fragen interessiert, beschäftigt sich mit etwas, das die Menschen schon fast so lange diskutieren, wie wir auf diesem Planeten leben. Wie Weltraum, Erdball und das Leben hier entstanden sind, ist eine größere und wichtigere Frage als die, wer bei den letzten Olympischen Spielen die meisten Goldmedaillen gewonnen hat.
+
+Die beste Herangehensweise an die Philosophie ist es, philosophische Fragen zu stellen:
+
+Wie wurde die Welt erschaffen? Liegt hinter dem, was geschieht, ein Wille oder ein Sinn? Gibt es ein Leben nach dem Tod? Wie sollen wir überhaupt die Antwort auf solche Fragen finden? Und vor allem: Wie sollten wir leben?
+
+Solche Fragen haben die Menschen zu allen Zeiten gestellt. Wir kennen keine Kultur, die sich nicht gefragt hat, wer die Menschen sind oder woher die Welt stammt.
+
+Im Grunde können wir gar nicht so viele verschiedene philosophische Fragen stellen. Wir haben bereits einige der wichtigsten gestellt. Aber die Geschichte zeigt uns viele unterschiedliche Antworten auf jede einzelne Frage, die wir gestellt haben.
+
+Es ist also leichter, philosophische Fragen zu stellen, als sie zu beantworten.
+
+Auch heute muss jeder einzelne seine Antworten auf diese Fragen finden. Wir können nicht im Lexikon nachschlagen, ob es einen Gott oder ein Leben nach dem Tod gibt. Das Lexikon sagt uns auch nicht, wie wir leben sollen. Lesen, was andere Menschen gedacht haben, kann aber trotzdem eine Hilfe sein, wenn wir uns unser eigenes Bild vom Leben und der Welt machen müssen.
+
+Die Jagd der Philosophen nach der Wahrheit lässt sich vielleicht mit einer Kriminalgeschichte vergleichen. Manche halten Andersen für den Mörder, andere Nielsen oder Jepsen. Einen wirklichen Kriminalfall kann die Polizei vielleicht plötzlich eines Tages klären. Es ist natürlich auch denkbar, dass sie das Rätsel nie lösen kann. Trotzdem hat das Rätsel eine Lösung.
+
+Auch wenn es schwer ist, eine Frage zu beantworten, ist es also vorstellbar, dass die Frage eine – und nur eine – richtige Antwort hat. Entweder gibt es eine Art Dasein nach dem Tod – oder nicht.
+
+Viele alte Rätsel sind inzwischen von der Wissenschaft gelöst worden. Einst war es ein großes Rätsel, wie wohl die Rückseite des Mondes aussieht. Man konnte die Lösung nicht durch Diskussion ermitteln, hier war die Antwort der Phantasie jedes Einzelnen überlassen. Aber heute wissen wir genau, wie die Rückseite des Mondes aussieht. Wir können nicht länger »glauben«, dass im Mond ein Mann wohnt oder dass der Mond aus Käse besteht.
+
+Einer der alten griechischen Philosophen, die vor über zweitausend Jahren gelebt haben, glaubte, dass die Philosophie durch die Verwunderung der Menschen entstanden sei. Der Mensch findet es so seltsam zu leben, dass die philosophischen Fragen ganz von selber entstehen, meinte er.
+
+Das ist so, als wenn wir bei einem Zaubertrick zusehen: Wir können nicht begreifen, wie das, was wir sehen, möglich ist. Und dann fragen wir danach: Wie konnte der Zauberkünstler zwei weiße Seidenschals in ein lebendiges Kaninchen verwandeln?
+
+Vielen Menschen kommt die Welt genauso unfassbar vor wie das Kaninchen, das ein Zauberkünstler plötzlich aus einem eben noch leeren Zylinderhut zieht.
+
+Was das Kaninchen betrifft, so ist uns klar, dass der Zauberkünstler uns an der Nase herumgeführt hat. Wenn wir über die Welt reden, liegen die Dinge etwas anders. Wir wissen, dass die Welt nicht Lug und Trug ist, denn wir laufen auf der Erde herum und sind ein Teil der Welt. Im Grunde sind wir das weiße Kaninchen, das aus dem Zylinder gezogen wird. Der Unterschied zwischen uns und dem weißen Kaninchen ist nur, dass das Kaninchen nicht weiß, dass es an einem Zaubertrick mitwirkt. Mit uns ist das anders. Wir glauben, an etwas Rätselhaftem beteiligt zu sein, und würden gerne klarstellen, wie alles zusammenhängt.
+
+PS. Was das weiße Kaninchen betrifft, so ist es vielleicht besser, es mit dem gesamten Universum zu vergleichen. Wir, die wir hier wohnen, sind das wimmelnde Gewürm tief unten im Kaninchenfell. Aber die Philosophen versuchen, an den dünnen Haaren nach oben zu klettern, um dem großen Zauberkünstler voll in die Augen blicken zu können.
+
+Bist du noch da, Sofie? Fortsetzung folgt.
+
+Sofie war ganz schwach. Ob sie noch da war? Sie wusste nicht einmal, ob sie beim Lesen überhaupt Atem geholt hatte.
+
+Wer hatte den Brief gebracht? Wer, wer?
+
+Es konnte unmöglich derselbe sein, der Hilde Møller Knag die Geburtstagskarte geschickt hatte, denn die hatte Briefmarke und Stempel gehabt. Der gelbe Briefumschlag aber war gleich in den Briefkasten gelegt worden, genau wie vorher die beiden weißen.
+
+Sofie sah auf die Uhr. Es war erst Viertel vor drei. Erst in zwei Stunden würde ihre Mutter von der Arbeit kommen.
+
+Sofie lief wieder in den Garten und zum Briefkasten. Ob da wohl noch mehr liegen konnte?
+
+Sie fand einen weiteren gelben Briefumschlag, auf dem ihr Name stand. Sie sah sich um, konnte aber niemanden entdecken. Sofie rannte zum Waldrand und hielt auf dem Weg Ausschau. Aber auch dort fand sie keine Menschenseele. Plötzlich glaubte sie, tiefer im Wald Zweige knacken zu hören. Sie war sich aber nicht ganz sicher, und es hätte ja doch keinen Zweck gehabt, loszustürmen. Wenn irgendwer versuchte, vor ihr wegzulaufen, würde sie ihn kaum einholen.
+
+Sofie schloss die Haustür auf und legte ihre Schultasche und die Post für ihre Mutter auf den Boden. Sie lief auf ihr Zimmer, nahm sich die große Kuchendose mit den vielen schönen Steinen, kippte die Steine auf den Boden und legte die beiden großen Umschläge in die Dose. Dann lief sie mit der Dose im Arm wieder in den Garten. Vorher stellte sie Sherekan noch Futter hin.
+
+»Miez, Miez, Miez!«
+
+Als sie wieder in der Höhle saß, öffnete sie den Briefumschlag und zog mehrere mit Maschine beschriebene Bögen heraus. Sie fing an zu lesen.
+
+
+
+
+
+Ein seltsames Wesen
+
+
+Da wären wir wieder. Du hast sicher schon begriffen, dass dieser kleine Philosophiekurs in passenden Portionen kommt. Hier ein paar weitere einleitende Bemerkungen.
+
+Habe ich schon gesagt, dass die Fähigkeit, uns zu wundern, das Einzige ist, was wir brauchen, um gute Philosophen zu werden? Wenn nicht, dann sage ich das jetzt: DIE FÄHIGKEIT, UNS ZU WUNDERN, IST DAS EINZIGE, WAS WIR BRAUCHEN, UM GUTE PHILOSOPHEN ZU WERDEN.
+
+Alle kleinen Kinder haben diese Fähigkeit, das ist ja wohl klar. Nach wenigen Monaten werden sie in eine nagelneue Wirklichkeit geschubst. Aber wenn sie dann heranwachsen, scheint diese Fähigkeit abzunehmen. Woher kann das kommen? Kann Sofie Amundsen diese Frage beantworten?
+
+Also: Wenn ein kleines Baby reden könnte, würde es sicher erzählen, in was für eine seltsame Welt es gekommen ist. Denn obwohl das Kind nicht sprechen kann, sehen wir, wie es um sich zeigt und neugierig die Gegenstände im Zimmer anfasst.
+
+Wenn die ersten Wörter kommen, bleibt das Kind jedes Mal stehen, wenn es einen Hund sieht und ruft: »Wau-wau!« Wir sehen, wie es in der Kinderkarre auf- und abhüpft und mit den Armen herumfuchtelt: »Wauwau! Wauwau!« Wir, die schon ein paar Jahre hinter uns haben, fühlen uns von der Begeisterung des Kindes vielleicht ein wenig überfordert. »Ja, ja, das ist ein Wauwau!«, sagen wir welterfahren, »aber setz dich jetzt schön wieder hin.« Wir sind nicht so begeistert. Wir haben schon früher Hunde gesehen.
+
+Vielleicht wiederholt sich diese wüste Szene einige hundert Male, bis das Kind an einem Hund vorbeikommen kann, ohne außer sich zu geraten. Oder an einem Elefanten oder einem Nilpferd. Aber lange bevor das Kind richtig sprechen lernt – oder lange bevor es philosophisch denken lernt –, ist die Welt ihm zur Gewohnheit geworden.
+
+Schade, wenn du mich fragst.
+
+Es geht mir darum, dass du nicht zu denen gehörst, die die Welt für selbstverständlich halten, liebe Sofie. Sicherheitshalber werden wir deshalb zwei gedankliche Experimente machen, ehe wir mit dem eigentlichen Philosophiekurs anfangen.
+
+Stell dir vor, du machst eine Waldwanderung. Plötzlich entdeckst du vor dir auf dem Weg ein kleines Raumschiff. Aus dem Raumschiff klettert ein kleiner Marsmensch und starrt zu dir hoch ...
+
+Was würdest du dann denken? Naja, das ist im Grunde egal. Aber ist dir je aufgegangen, dass du selber so ein Marsmensch bist?
+
+Natürlich ist es nicht besonders wahrscheinlich, dass du je über ein Geschöpf von einem anderen Planeten stolperst. Wir wissen nicht einmal, ob es auf anderen Planeten Leben gibt. Aber es ist denkbar, dass du über dich selber stolperst. Es kann passieren, dass du eines schönen Tages stutzt und dich selber auf eine ganz neue Weise erlebst. Vielleicht passiert das ja gerade auf einer Waldwanderung.
+
+Ich bin ein seltsames Wesen, denkst du. Ich bin ein geheimnisvolles Tier ...
+
+Du scheinst aus einem jahrelangen Dornröschenschlaf zu erwachen. Wer bin ich? fragst du. Du weißt, dass du auf einem Planeten im Universum herumkrabbelst. Aber was ist das Universum?
+
+Bist du noch da, Sofie? Wir machen noch ein gedankliches Experiment:
+
+Eines Morgens sitzen Mama, Papa und der kleine Thomas, der vielleicht zwei oder drei ist, in der Küche beim Frühstück. Plötzlich steht Mama auf und dreht sich zum Spülbecken um, und dann – ja, dann schwebt Papa plötzlich unter der Decke.
+
+Was glaubst du, sagt Thomas dazu? Vielleicht zeigt er auf seinen Papa und sagt: »Papa fliegt!«
+
+Sicher wäre Thomas erstaunt, aber das ist er ja sowieso. Papa macht so viele seltsame Dinge, dass ein kleiner Flug über den Frühstückstisch in seinen Augen keine große Rolle mehr spielt. Jeden Tag rasiert er sich mit einer witzigen Maschine, manchmal klettert er aufs Dach und dreht an der Fernsehantenne herum – oder er steckt den Kopf in den Automotor und kommt rabenschwarz wieder zum Vorschein.
+
+Und dann kommt Mama an die Reihe. Sie hat gehört, was Thomas gesagt hat, und dreht sich resolut um. Wie, glaubst du, wird sie auf den Anblick des freischwebenden Papas über dem Küchentisch reagieren?
+
+Ihr fällt sofort das Marmeladenglas aus der Hand und sie heult vor Entsetzen auf. Vielleicht muss sie zum Arzt, nachdem Papa wieder auf seinem Stuhl sitzt. (Er hätte schon längst bessere Tischmanieren lernen sollen.)
+
+Warum reagieren Thomas und Mama so unterschiedlich, was meinst du?
+
+Es ist eine Frage der Gewöhnung. (Notier dir das!) Mama hat gelernt, dass Menschen nicht fliegen können. Thomas nicht. Er ist noch immer unsicher, was auf dieser Welt möglich ist und was nicht.
+
+Aber was ist mit der Welt selber, Sofie? Meinst du, die ist möglich? Auch sie schwebt doch frei im Raum.
+
+Das Traurige ist, dass wir uns im Heranwachsen nicht nur an die Gesetze der Schwerkraft gewöhnen. Wir gewöhnen uns gleichzeitig an die Welt selber.
+
+Anscheinend verlieren wir im Laufe unserer Kindheit die Fähigkeit, uns über die Welt zu wundern. Aber dadurch verlieren wir etwas Wesentliches – etwas, das die Philosophen wieder zum Leben erwecken wollen. Denn irgendwo in uns sagt uns etwas, dass das Leben ein großes Rätsel ist. Das haben wir erlebt, lange bevor wir gelernt haben, es zu denken.
+
+Ich präzisiere: Obwohl die philosophischen Fragen alle Menschen angehen, werden nicht alle Menschen Philosophen. Aus unterschiedlichen Gründen werden die meisten vom Alltag dermaßen eingefangen, dass die Verwunderung über das Leben weit zurückgedrängt wird. (Sie kriechen tief ins Kaninchenfell, machen es sich dort gemütlich und bleiben für den Rest des Lebens da unten.)
+
+Für Kinder ist die Welt – und alles, was es darauf gibt – etwas Neues, etwas, das Erstaunen hervorruft. Alle Erwachsenen sehen das nicht so. Die meisten Erwachsenen erleben die Welt als etwas ganz Normales.
+
+Und genau da bilden die Philosophen eine ehrenwerte Ausnahme. Ein Philosoph hat sich nie richtig an diese Welt gewöhnen können. Für einen Philosophen oder eine Philosophin ist die Welt noch immer unbegreiflich, ja, sogar rätselhaft und geheimnisvoll. Philosophen und kleine Kinder haben also eine wichtige gemeinsame Eigenschaft. Du kannst sagen, dass ein Philosoph sein ganzes Leben lang so aufnahmefähig bleibt wie ein kleines Kind.
+
+Und jetzt musst du dich entscheiden, liebe Sofie: Bist du ein Kind, das sich an die Welt noch nicht »gewöhnt« hat? Oder bist du eine Philosophin, die beschwören kann, dass ihr das auch nie passieren wird?
+
+Wenn du einfach den Kopf schüttelst und dich weder als Kind noch als Philosophin fühlst, dann liegt das daran, dass du dich in der Welt so gut eingelebt hast, dass sie dich nicht mehr überrascht. In dem Fall ist Gefahr im Verzug. Und deshalb bekommst du diesen Philosophiekurs, sicherheitshalber eben. Ich will nicht, dass gerade du zu den Trägen und Gleichgültigen gehörst. Ich will, dass du ein waches Leben lebst.
+
+Du bekommst den Kurs vollkommen gratis. Deshalb gibt es auch kein Geld zurück, wenn du ihn nicht mitmachst. Wenn du den Kurs irgendwann abbrechen möchtest, ist das kein Problem. Du brauchst mir nur eine Nachricht in den Briefkasten zu legen, sagen wir: einen lebendigen Frosch. Es muss jedenfalls etwas Grünes sein; wir wollen schließlich nicht den Postboten erschrecken.
+
+Kurze Zusammenfassung: Ein weißes Kaninchen wird aus einem leeren Zylinder gezogen. Weil es ein sehr großes Kaninchen ist, nimmt dieser Trick viele Milliarden von Jahren in Anspruch. An der Spitze der dünnen Haare werden alle Menschenkinder geboren. Deshalb können sie über die unmögliche Zauberkunst staunen. Aber wenn sie älter werden, kriechen sie immer tiefer in den Kaninchenpelz. Und da bleiben sie. Da unten ist es so gemütlich, dass sie nie mehr wagen, an den dünnen Haaren im Fell wieder nach oben zu klettern. Nur die Philosophen wagen sich auf die gefährliche Reise zu den äußersten Grenzen von Sprache und Dasein. Einige von ihnen gehen uns unterwegs verloren, aber andere klammern sich an den Kaninchenhaaren fest und rufen den Menschen zu, die tief unten im weichen Fell sitzen und sich mit Speis und Trank den Bauch voll schlagen.
+
+»Meine Damen und Herren«, rufen sie, »wir schweben im leeren Raum!«
+
+Aber keiner der Menschen unten im Fell interessiert sich für das Geschrei der Philosophen.
+
+»Himmel, was für Krachschläger«, sagen sie.
+
+Und dann reden sie weiter wie bisher: Kannst du mir mal die Butter geben? Wie hoch stehen heute die Aktien? Was kosten die Tomaten? Hast du gehört, dass Lady Di wieder schwanger sein soll?
+
+Als Sofies Mutter später an diesem Nachmittag nach Hause kam, lag die Dose mit den Briefen des geheimnisvollen Philosophen sicher versteckt in der Höhle. Sofie hatte versucht, sich an die Hausaufgaben zu setzen, zerbrach sich aber doch nur den Kopf über das, was sie gelesen hatte.
+
+So viel, worüber sie nie zuvor nachgedacht hatte! Sie war kein Kind mehr – aber auch noch keine richtige Erwachsene. Sofie sah ein, dass sie schon angefangen hatte, tief in den dichten Pelz des Kaninchens zu kriechen, das aus dem schwarzen Zylinder des Universums gezogen wurde. Aber jetzt hatte der Philosoph sie zurückgehalten. Er – oder war es eine Sie? – hatte sie fest am Nacken gepackt und sie wieder auf das Haar im Fell gezogen, auf dem sie als Kind gespielt hatte. Und dort draußen, auf der Spitze der dünnen Haare, hatte sie die Welt wieder gesehen wie beim allerersten Mal. Der Philosoph hatte sie gerettet.
+
+Sofie zog ihre Mutter ins Wohnzimmer und drückte sie in einen Sessel.
+
+»Mama – meinst du nicht, dass es seltsam ist, zu leben?« fing sie an.
+
+Die Mutter war so verblüfft, dass ihr keine Antwort einfiel. Sonst saß Sofie immer über ihren Hausaufgaben, wenn sie nach Hause kam.
+
+»Tja«, sagte sie. »Manchmal schon.«
+
+»Manchmal? Ich meine – findest du es nicht seltsam, dass es überhaupt eine Welt gibt?«
+
+»Aber Sofie, was redest du denn da?«
+
+»Ich frage dich was. Aber du findest die Welt wahrscheinlich ganz normal?«
+
+»Ja. Das ist sie doch auch. Meistens.«
+
+Sofie begriff, dass der Philosoph Recht hatte. Die Erwachsenen fanden die Welt selbstverständlich. Ein für alle Mal schliefen sie den Dornröschenschlaf des Alltagslebens.
+
+»Pah! Du hast dich nur so gut in der Welt eingelebt, dass sie dich nicht mehr überrascht«, sagte sie.
+
+»Entschuldige, aber ich verstehe kein Wort.«
+
+»Ich sage, du hast dich zu sehr an die Welt gewöhnt. Total bescheuert, mit anderen Worten.«
+
+»Also, so darfst du wirklich nicht mit mir reden, Sofie.«
+
+»Dann sage ich es eben anders. Du hast es dir unten im Fell eines Kaninchens, das gerade in diesem Augenblick aus dem schwarzen Zylinder des Universums gezogen wird, sehr gemütlich gemacht. Und jetzt wirst du bald die Kartoffeln aufsetzen. Und dann liest du die Zeitung und nach einem Nickerchen von einer halben Stunde siehst du dir die Fernsehnachrichten an.«
+
+Ein bekümmerter Ausdruck huschte über das Gesicht der Mutter. Sie ging wirklich in die Küche und setzte die Kartoffeln auf. Gleich darauf stand sie wieder im Wohnzimmer und nun drückte sie Sofie in einen Sessel.
+
+»Ich muss mit dir reden«, fing sie an. Sofie konnte ihrer Stimme anhören, dass es um etwas Ernstes ging.
+
+»Du hast doch wohl kein Rauschgift in die Finger bekommen, Kind?«
+
+Sofie musste einfach lachen, aber sie begriff ja, warum diese Frage ausgerechnet jetzt gestellt wurde.
+
+»Spinnst du?«, fragte sie. »Davon wird man ja bloß noch öder!«
+
+Mehr wurde an diesem Nachmittag über Rauschgift oder weiße Kaninchen nicht gesagt.
+
+
+
+
+
+Die Mythen
+
+
+... eine prekäre Machtbalance zwischen guten und bösen Kräften ...
+
+Am nächsten Morgen lag kein Brief im Briefkasten. Sofie langweilte sich durch einen langen Schultag hindurch. Sie gab sich Mühe, in den Pausen besonders nett zu Jorunn zu sein. Auf dem Heimweg schmiedeten sie Pläne für einen Zeltausflug, sowie es im Wald trocken wurde.
+
+Dann stand sie wieder vor dem Briefkasten. Als Erstes öffnete sie einen kleinen Briefumschlag, der in Mexiko abgestempelt war und eine Karte von ihrem Vater enthielt. Er schrieb von Heimweh und hatte den Ersten Steuermann zum ersten Mal im Schach besiegt. Ansonsten hatte er die zwanzig Kilo Bücher, die er nach dem Winterurlaub mitgenommen hatte, fast schon durch.
+
+Und dort, dort lag außerdem ein gelber Briefumschlag, auf dem ihr Name stand! Sofie brachte Schultasche und Post ins Haus und lief in die Höhle. Sie zog mehrere neue mit Maschine beschriebene Bögen aus dem Umschlag und fing an zu lesen.
+
+
+
+
+
+Das mythische Weltbild
+
+
+Hallo, Sofie! Wir haben viel vor, da fangen wir lieber gleich an.
+
+Unter Philosophie verstehen wir eine ganz neue Art zu denken, die gegen 600 vor Christus in Griechenland entstanden ist. Vorher hatten die verschiedenen Religionen den Menschen alle Fragen beantwortet. Solche religiösen Erklärungen wurden von Generation zu Generation in den Mythen weitergereicht.
+
+Ein Mythos ist eine Göttererzählung, die erklären will, warum das Leben so ist, wie es ist.
+
+In der ganzen Welt ist im Laufe der Jahrtausende eine wilde Flora von mythischen Erklärungen der philosophischen Fragen herangewachsen. Die griechischen Philosophen versuchten zu beweisen, dass die Menschen sich nicht darauf verlassen konnten.
+
+Um das Denken der ersten Philosophen zu verstehen, müssen wir also begreifen, was es bedeutet, ein mythisches Weltbild zu haben. Wir werden einige mythische Vorstellungen aus Nordeuropa als Beispiel nehmen. In die Ferne zu schweifen, ist dafür gar nicht nötig.
+
+Du hast sicher von Thor mit dem Hammer gehört. Ehe das Christentum nach Norwegen kam, glaubten die Menschen hier im Norden, dass Thor in einem von zwei Ziegenböcken gezogenen Wagen über den Himmel fahre. Wenn er seinen Hammer schwang, folgten Blitz und Donner. Das Wort »Donner« bedeutet nämlich ursprünglich »Thor-Dröhnen«. Auf Schwedisch heißt der Donner »åska« – eigentlich »ås-aka« –, das bedeutet: die Fahrt der Götter über den Himmel.
+
+Wenn es donnert und blitzt, regnet es auch. Das konnte für die Bauern der Wikingerzeit lebensnotwendig sein. Thor wurde deshalb als Fruchtbarkeitsgott verehrt.
+
+Die mythische Antwort auf die Frage, warum es regnet, war also, dass Thor seinen Hammer schwang. Und wenn Regen kam, keimte und wuchs das Korn auf den Feldern.
+
+Es war im Grunde unbegreiflich, dass die Pflanzen auf den Feldern wachsen und Frucht tragen konnten. Aber dass es irgendwie mit dem Regen zusammenhing, wussten die Bauern immerhin. Außerdem glaubten alle, dass der Regen etwas mit Thor zu tun hatte. Das machte ihn zu einem der wichtigsten Götter in Nordeuropa.
+
+Thor war noch aus einem anderen Grunde wichtig, und der hing mit der gesamten Weltordnung zusammen.
+
+Die Wikinger stellten sich die bewohnte Welt als eine Insel vor, die ständig von äußeren Gefahren bedroht ist. Diesen Teil der Welt nannten sie Midgard. Das bedeutet: das Reich, das in der Mitte liegt. In Midgard lag außerdem Åsgard, die Heimat der Götter. Vor Midgard lag Utgard, also das Reich, das außenvor liegt. Hier wohnten die gefährlichen Trolle, die immer wieder versuchten, durch gemeine Tricks die Welt zu vernichten. Wir nennen solche boshaften Monster auch »Chaoskräfte«. In der nordischen Religion und in den meisten anderen Kulturen hatten die Menschen das Gefühl, dass eine prekäre Machtbalance zwischen guten und bösen Kräften bestand.
+
+Eine Möglichkeit der Trolle, Midgard zu zerstören, war, die Fruchtbarkeitsgöttin Frøya zu rauben. Wenn ihnen das gelang, wuchs nichts mehr auf den Feldern, und die Frauen bekamen keine Kinder mehr. Deshalb war es so wichtig, dass die guten Götter die Trolle in Schach halten konnten.
+
+Und auch dabei spielte Thor eine wichtige Rolle: Sein Hammer brachte nicht nur Regen, er war auch eine Waffe im Kampf gegen die gefährlichen Kräfte des Chaos. Der Hammer verlieh ihm eine fast unendliche Macht. Er konnte ihn zum Beispiel auf die Trolle werfen und sie damit töten. Er brauchte auch keine Angst zu haben, ihn zu verlieren, denn der Hammer war wie ein Bumerang und kehrte immer zu ihm zurück.
+
+Das war die mythische Erklärung dafür, wie die Natur funktioniert und warum immer ein Kampf zwischen Gut und Böse stattfindet.
+
+Aber es ging nicht nur um Erklärungen.
+
+Die Menschen konnten nicht mit den Händen im Schoß dasitzen und abwarten, bis die Götter eingriffen, wenn Unglücksfälle – wie Dürre oder Epidemien – sie bedrohten. Die Menschen mussten selber am Kampf gegen das Böse teilnehmen. Das taten sie durch allerlei religiöse Handlungen oder Riten.
+
+Die wichtigste religiöse Handlung im nordischen Altertum war das Opfer. Einem Gott zu opfern, bedeutete, seine Macht zu vergrößern. Die Menschen mussten zum Beispiel den Göttern Opfer bringen, damit die stark genug wurden, um die Kräfte des Chaos zu besiegen. Dann wurde dem Gott vielleicht einTier geopfert. Thor wurden vermutlich zumeist Ziegenböcke dargebracht. Für Odin wurden manchmal auch Menschen geopfert.
+
+Den bekanntesten Mythos in Norwegen kennen wir aus dem Gedicht Trymskveda. Hier hören wir, dass Thor schlief, und als er erwachte, war sein Hammer verschwunden. Thor wurde so wütend, dass seine Hände zitterten und sein Bart bebte. Zusammen mit seinem Gefolgsmann Loke ging er zu Frøya und wollte ihre Flügel leihen, damit Loke nach Jotunheimen fliegen und herausfinden könnte, ob die Trolle dort Thors Hammer gestohlen hatten. Hier trifft Loke den Trollkönig Trym, der auch gleich losprotzt, weil er den Hammer acht Meilen unter dem Erdboden vergraben hat. Und er fügt hinzu: Die Götter bekommen den Hammer erst zurück, wenn Frøya ihn heiratet.
+
+Bist du noch da, Sofie? Die guten Götter sind plötzlich mit einem unerhörten Geiseldrama konfrontiert. Die Trolle haben jetzt die wichtigste Verteidigungswaffe der Götter in ihrer Gewalt, und das ist einfach eine unmögliche Situation. Solange die Trolle Thors Hammer in der Hand haben, haben sie alle Macht über die Welten von Göttern und Menschen. Im Austausch gegen den Hammer verlangen sie Frøya. Aber dieser Tausch ist nicht möglich: Wenn die Götter die Fruchtbarkeitsgöttin – die alles Leben schützt – hergeben müssen, dann verwelkt das Gras auf den Feldern, und Götter und Menschen müssen sterben. Es gibt also kein Vor und kein Zurück in dieser Situation. Wenn du dir eine Terrorgruppe vorstellst, die droht, mitten in London oder Paris eine Atombombe zu zünden, wenn ihre lebensgefährlichen Forderungen nicht erfüllt werden, dann verstehst du sicher, was ich meine.
+
+Der Mythos erzählt weiter, dass Loke nach Åsgard zurückkehrt. Hier fordert er Frøya auf, sich als Braut zu schmücken, denn jetzt muss sie mit dem Troll verheiratet werden (leider, leider!). Frøya wird wütend und sagt, die Leute würden doch denken, sie sei verrückt nach Männern, wenn sie einen Troll heirate.
+
+Und jetzt kommt dem Gott Heimdal eine gute Idee. Er schlägt vor, doch lieber Thor als Braut zu verkleiden. Sie können ihm die Haare aufstecken und ihm Steine vor die Brust binden, damit er wie eine Frau aussieht. Thor ist natürlich nicht sehr begeistert von dieser Idee, aber schließlich sieht er ein, dass nur so die Götter die Chance haben, den Hammer zurückzuerlangen. Am Ende wird Thor als Braut verkleidet und Loke begleitet ihn als Brautjungfer. »Und so ziehen wir beiden Frauen zu den Trollen«, sagt Loke.
+
+Wenn wir uns moderner ausdrücken wollen, dann können wir Thor und Loke als »Anti-Terror-Kommando« der Götter bezeichnen. Als Frauen verkleidet, wollen sie sich in die Hochburg der Trolle schleichen und Thors Hammer befreien.
+
+Als sie in Jotunheimen eingetroffen sind, machen die Trolle sofort alles für die Hochzeit bereit. Aber beim Fest isst die Braut – also Thor – einen ganzen Ochsen und acht Lachse. Er trinkt auch drei Tönnchen Bier und das wundert Trym. Um ein Haar wäre das verkleidete Anti-Terror-Kommando entlarvt worden. Aber Loke kann sie aus dieser Gefahr erretten. Er erzählt, Frøya habe seit acht Nächten nicht mehr gegessen, weil sie sich so auf Jotunheimen gefreut hat.
+
+Jetzt hebt Trym den Brautschleier, um die Braut zu küssen, fährt aber zurück, als er Thors hartem Blick begegnet. Auch diesmal rettet Loke die Situation. Er erzählt, dass die Braut in ihrer Freude auf die Hochzeit acht Nächte lang nicht geschlafen habe. Nun befiehlt Trym, den Hammer zu holen und der Braut während der Trauung auf den Schoß zu legen.
+
+Als Thor den Hammer auf dem Schoß liegen hatte, lachte er herzlich, heißt es. Erst tötete er damit Trym, dann den ganzen Rest der Jotunheimer Trolle. Und so nahm ein scheußliches Geiseldrama ein glückliches Ende. Noch einmal hatte Thor – der Batman oder James Bond der Götter – die bösen Mächte besiegt.
+
+So viel zum Mythos, Sofie. Aber was will er uns eigentlich sagen? Er ist wohl kaum nur aus Jux erdichtet worden. Auch dieser Mythos will etwas erklären. Das hier ist eine mögliche Deutung:
+
+Wenn Dürre über ein Land kam, brauchten die Menschen eine Erklärung dafür, warum es nicht regnete. Ob die Trolle vielleicht Thors Hammer gestohlen hatten?
+
+Denkbar ist auch, dass dieser Mythos versucht, den Wechsel der Jahreszeiten zu verstehen: Im Winter ist die Natur tot, weil Thors Hammer in Jotunheimen liegt. Aber im Frühling kann er ihn zurückerobern. So versuchen die Mythen, den Menschen etwas Unbegreifliches zu erklären.
+
+Aber die Menschen beließen es nicht bei den Erklärungen, wie wir hörten. Sie versuchten auch, in das für sie so wichtige Geschehen einzugreifen: eben durch die verschiedenen religiösen Riten, die mit den Mythen zusammenhingen. So können wir uns vorstellen, dass die Menschen bei Dürre oder einer Missernte ein Drama über den Inhalt des Mythos aufführten. Vielleicht wurde ein Mann aus dem Dorf als Braut verkleidet – mit Steinen als Busen –, um den Trollen den Hammer wieder zu stehlen. So konnten die Menschen etwas dafür tun, dass der Regen kam und das Korn auf den Feldern keimte.
+
+Wie immer es genau gewesen sein mag, fest steht, dass wir viele Beispiele aus anderen Weltteilen dafür haben, dass die Menschen einen »Jahreszeitenmythos« dramatisieren, um die Naturprozesse zu beschleunigen.
+
+Wir haben nur einen kurzen Blick in die nordische Mythenwelt geworfen. Es gab unzählige andere Mythen über Thor und Odin, Frøy und Frøya, Hod und Balder – und über viele, viele andere Gottheiten. Solche mythischen Vorstellungen gab es auf der ganzen Welt, ehe die Philosophen anfingen, darin herumzustochern. Denn auch die Griechen hatten ein mythisches Weltbild, als die ersten Philosophien entstanden. Jahrhundertelang hatte eine Generation der nächsten von den Göttern erzählt. In Griechenland hießen die Gottheiten Zeus und Apollon, Hera und Athene, Dionysos und Asklepios, Herakles und Hephaistos. Um nur einige wenige zu nennen.
+
+Gegen das Jahr 700 vor Christus schrieben Homer und Hesiod große Teile des griechischen Mythenschatzes auf. Das ergab eine völlig neue Situation. Kaum waren die Mythen aufgeschrieben, konnte man nämlich darüber diskutieren.
+
+Die ersten griechischen Philosophen kritisierten Homers Götterlehre, weil die Götter ihnen darin zu viel Ähnlichkeit mit den Menschen hatten. Tatsächlich waren sie genauso egoistisch und unzuverlässig wie wir. Zum ersten Mal in der Menschheitsgeschichte wurde ausgesprochen, dass Mythen vielleicht nichts anderes sein könnten als menschliche Vorstellungen.
+
+Ein Beispiel für diese Mythenkritik finden wir bei dem Philosophen Xenophanes, der gegen 570 v. Chr. geboren wurde. Die Menschen, meinte er, hätten sich die Götter nach ihrem eigenen Bild erschaffen: »Doch die Sterblichen wähnen, die Götter würden geboren und hätten Gewand, Stimme und Gestalt ähnlich wie sie selber ... Die Äthiopen stellen sich ihre Götter schwarz und stumpfnasig vor, die Thraker dagegen blauäugig und rothaarig ... Wenn Kühe, Pferde oder Löwen Hände hätten und damit malen und Werke wie die Menschen schaffen könnten, dann würden die Pferde pferde-, die Kühe kuhähnliche Götterbilder malen und solche Gestalten schaffen, wie sie selber haben.«
+
+In dieser Epoche gründeten die Griechen viele Stadtstaaten in Griechenland und in ihren Kolonien in Süditalien und Kleinasien. Hier verrichteten die Sklaven alle körperliche Arbeit und die freien Bürger konnten sich der Politik und der Kultur widmen. Unter diesen Lebensbedingungen machte das Denken der Menschen einen Sprung: Ein einzelnes Individuum konnte nun auf eigene Faust die Frage stellen, wie die Gesellschaft organisiert werden sollte. Auf diese Weise konnte das einzelne Individuum auch philosophische Fragen stellen, ohne auf die überlieferten Mythen zurückgreifen zu müssen.
+
+Wir sagen, es habe damals eine Entwicklung von einer mythischen Denkweise zu einem Denken hin stattgefunden, das auf Erfahrung und Vernunft aufbaute. Das Ziel der ersten griechischen Philosophen war es, natürliche Erklärungen für die Naturprozesse zu finden.
+
+Sofie wanderte durch den großen Garten. Sie versuchte, alles zu vergessen, was sie in der Schule gelernt hatte. Vor allem war es wichtig, das zu vergessen, was sie in den Naturkundebüchern gelesen hatte.
+
+Wenn sie in diesem Garten aufgewachsen wäre, ohne sonst irgendetwas über die Natur zu wissen, wie würde sie dann den Frühling erleben?
+
+Würde sie sich eine Art Erklärung dafür ausdenken, warum es eines Tages plötzlich zu regnen anfängt? Würde sie sich eine Art Verständnis dafür zusammenphantasieren, warum der Schnee verschwindet und die Sonne am Himmel aufsteigt?
+
+Doch, da war sie sich ganz sicher, und sofort fing sie an zu dichten:
+
+Der Winter hatte das Land mit eisigem Griff gepackt, weil der böse Muriat die schöne Prinzessin Sikita in einem kalten Kerker gefangen hielt. Aber eines Morgens kam der tapfere Prinz Bravato und befreite sie. Sikita war so froh, dass sie anfing, über die Wiesen zu tanzen, während sie ein Lied sang, das sie im kalten Kerker gedichtet hatte. Jetzt waren Erde und Bäume so gerührt, dass aller Schnee sich in Tränen verwandelte. Aber auch die Sonne erschien am Himmel und trocknete alle Tränen. Die Vögel übernahmen Sikitas Lied, und als die schöne Prinzessin ihre goldenen Haare löste, fielen einige Locken zu Boden, wo sie zu den Lilien auf dem Felde wurden ...
+
+Sofie fand, sie habe eine schöne Geschichte gedichtet. Wenn sie keine andere Erklärung für den Wechsel der Jahreszeiten gehabt hätte, hätte sie sicher an ihre Dichtung geglaubt.
+
+Sie begriff, dass die Menschen immer ein Bedürfnis nach Erklärungen für die Naturprozesse gehabt hatten. Vielleicht konnten die Menschen ohne solche Erklärungen nicht leben. Und deshalb hatten sie damals, als es noch keine Wissenschaft gab, die Mythen ersonnen.
+
+
+
+
+
+Die Naturphilosophen
+
+
+... von nichts kann nichts kommen ...
+
+Als ihre Mutter an diesem Nachmittag von der Arbeit kam, saß Sofie auf der Hollywoodschaukel und fragte sich, welcher Zusammenhang wohl zwischen dem Philosophiekurs und Hilde Møller Knag, die nun keine Geburtstagskarte von ihrem Vater bekommen würde, bestehen könnte.
+
+»Sofie!«, rief die Mutter schon von weitem. »Hier ist ein Brief für dich!«
+
+Sofie fuhr zusammen. Sie hatte die Post doch selber hereingeholt, also musste der Brief vom Philosophen stammen. Was sollte sie ihrer Mutter sagen?
+
+Langsam erhob sie sich aus der Hollywoodschaukel und ging ihrer Mutter entgegen.
+
+»Er hat keine Briefmarke. Wahrscheinlich ein Liebesbrief.«
+
+Sofie nahm ihn.
+
+»Willst du ihn nicht aufmachen?«
+
+Was sollte sie sagen?
+
+»Hast du schon mal von Leuten gehört, die Liebesbriefe aufmachen, wenn ihre Mutter ihnen über die Schulter glotzt?«
+
+Lieber sollte die Mutter wirklich glauben, dass es ein Liebesbrief war. Das war zwar schrecklich peinlich, denn Sofie war wohl noch ganz schön jung für Liebesbriefe, aber es wäre irgendwie noch peinlicher, wenn herauskäme, dass sie von einem wildfremden Philosophen, der zu allem Überfluss auch noch Katz und Maus mit ihr spielte, einen kompletten Fernkurs erhielt.
+
+Es war einer der kleinen weißen Briefumschläge. Als Sofie auf ihrem Zimmer war, las sie die drei Fragen auf dem Zettel, den der Umschlag enthielt:
+
+
+
+Gibt es einen Urstoff, aus dem alles gemacht ist?
+
+Kann Wasser zu Wein werden?
+
+Wie können Erde und Wasser zu einem lebendigen Frosch werden?
+
+Sofie fand diese Fragen ganz schön verrückt, aber sie wirbelten ihr doch den ganzen Abend im Kopf herum. Auch am nächsten Morgen in der Schule nahm sie sich in Gedanken die drei Fragen der Reihe nach vor.
+
+Ob es einen »Urstoff« gab, aus dem alles gemacht war? Aber wenn es irgendeinen »Stoff« gab, aus dem alles auf der ganzen Welt hergestellt war, wie konnte sich dieser Stoff dann plötzlich in eine Butterblume oder vielleicht auch in einen Elefanten verwandeln?
+
+Ähnlich war es mit der Frage, ob Wasser zu Wein werden könne. Sofie hatte ja gehört, dass Jesus Wasser in Wein verwandelt habe, aber diese Geschichte hatte sie nicht buchstäblich aufgefasst. Und wenn Jesus wirklich Wasser in Wein verwandelt hatte, dann war das ein Wunder und damit etwas, das eigentlich nicht möglich war. Sofie war sich darüber im Klaren, dass es im Wein und überhaupt fast überall in der Natur sehr viel Wasser gab. Aber auch wenn eine Gurke zu 95 Prozent aus Wasser bestand, so gehörte doch noch etwas anderes dazu, um eine Gurke eine Gurke sein zu lassen, und nicht bloß Wasser.
+
+Und dann war da noch die Sache mit dem Frosch. Ihr Philosophielehrer hatte es überhaupt auffällig mit Fröschen. Sofie konnte eventuell hinnehmen, dass ein Frosch aus Erde und Wasser bestand, aber dann konnte die Erde nicht nur aus einem Stoff gemacht sein. Wenn die Erde aus vielen verschiedenen Stoffen bestand, war es natürlich vorstellbar, dass Erde und Wasser zusammen einen Frosch ergaben. Wenn Erde und Wasser den Umweg über Froschlaich und Kaulquappen machten, wohlgemerkt. Denn ein Frosch konnte nicht einfach in einem Küchengarten wachsen, auch wenn man sehr gewissenhaft goss.
+
+Als sie an diesem Nachmittag aus der Schule nach Hause kam, lag ein dicker Brief an sie im Briefkasten. Sofie ging in die Höhle, wie sie das auch an den anderen Tagen gemacht hatte.
+
+
+
+
+
+Das Projekt der Philosophen
+
+
+Da bist du wieder! Wir machen uns am besten gleich an die heutige Lektion, ohne den Umweg über weiße Kaninchen oder Ähnliches.
+
+Ich werde dir in groben Zügen erzählen, wie die Menschen von der Antike bis heute über philosophische Fragen gedacht haben. Alles schön der Reihe nach.
+
+Da die meisten Philosophen in einer anderen Zeit lebten – und vielleicht auch in einer ganz anderen Kultur als wir –, lohnt es sich oft, sich nach dem Projekt des jeweiligen Philosophen zu fragen. Damit meine ich, dass wir versuchen müssen, zu erfassen, was gerade diesen Philosophen besonders beschäftigt hat. Ein Philosoph kann sich fragen, wie Pflanzen und Tiere entstanden sind. Ein anderer kann herausfinden wollen, ob es einen Gott gibt, oder ob die Menschen eine unsterbliche Seele haben.
+
+Wenn wir erst einmal festgestellt haben, was das Projekt eines bestimmten Philosophen ist, können wir seinem Denken leichter folgen. Denn kaum ein Philosoph beschäftigt sich mit allen philosophischen Fragen.
+
+Jetzt habe ich von »seinem« Denken gesprochen – in Bezug auf den Philosophen, meine ich. Denn auch die Geschichte der Philosophie ist von Männern geprägt. Und zwar, weil die Frau sowohl als Geschlecht wie auch als denkendes Wesen die ganze Menschheitsgeschichte hindurch unterdrückt war. Das ist schlimm, denn auf diese Weise sind viele wichtige Erfahrungen verloren gegangen. Erst in unserem Jahrhundert treten die Frauen wirklich in die Geschichte der Philosophie ein.
+
+Ich werde dir keine Hausaufgaben aufgeben – jedenfalls keine komplizierten Mathe-Aufgaben. Aber ab und zu werde ich dir eine kleine Übungsaufgabe stellen.
+
+Wenn du diese Bedingungen akzeptierst, kann’s losgehn.
+
+
+
+
+
+Die Naturphilosophen
+
+
+Die ersten griechischen Philosophen werden oft als »Naturphilosophen« bezeichnet, weil sie sich vor allem für die Natur und Naturprozesse interessierten.
+
+Wir haben uns schon gefragt, woher alles stammt. Viele Menschen heutzutage glauben mehr oder weniger, dass alles irgendwann aus nichts entstanden sein muss. Dieser Gedanke war bei den Griechen nicht sehr verbreitet. Aus irgendeinem Grunde gingen sie davon aus, dass es »etwas« immer gegeben hatte.
+
+Wie alles aus nichts entstehen konnte, war also nicht die große Frage. Statt dessen wunderten die Griechen sich darüber, wie Wasser zu lebendigen Fischen und leblose Erde zu hohen Bäumen oder farbenprächtigen Blumen werden konnte. Ganz zu schweigen davon, wie ein kleines Kind im Mutterleib entstehen kann!
+
+Die Philosophen sahen mit eigenen Augen, wie in der Natur ständig Veränderungen stattfinden. Aber wie waren solche Veränderungen möglich? Wie konnte etwas aus einem Stoff in etwas ganz anderes übergehen – in lebendiges Leben, zum Beispiel?
+
+Gemeinsam war den ersten Philosophen, dass sie glaubten, ein bestimmter Urstoff stecke hinter allen Veränderungen. Wie sie auf diesen Gedanken gekommen waren, lässt sich nicht so leicht sagen. Wir wissen nur, dass er aus einer Vorstellung erwuchs, dass es einen Urstoff geben musste, der hinter allen Veränderungen in der Natur gewissermaßen auf der Lauer lag.
+
+Das Interessanteste für uns ist nicht, welche Antworten diese ersten Philosophen fanden. Das Interessante ist, welche Fragen sie stellten und nach welcher Art von Antworten sie suchten. Für uns ist wichtiger, wie sie gedacht, als was sie nun genau gedacht haben.
+
+Wir können feststellen, dass sie nach sichtbaren Veränderungen in der Natur fragten. Sie versuchten, einige ewige Naturgesetze herauszufinden. Sie wollten die Ereignisse in der Natur verstehen, ohne auf die überlieferten Mythen zurückzugreifen. Vor allem versuchten sie, die Naturprozesse durch die Beobachtung der Natur selber zu verstehen. Das ist etwas ganz anderes, als Blitz und Donner, Winter und Frühling durch den Hinweis auf Ereignisse in der Götterwelt zu erklären.
+
+Auf diese Weise befreite die Philosophie sich von der Religion. Wir können sagen, dass die Naturphilosophen die ersten Schritte in Richtung einer wissenschaftlichen Denkweise machten. Damit gaben sie den Anstoß zu aller späteren Naturwissenschaft.
+
+Das allermeiste, was die Naturphilosophen gesagt und geschrieben haben, ist für die Nachwelt verloren gegangen. Das meiste von dem wenigen, was wir wissen, finden wir in den Schriften des Aristoteles, der zweihundert Jahre nach den ersten Philosophen lebte. Aristoteles fasst aber nur die Ergebnisse zusammen, zu denen die Philosophen vor ihm gekommen waren. Das bedeutet, dass wir nicht immer wissen können, wie sie zu ihren Schlussfolgerungen gelangten. Aber wir wissen genug, um behaupten zu können, dass das Projekt der ersten griechischen Philosophen Fragen waren, die mit dem Urstoff in den Veränderungen in der Natur zusammenhingen.
+
+
+
+
+
+Drei Philosophen aus Milet
+
+
+Der erste Philosoph, von dem wir hören, ist Thales aus der griechischen Kolonie Milet in Kleinasien. Er war viel auf Reisen. Es heißt unter anderem, dass er einmal die Höhe einer Pyramide in Ägypten dadurch gemessen habe, dass er den Schatten der Pyramide in dem Moment maß, als sein eigener Schatten genauso lang war wie er selber. Er soll außerdem im Jahre 585 v. Chr. eine Sonnenfinsternis berechnet haben.
+
+Thales hielt das Wasser für den Ursprung aller Dinge. Wie er das genau meinte, wissen wir nicht. Vielleicht meinte er, dass alles Leben im Wasser entsteht – und dass alles Leben wieder zu Wasser wird, wenn es in Auflösung übergeht.
+
+Als er in Ägypten war, hat er sicher gesehen, wie fruchtbar die Felder waren, wenn der Nil sich nach Überschwemmungen im Nildelta wieder zurückzog. Vielleicht hat er auch gesehen, wie Frösche und Würmer zum Vorschein kamen, wenn es geregnet hatte.
+
+Außerdem ist es wahrscheinlich, dass Thales sich gefragt hat, wie Wasser zu Eis und Dampf werden kann – um dann wieder zu Wasser zu werden.
+
+Thales soll schließlich gesagt haben, dass alles »voll von Göttern« sei. Auch hier können wir nur raten, was er damit gemeint hat. Vielleicht hat er sich überlegt, die schwarze Erde könnte Ursprung von allem, von Blumen und Korn bis zu Bienen und Kakerlaken sein. Und dann stellte er sich die Erde voller kleiner, unsichtbarer »Lebenskeime« vor. Fest steht jedenfalls, dass er dabei nicht an Homers Götter dachte.
+
+Der nächste Philosoph, von dem wir hören, ist Anaximander, der ebenfalls in Milet lebte. Er meinte, dass unsere Welt nur eine von vielen ist, die aus etwas entstehen und in etwas vergehen, das er das Unendliche nannte. Es ist schwer zu sagen, was er mit dem Unendlichen gemeint hat, aber fest steht, dass er sich nicht, wie Thales, einen ganz bestimmten Stoff vorgestellt hat. Vielleicht meinte er, dass das, aus dem alles geschaffen ist, ganz anders sein muss als das Geschaffene. Und weil alles Geschaffene endlich ist, muss das, was davor ist und danach, eben unendlich sein. Dass der Urstoff dann kein ganz normales Wasser sein kann, ist klar.
+
+Ein dritter Philosoph aus Milet war Anaximenes (ca. 570–526 v. Chr.). Er hielt die Luft oder den Lufthauch für den Urstoff aller Dinge.
+
+Anaximenes kannte natürlich die Wasserlehre des Thales. Aber woher kommt das Wasser? Anaximenes hielt Wasser für verdichtete Luft. Wir sehen ja, dass beim Regen Wasser aus der Luft gepresst wird. Wenn das Wasser noch mehr zusammengepresst wird, wird es zu Erde, meinte er. Vielleicht hatte er gesehen, wie Sand aus schmelzendem Eis gepresst wurde. Gleichzeitig hielt er Feuer für verdünnte Luft. Nach Anaximenes’ Ansicht entstanden also Erde, Wasser und Feuer aus derLuft.
+
+Der Weg von Erde und Wasser zu den Gewächsen auf dem Feld ist nicht sehr weit. Vielleicht glaubte Anaximenes, dass Erde, Luft, Feuer und Wasser vorhanden sein mussten, damit Leben entstehen konnte. Aber der eigentliche Ausgangspunkt war Luft. Er teilte also die Auffassung des Thales, dass ein Urstoff allen Veränderungen in der Natur zugrunde liegen muss.
+
+
+
+
+
+Aus nichts kann nichts werden
+
+
+Alle drei Philosophen aus Milet glaubten an einen – und nur einen – Urstoff, aus dem alles andere gemacht war. Aber wie konnte sich ein Stoff plötzlich verändern und zu etwas ganz anderem werden? Dieses Problem können wir als das Problem der Veränderung bezeichnen.
+
+Von etwa 500 v. Chr. an lebten in der griechischen Kolonie Elea in Süditalien einige Philosophen, und diese »Eleaten« befassten sich mit solchen Fragen. Der Bekannteste unter ihnen war Parmenides (ca. 540–480 v. Chr.).
+
+Parmenides glaubte, dass alles, was es gibt, immer schon existiert hat. Das war bei den Griechen ein verbreiteter Gedanke. Sie nahmen es fast als selbstverständlich hin, dass alles, was es auf der Welt gibt, immer schon da gewesen ist. Aus nichts kann nichts werden, meinte Parmenides. Und nichts, was existiert, kann zu nichts werden.
+
+Aber Parmenides ging weiter als die meisten anderen. Er hielt überhaupt keine wirkliche Veränderung für möglich. Nichts kann etwas anderes werden als das, was es eben ist.
+
+Parmenides war sich natürlich darüber im Klaren, dass in der Natur dauernd Veränderungen stattfinden. Mit den Sinnen registrierte er, wie sich die Dinge veränderten. Aber er konnte das nicht mit dem in Übereinstimmung bringen, was die Vernunft ihm erzählte. Wenn er aber zu einer Entscheidung gezwungen war, ob er den Sinnen oder der Vernunft vertrauen sollte, dann entschied er sich für die Vernunft.
+
+Wir kennen den Satz: »Das glaube ich erst, wenn ich es sehe.« Aber Parmenides glaubte es auch dann nicht. Er meinte, die Sinne vermittelten uns ein falsches Bild der Welt, ein Bild, das nicht mit dem übereinstimmt, was die Vernunft den Menschen sagt. Als Philosoph betrachtete er es als seine Aufgabe, alle Formen von »Sinnestäuschungen« zu entlarven.
+
+Dieser starke Glaube an die menschliche Vernunft wird als Rationalismus bezeichnet. Ein Rationalist ist ein Mensch, der großes Vertrauen zur menschlichen Vernunft als Quelle unseres Wissens über die Welt hat.
+
+
+
+
+
+Alles fließt
+
+
+Zur gleichen Zeit wie Parmenides lebte Heraklit (ca. 540–480 v.Chr.) aus Ephesos in Kleinasien. Er hielt nun gerade die dauernden Veränderungen für den grundlegendsten Charakterzug der Natur. Wir können vielleicht sagen, dass Heraklit mehr als Parmenides darauf vertraute, was die Sinne ihm sagten.
+
+»Alles fließt«, meinte Heraklit. Alles ist in Bewegung und nichts währt ewig. Deshalb können wir »nicht zweimal in denselben Fluss steigen«. Denn wenn ich zum zweiten Mal in den Fluss steige, haben sowohl ich als auch der Fluss uns verändert.
+
+Heraklit wies ebenfalls darauf hin, dass die Welt von dauernden Gegensätzen geprägt ist. Wenn wir niemals krank wären, würden wir nicht begreifen, was Gesundheit bedeutet. Wenn wir niemals hungrig wären, hätten wir keine Freude am Sattsein. Wenn niemals Krieg wäre, wüssten wir den Frieden nicht zu schätzen, und wenn niemals Winter wäre, könnten wir nicht sehen, dass der Frühling kommt.
+
+Sowohl Gut als auch Böse haben einen notwendigen Platz in der Ganzheit, meinte Heraklit. Ohne das dauernde Spiel zwischen Gegensätzen würde die Welt aufhören.
+
+»Gott ist Tag und Nacht, Winter und Sommer, Krieg und Frieden, Sättigung und Hunger«, sagte er. Er verwendet hier das Wort »Gott«, aber natürlich meint er damit nicht die Götter, von denen die Mythen berichten. Für Heraklit ist Gott – oder das Göttliche – etwas, das die ganze Welt umfasst. Ja, Gott zeigt sich für ihn gerade in der sich dauernd verändernden und widerspruchsvollen Natur.
+
+Anstelle des Wortes »Gott« benutzt er oft das griechische Wort »logos«. Es bedeutet Vernunft. Auch wenn wir Menschen nicht immer gleich denken oder dieselbe Vernunft haben, meinte Heraklit, es müsse eine Art »Weltvernunft« geben, die alle Ereignisse in der Natur lenkt. Diese Weltvernunft – oder das »Weltgesetz« – ist allen gemeinsam, und alle Menschen müssen sich danach richten. Dennoch leben die meisten nach ihrer eigenen privaten Vernunft, meinte Heraklit. Er hielt überhaupt nicht allzu viel von seinen Mitmenschen. Die Ansichten der meisten Menschen waren ihm »Spiele von Kindern«.
+
+In allen Veränderungen und Gegensätzen der Natur sah Heraklit also eine Einheit oder Ganzheit. Dieses »Etwas«, das allem zugrunde liegt, nannte er »Gott« oder »Logos«.
+
+
+
+
+
+Vier Grundstoffe
+
+
+Parmenides und Heraklit waren in gewisser Hinsicht totale Gegensätze. Die Vernunft des Parmenides stellte klar, dass sich nichts ändern kann. Aber die Sinneserfahrungen des Heraklit stellten ebenso klar, dass in der Natur dauernd Veränderungen stattfinden. Wer von beiden hatte Recht? Sollen wir uns auf das verlassen, was die Vernunft uns erzählt, oder sollen wir den Sinnen vertrauen?
+
+Sowohl Parmenides als auch Heraklit machen zwei Aussagen:
+
+Parmenides sagt:
+
+a) dass sich nichts verändern kann
+
+und
+
+b) dass die Sinneseindrücke deshalb unzuverlässig sein müssen.
+
+Heraklit dagegen sagt:
+
+a) dass sich alles verändert (»Alles fließt«)
+
+und
+
+b) dass die Sinneseindrücke zuverlässig sind.
+
+Größere Uneinigkeit kann doch zwischen Philosophen kaum herrschen! Aber wer von beiden hatte Recht? Schließlich sollte Empedokles (ca. 494–434 v. Chr.) den Weg aus dem Netz finden, in dem die Philosophie sich verheddert hatte. Er meinte, dass sowohl Parmenides als auch Heraklit mit einer Behauptung Recht hätten, sich in einem anderen Punkt aber auch beide irrten.
+
+Für Empedokles beruhte die große Uneinigkeit darauf, dass die Philosophen fast selbstverständlich davon ausgegangen waren, dass es nur einen Grundstoff gäbe. Wenn das stimmte, dann wäre der Abgrund zwischen dem, was die Vernunft sagt, und dem, was wir mit unseren Sinnen wahrnehmen, unüberbrückbar.
+
+Wasser kann natürlich nicht zu einem Fisch oder zu einem Schmetterling werden. Das Wasser kann sich überhaupt nicht verändern. Sauberes Wasser bleibt bis in alle Ewigkeit sauberes Wasser. Also hatte Parmenides damit Recht, dass nichts sich verändert. Gleichzeitig stimmte Empedokles Heraklit darin zu, dass wir dem vertrauen müssen, was unsere Sinne uns erzählen. Wir müssen glauben, was wir sehen, und wir sehen nun einmal dauernde Veränderungen in der Natur.
+
+Empedokles kam zu der Erkenntnis, dass die Vorstellung des einen, einzigen Urstoffes verworfen werden musste. Weder Wasser noch Luft können sich allein in einen Rosenbusch oder einen Schmetterling verwandeln. Die Natur kann also unmöglich mit nur einem Grundstoff auskommen.
+
+Empedokles glaubte, die Natur habe insgesamt vier Urstoffe oder »Wurzeln«, wie er das nannte. Diese vier Wurzeln nannte er Erde, Luft, Feuer und Wasser.
+
+Alle Veränderungen in der Natur ergeben sich dadurch, dass die vier Stoffe sich mischen und wieder voneinander trennen. Denn alles besteht aus Erde, Luft, Feuer und Wasser, nur eben in unterschiedlichen Mischungsverhältnissen. Wenn eine Blume oder ein Tier stirbt, trennen die vier Stoffe sich wieder voneinander. Diese Veränderung können wir mit bloßem Auge wahrnehmen. Aber Erde und Luft, Feuer und Wasser bleiben ganz unverändert oder unberührt von allen Mischungen, in die sie eingehen. Es stimmt also nicht, dass »alles« sich verändert. Im Grunde verändert sich gar nichts. Was geschieht, ist einfach nur, dass sich vier verschiedene Stoffe mischen und wieder trennen – um sich dann wieder zu mischen.
+
+Wir können das vielleicht mit einem Kunstmaler vergleichen. Wenn er nur eine Farbe hat – Rot zum Beispiel –, kann er keine grünen Bäume malen. Aber wenn er Gelb, Rot, Blau und Schwarz hat, kann er viele Hunderte von verschiedenen Farben malen, weil er die Farben in verschiedenen Verhältnissen mischt.
+
+Ein Beispiel aus der Küche zeigt uns dasselbe. Wenn ich nur Mehl habe, müsste ich ein Zauberer sein, um daraus einen Kuchen zu backen. Aber wenn ich Eier und Mehl, Milch und Zucker habe – dann kann ich aus den vier Rohstoffen viele verschiedene Kuchen herstellen.
+
+Es war kein Zufall, dass Empedokles gerade Erde, Luft, Feuer und Wasser für die Wurzeln der Natur hielt. Vor ihm hatten andere Philosophen den Beweis versucht, dass der Urstoff entweder Wasser, Luft oder Feuer sein musste. Dass Wasser und Luft wichtige Elemente in der Natur sind, hatten Thales und Anaximenes betont. Die Griechen hielten auch das Feuer für wichtig. Sie sahen zum Beispiel die Bedeutung der Sonne für alles Leben in der Natur und natürlich kannten sie die Körperwärme von Menschen und Tieren.
+
+Vielleicht hat Empedokles ein Stück Holz verbrennen sehen. Und dabei geht ja gerade etwas in Auflösung über. Wir hören es im Holz knistern und blubbern. Das ist das Wasser. Etwas wird zu Rauch. Das ist die Luft. Das Feuer sehen wir ja. Und wenn die Flammen verlöschen, bleibt etwas liegen. Das ist die Asche – oder die Erde.
+
+Nachdem Empedokles aufgezeigt hat, dass die Veränderungen der Natur dadurch entstehen, dass sich die vier Wurzeln vermischen und wieder trennen, bleibt noch immer eine Frage offen: Was ist die Ursache dafür, dass die Stoffe sich zusammenfügen, damit neues Leben entsteht? Und was sorgt dafür, dass die »Mischung«, eine Blume zum Beispiel, sich wieder auflöst?
+
+Empedokles meinte, dass in der Natur zwei verschiedene Kräfte wirken müssen. Diese Kräfte nannte er Liebe und Streit. Was die Dinge verbindet, ist die Liebe, was sie auflöst, der Streit.
+
+Empedokles unterscheidet also zwischen Stoff und Kraft. Es lohnt sich, wenn wir uns das merken. Noch heute unterscheidet die Wissenschaft Grundstoffe und Naturkräfte. Die moderne Wissenschaft glaubt, alle Naturprozesse als Zusammenspiel zwischen den verschiedenen Grundstoffen und einigen wenigen Naturkräften erklären zu können.
+
+Empedokles hat sich auch der Frage zugewandt, was passiert, wenn wir etwas empfinden. Wie kann ich zum Beispiel eine Blume »sehen«? Was geht dabei vor sich? Hast du dir das schon einmal überlegt, Sofie? Wenn nicht, dann hast du jetzt die Gelegenheit dazu.
+
+Empedokles glaubte, dass unsere Augen wie alles andere in der Natur aus Erde, Luft, Feuer und Wasser bestehen. Also erfasst die Erde in meinem Auge das, was von dem Gesehenen aus Erde besteht, die Luft erfasst das, was aus Luft ist, das Feuer in den Augen erfasst das, was aus Feuer ist, und das Wasser das, was aus Wasser ist. Wenn dem Auge einer dieser Stoffe fehlte, könnte ich auch nicht die ganze Natur sehen.
+
+
+
+
+
+Etwas von allem in allem
+
+
+Ein anderer Philosoph, der sich nicht damit zufrieden geben wollte, dass ein bestimmter Urstoff – Wasser zum Beispiel – zu allem, was wir in der Natur sehen, umgeformt werden kann, war Anaxagoras (500–428 v. Chr.). Er akzeptierte auch nicht die Vorstellung, dass Erde, Luft, Feuer oder Wasser zu Blut oder Knochen, Haut oder Haaren werden.
+
+Anaxagoras meinte, die Natur sei aus vielen winzigen Teilen zusammengesetzt, die mit dem Auge nicht wahrgenommen werden können. Alles lässt sich in noch kleinere Teile teilen, aber selbst in den kleinsten Teilen steckt etwas von allem. Wenn Haut und Haare nicht aus etwas anderem entstehen können, dann muss es auch in der Milch, die wir trinken, und in den Speisen, die wir essen, Haut und Haare geben, meinte er.
+
+Zwei moderne Beispiele weisen vielleicht auf das hin, was Anaxagoras sich vorgestellt hat. Mit der heutigen Lasertechnik können wir so genannte »Hologramme« erstellen. Wenn ein Hologramm zum Beispiel ein Auto darstellt, und dieses Hologramm dann zerstört wird, werden wir immer noch das Bild des ganzen Autos sehen, selbst wenn wir nur noch das Hologrammstück haben, das vorher den Stoßdämpfer zeigte. Das liegt daran, dass das ganze Motiv in jedem winzigsten Teilchen vorkommt.
+
+Im Grunde ist auch unser Körper so aufgebaut. Wenn ich eine Hautzelle von meinem Finger abkratze, enthält der Zellkern nicht nur die Beschreibung meiner Haut. In derselben Zelle liegt auch die Beschreibung meiner Augen, meiner Haarfarbe, von Anzahl und Aussehen meiner Finger und so weiter. In jeder einzelnen Körperzelle gibt es eine ausführliche Beschreibung des Aufbaus aller anderen Zellen in meinem Körper. In jeder einzelnen Zelle gibt es also »etwas von allem«. Die Ganzheit findet sich im kleinsten Teilchen.
+
+Anaxagoras nannte diese kleinsten Teilchen, die etwas von allem in sich tragen, »Samen« oder »Keime«.
+
+Wir erinnern uns, dass Empedokles meinte, die Liebe füge die Teile zu ganzen Körpern zusammen. Auch Anaxagoras stellte sich eine Art Kraft vor, die sozusagen für Ordnung sorgt und Menschen, Tiere, Blumen und Bäume schafft. Diese Kraft nannte er Geist.
+
+Anaxagoras ist außerdem interessant, weil er der erste Philosoph in Athen war, von dessen Leben uns etwas bekannt ist. Er kam aus Kleinasien, zog aber mit etwa vierzig Jahren nach Athen. Hier wurde er wegen Gottlosigkeit angeklagt und musste die Stadt wieder verlassen. Unter anderem hatte er behauptet, die Sonne sei kein Gott, sondern eine glühende Masse, größer als die Halbinsel Peloponnes.
+
+Anaxagoras interessierte sich überhaupt sehr für Astronomie. Er glaubte, alle Himmelskörper seien aus demselben Stoff gemacht wie die Erde. Diese Überzeugung kam ihm, nachdem er einen Meteoriten untersucht hatte. Deshalb sei es auch vorstellbar, dass auf anderen Planeten Menschen wohnten, meinte er. Er erklärte außerdem, dass der Mond nicht von selber leuchte, sondern sein Licht von der Erde übernehme. Und schließlich erklärte er die Entstehung von Sonnenfinsternissen.
+
+PS. Danke für die Aufmerksamkeit, Sofie. Vielleicht musst du dieses Kapitel zwei-, dreimal lesen, ehe du alles verstehst. Aber Verständnis kostet einen kleinen eigenen Einsatz. Du würdest eine Freundin, die alles Mögliche kann, wohl kaum bewundern, wenn diese Fähigkeiten sie nicht etwas gekostet hätten.
+
+Die allerbeste Antwort auf die Frage nach dem Urstoff und den Veränderungen in der Natur muss bis morgen warten. Dann wirst du Demokrit kennen lernen. Mehr verrate ich nicht!
+
+Sofie saß in der Höhle und spinxte ins Freie. Sie musste versuchen, nach allem, was sie gelesen hatte, Ordnung in ihre Gedanken zu bringen.
+
+Natürlich war es sonnenklar, dass normales Wasser zu nichts anderem werden konnte als zu Eis oder Dampf. Wasser konnte nicht einmal zu einer Wassermelone werden, denn sogar eine Wassermelone bestand noch aus anderem als nur Wasser. Aber wenn sie sich da so sicher sein konnte, dann nur, weil sie das gelernt hatte. Könnte sie sich zum Beispiel so absolut sicher sein, dass Eis nur aus Wasser bestand, wenn sie das nicht gelernt hätte? Dann hätte sie jedenfalls sehr genau beobachten müssen, wie Wasser zu Eis gefror und wie das Eis dann schmolz.
+
+Wieder versuchte Sofie, selbst zu denken und nicht das anzuwenden, was sie von anderen gelernt hatte.
+
+Parmenides hatte sich geweigert, alle Formen der Veränderung zu akzeptieren. Und je mehr sie sich das überlegte, umso überzeugter war sie, dass er in gewisser Hinsicht Recht gehabt hatte. Seine Vernunft konnte nicht akzeptieren, dass »etwas« plötzlich zu »etwas ganz anderem« wurde. Es war ganz schön mutig von ihm gewesen, das zu sagen, denn dabei hatte er ja gleichzeitig alle Veränderungen in der Natur leugnen müssen, die jeder Mensch beobachten konnte. Sicher hatten viele ihn ausgelacht.
+
+Auch Empedokles hatte seine Vernunft ganz schön gut im Griff gehabt, als er erklärt hatte, dass die Welt notwendigerweise aus mehr als nur einem Urstoff bestehen musste. Auf diese Weise wurden alle Wechsel in der Natur möglich, ohne dass sich wirklich etwas änderte.
+
+Das hatte der alte griechische Philosoph durch einfache Vernunftanwendung herausgefunden. Er hatte natürlich die Natur beobachtet, aber er hatte keine Möglichkeit gehabt, chemische Analysen anzustellen, so wie die heutige Wissenschaft.
+
+Sofie wusste nicht, ob sie besonders überzeugt davon war, dass alles aus Erde, Luft, Feuer und Wasser bestand. Aber was spielte das für eine Rolle? Im Prinzip musste Empedokles Recht haben. Unsere einzige Möglichkeit, alle Veränderungen zu akzeptieren, die unsere Augen sehen, ohne gleichzeitig den Verstand zu verlieren, ist die Vorstellung von mehr als nur einem Urstoff.
+
+Sofie fand die Philosophie besonders spannend, weil sie allen Überlegungen mit ihrem eigenen Verstand folgen konnte – ohne sich an alles erinnern zu müssen, was sie in der Schule gelernt hatte. Sie stellte fest, dass man Philosophie im Grunde nicht lernen kann, aber vielleicht, dachte sie, kann man lernen, philosophisch zu denken.
+
+
+
+
+
+Demokrit
+
+
+... das genialste Spielzeug der Welt ...
+
+Sofie schloss die Kuchendose mit den vielen mit Maschine beschriebenen Briefbögen des unbekannten Philosophielehrers. Sie schlich sich aus der Höhle, blieb draußen eine Weile stehen und betrachtete den Garten. Plötzlich fiel ihr ein, was am Vortag passiert war. Die Mutter hatte sie auch am Frühstückstisch mit »diesen Liebesbriefen« aufgezogen. Jetzt rannte Sofie zum Briefkasten, damit sich das ja nicht wiederholte. Zwei Tage hintereinander einen Liebesbrief zu bekommen, ist genau doppelt so peinlich wie ein einziger.
+
+Da lag wieder ein kleiner weißer Briefumschlag! Sofie sah jetzt langsam ein System in der Korrespondenz: Jeden Nachmittag hatte sie einen großen gelben Briefumschlag im Briefkasten gefunden. Und während sie den las, schlich sich der Philosoph dann noch einmal mit einem kleinen weißen Brief dorthin.
+
+Das bedeutete, dass Sofie ihn mit Leichtigkeit entlarven könnte. Oder war es eine Sie? Wenn sie sich einfach an ihr Zimmerfenster stellte, hatte sie den Briefkasten gut im Blick. Und dann würde sie sicher den geheimnisvollen Philosophen entdecken. Denn weiße Briefumschläge konnten unmöglich von selber entstehen.
+
+Sofie beschloss, am nächsten Tag gut aufzupassen. Dann war Freitag, und sie hatte das ganze Wochenende vor sich. Jetzt ging sie auf ihr Zimmer und öffnete dort den Briefumschlag. Heute stand nur eine Frage auf dem Zettel, aber zum Ausgleich war diese Frage noch verrückter als die drei im »Liebesbrief«:
+
+Warum sind Legosteine das genialste Spielzeug der Welt?
+
+Sofie wusste erst einmal gar nicht so recht, ob auch sie Legosteine für das genialste Spielzeug auf der Welt hielt; sie spielte jedenfalls schon seit vielen Jahren nicht mehr damit. Außerdem konnte sie nicht begreifen, was Legosteine mit Philosophie zu tun haben sollten.
+
+Aber sie war eine gehorsame Schülerin. Sie wühlte im obersten Fach in ihrem Schrank herum und fand schließlich auch eine Plastiktüte mit Legosteinen in allen möglichen Größen und Formen.
+
+Zum ersten Mal seit langem fing sie an, aus den kleinen Plastikklötzchen etwas zu bauen. Und als sie das tat, machte sie sich auch bald ihre Gedanken über die Legosteine.
+
+Mit Legosteinen zu bauen ist leicht, dachte sie. Obwohl sie von unterschiedlicher Größe und Form sind, können alle Legosteine mit anderen zusammengesetzt werden. Außerdem sind sie einfach nicht kaputtzukriegen. Sofie konnte sich nicht erinnern, je einen zerbrochenen Legostein gesehen zu haben. Alle sahen noch genauso neu und frisch aus wie damals, als sie sie vor vielen Jahren bekommen hatte. Und vor allem: Mit Legosteinen konnte sie alles Mögliche bauen. Und dann konnte sie die Steine wieder auseinander nehmen und etwas ganz anderes bauen.
+
+Was konnte man sonst noch verlangen? Sofie stellte fest, dass Legosteine wirklich mit einigem Recht als das genialste Spielzeug der Welt bezeichnet werden konnten.
+
+Aber was das mit Philosophie zu tun hatte, begriff sie noch immer nicht.
+
+Bald hatte Sofie ein großes Puppenhaus gebaut. Sie mochte sich kaum selber eingestehen, dass ihr lange nichts mehr solchen Spaß gemacht hatte. Warum hörten die Menschen auf zu spielen?
+
+Als ihre Mutter nach Hause kam und Sofies Puppenhaus sah, platzte es aus ihr heraus:
+
+»Wie schön, dass du noch immer spielen kannst wie ein Kind.«
+
+»Pah! Ich arbeite an komplizierten philosophischen Untersuchungen.«
+
+Die Mutter seufzte tief. Sie dachte wohl an das große Kaninchen und den Zylinderhut.
+
+Als Sofie am nächsten Tag aus der Schule kam, war wieder ein großer gelber Briefumschlag mit mehreren neuen Bögen gekommen. Sie ging damit auf ihr Zimmer. Sie wollte sofortalles lesen, aber heute wollte sie außerdem den Briefkasten im Auge behalten.
+
+
+
+
+
+Die Atomtheorie
+
+
+Hier bin ich wieder, Sofie. Heute erzähle ich dir über den letzten großen Naturphilosophen. Er hieß Demokrit (ca. 460–370 v.Chr.) und kam aus der Hafenstadt Abdera in der nördlichen Ägäis. Wenn du die Frage nach den Legosteinen beantworten konntest, dann wird es dir nicht so schwer fallen, das Projekt dieses Philosophen zu verstehen.
+
+Demokrit stimmte seinen Vorgängern darin zu, dass die beobachtbaren Veränderungen in der Natur nicht bedeuteten, dass sich wirklich etwas »veränderte«. Er nahm deshalb an, dass alles aus kleinen, unsichtbaren Bausteinen zusammengesetzt sein müsse, von denen jeder einzelne ewig und unveränderlich ist. Demokrit nannte diese kleinsten Teilchen Atome.
+
+Das Wort »Atom« bedeutet »das Unteilbare«. Für Demokrit war die Feststellung wichtig, dass das, aus dem alles gebaut ist, sich nicht in immer kleinere Teile zerteilen lässt. Ja, wenn die Atome immer wieder abgeschliffen und in immer kleinere Teile getrennt werden könnten, dann würde die Natur nach und nach flüssig wie eine immer dünner werdende Suppe.
+
+Die Bausteine der Natur mussten außerdem ewig halten – denn nichts kann aus null und nichts entstehen. Hier stimmte Demokrit Parmenides und den Eleaten zu. Außerdem hielt er alle Atome für fest und massiv. Aber sie konnten nicht gleich sein. Denn wenn die Atome gleich wären, dann hätten wirkeine brauchbare Erklärung dafür, dass sie zu allem, von Mohnblumen und Olivenbäumen bis zu Ziegenfellen und Menschenhaar, zusammengesetzt werden können.
+
+Es gibt unendlich viele unterschiedliche Atome in der Natur, meinte Demokrit. Manche sind rund und glatt, andere sind unregelmäßig und krumm. Gerade weil sie so ungleichmäßig geformt sind, lassen sie sich zu ganz unterschiedlichen Körpern zusammensetzen. Aber egal, wie viele und wie unterschiedliche Atome es auch geben mag, alle sind sie ewig, unveränderlich und unteilbar.
+
+Wenn ein Körper – zum Beispiel ein Baum oder ein Tier – stirbt und in Auflösung übergeht, werden seine Atome verstreut und können aufs Neue in neuen Körpern verwendet werden. Denn die Atome bewegen sich zwar im Raum, haben aber verschiedene »Haken« und »Ösen« und werden deshalb immer wieder zu den Dingen zusammengehakt, die wir um uns herum sehen.
+
+Und jetzt begreifst du sicher, was ich mit den Legosteinensagen wollte? Sie haben ungefähr alle Eigenschaften, die Demokrit den Atomen zugeschrieben hat, und gerade deshalb kann man so gut damit bauen. Zuerst einmal sind sie unteilbar. Sie unterscheiden sich in Form und Größe, sie sind massiv und undurchdringlich. Legosteine haben außerdem Haken und Ösen sozusagen, mit denen sie sich zu allen möglichen Figuren zusammensetzen lassen können. Diese Bindung kann später aufgelöst werden und dann werden wieder neue Gegenstände aus denselben Klötzchen gebaut.
+
+Gerade dass sie immer wieder verwendet werden können, hat die Legosteine so beliebt gemacht. Ein und derselbe Legostein kann heute in ein Auto eingehen, morgen aber in ein Schloss. Außerdem können wir Legosteine als »ewig« bezeichnen. Kinder, die heute leben, können mit denselben Steinen spielen wie ihre Eltern, als die noch klein waren.
+
+Wir können auch Dinge aus Ton formen. Aber der Ton kann nicht immer wieder verwendet werden, eben weil er sich in immer kleinere Teilchen zerbrechen lässt, und diese winzigen Tonklümpchen lassen sich nicht wieder zu neuen Gegenständen »zusammenstecken«.
+
+Heute können wir fast behaupten, Demokrits Atomlehre sei richtig gewesen. Die Natur ist wirklich aus verschiedenen Atomen zusammengebaut, die sich an andere binden und sich dann wieder von ihnen trennen. Ein Wasserstoffatom, das in einer Zelle auf meiner äußersten Nasenspitze sitzt, hat früher einmal zu einem Elefantenrüssel gehört. Ein Kohlenstoffatom in meinem Herzmuskel saß einmal im Schwanz eines Dinosauriers.
+
+Heute hat die Wissenschaft ermittelt, dass sich die Atome in noch kleinere »Elementarteilchen« aufteilen lassen. Solche Elementarteilchen nennen wir Protonen, Neutronen und Elektronen. Und vielleicht lassen sich auch die in noch kleinere Teilchen zerlegen. Aber die Physiker sind sich darüber einig, dass es irgendwo eine Grenze geben muss. Es muss kleinste Teile geben, aus denen die Natur aufgebaut ist.
+
+Demokrit hatte keinen Zugang zu den elektronischen Apparaten unserer Zeit. Sein einziges wirkliches Werkzeug war die Vernunft. Aber die Vernunft ließ ihm keine Wahl. Wenn wir erst akzeptieren, dass nichts sich verändern kann, dass nichts aus null und nichts entsteht, und dass nichts verschwindet, dann muss die Natur einfach aus winzigen Bauklötzchen bestehen, die zusammengesetzt und wieder voneinander getrennt werden.
+
+Demokrit rechnete nicht mit einer »Kraft« oder einem »Geist«, der in die Naturprozesse eingreift. Das Einzige, was es gibt, sind die Atome und der leere Raum, meinte er. Da er nur an das »Materielle« glaubte, bezeichnen wir ihn als Materialisten.
+
+Hinter den Bewegungen der Atome steckt also keine bestimmte »Absicht«. Das bedeutet aber nicht, dass alles, was geschieht, »Zufall« ist, denn alles folgt den unwandelbaren Gesetzen der Natur. Demokrit glaubte, dass alles, was passiert, eine natürliche Ursache hat, eine Ursache, die in den Dingen selber liegt. Er soll einmal gesagt haben, er wolle lieber ein Naturgesetz entdecken, als König von Persien werden.
+
+Die Atomtheorie erkläre auch unsere Empfindungen, meinte Demokrit. Wenn wir etwas empfinden, dann liegt es an den Bewegungen der Atome im leeren Raum. Wenn ich den Mond sehe, dann geschieht das, weil die »Mondatome« mein Auge treffen.
+
+Aber was ist mit dem Bewusstsein? Das kann doch nicht aus Atomen bestehen, also aus materiellen »Dingen«? Doch – Demokrit stellte sich vor, dass die Seele aus einigen besonders runden und glatten »Seelenatomen« besteht. Wenn ein Mensch stirbt, wirbeln die Seelenatome nach allen Seiten davon. Danach können sie sich einer neuen Seele anschließen, die gerade gebildet wird.
+
+Das bedeutet, dass der Mensch keine unsterbliche Seele hat. Auch das ist ein Gedanke, den viele Menschen heute teilen. Sie glauben wie Demokrit, dass die Seele mit dem Gehirn zusammenhängt, und dass wir keine Form von Bewusstsein mehr haben können, wenn das Gehirn sich auflöst.
+
+Mit seiner Atomlehre zog Demokrit einen vorläufigen Schlussstrich unter die griechische Naturphilosophie. Er stimmte Heraklit darin zu, dass alles in der Natur »fließt«. Denn die Formen kommen und gehen. Aber hinter allem, was fließt, gibt es etwas Ewiges und Unveränderliches, das nicht fließt. Und das bezeichnete Demokrit als Atome.
+
+Beim Lesen schaute Sofie mehrmals aus dem Fenster, um festzustellen, ob der geheimnisvolle Briefeschreiber am Briefkasten auftauchte. Jetzt starrte sie nur noch auf die Straße, während sie sich überlegte, was sie da gelesen hatte.
+
+Sie fand Demokrits Gedankengang so schlicht – und doch so unglaublich schlau. Er hatte die Lösung für die Probleme des »Urstoffes« und der »Veränderungen« gefunden. Diese Frage war so kompliziert gewesen, dass die Philosophen mehrere Generationen lang daran geknackt hatten. Am Ende hatte Demokrit das ganze Problem dadurch gelöst, dass er einfach seine Vernunft benutzt hatte.
+
+Sofie hätte fast lachen müssen. Es musste einfach stimmen, dass die Natur aus winzigen Teilchen aufgebaut war, die sich nie verändern. Gleichzeitig hatte Heraklit natürlich damit Recht, dass alle Formen in der Natur »fließen«. Denn alle Menschen und Tiere sterben, und selbst ein Gebirge geht langsam in Auflösung über. Wichtig ist aber, dass auch dieses Gebirge aus kleinen, unteilbaren Teilchen besteht, die nie zerbrechen.
+
+Gleichzeitig hatte Demokrit neue Fragen gestellt. Zum Beispiel hatte er behauptet, alles laufe ganz mechanisch ab. Erakzeptierte keine geistigen Kräfte im Dasein – wie Empedokles und Anaxagoras. Demokrit glaubte außerdem nicht, dass der Mensch eine unsterbliche Seele hat.
+
+Konnte sie sicher sein, dass er da Recht hatte?
+
+Sie wusste das nicht so recht. Aber sie stand ja auch erst am Anfang ihres Philosophiekurses.
+
+
+
+
+
+Das Schicksal
+
+
+... der Wahrsager versucht, etwas zu deuten, das eigentlich nicht zu deuten ist ...
+
+Sofie hatte das Gartentor im Auge behalten, während sie über Demokrit las. Sie beschloss aber dennoch, sicherheitshalber noch einen Ausflug zum Briefkasten zu machen.
+
+Als sie die Haustür öffnete, entdeckte sie draußen auf der Treppe einen kleinen Briefumschlag. Und genau – als Adresse stand darauf »Sofie Amundsen«.
+
+Also hatte er sie ausgetrickst! Ausgerechnet heute, wo sie den Briefkasten so genau beobachtet hatte, hatte sich der geheimnisvolle Philosoph aus einer anderen Richtung zum Haus geschlichen und den Brief einfach auf die Treppe gelegt, ehe er sich wieder im Wald verkrochen hatte. Verflixt!
+
+Woher konnte er wissen, dass Sofie gerade heute den Briefkasten im Auge behalten wollte? Vielleicht hatte er (oder sie) Sofie am Fenster gesehen? Auf jeden Fall war sie froh, dass sie den Umschlag gefunden hatte, ehe ihre Mutter nach Hause gekommen war.
+
+Sofie ging wieder auf ihr Zimmer und öffnete dort den Brief. Der weiße Umschlag war an den Rändern etwas feucht, und er wies außerdem einige tiefe Kerben auf. Wieso wohl? Es hatte seit Tagen nicht mehr geregnet.
+
+Auf dem Zettelchen stand:
+
+
+
+Glaubst du an das Schicksal?
+
+Ist Krankheit die Strafe der Götter?
+
+Welche Kräfte lenken den Lauf der Geschichte?
+
+Ob sie an das Schicksal glaubte? Nein, eigentlich eher nicht. Aber sie kannte ziemlich viele Menschen, die das taten. Zum Beispiel lasen mehrere ihrer Klassenkameradinnen die Horoskope in den Illustrierten. Und wenn sie an Astrologie glaubten, dann glaubten sie sicher auch an das Schicksal, denn die Astrologen glaubten ja, dass die Position der Sterne am Himmel etwas über das Leben der Menschen auf der Erde aussagen konnte.
+
+Wenn man glaubte, dass eine schwarze Katze, die über den Weg lief, Unglück bedeutete – ja, dann glaubte man wohl auch an das Schicksal? Je mehr sie darüber nachdachte, umso mehr Beispiele für Schicksalsgläubigkeit fand sie. Warum sagte man zum Beispiel »Klopf auf Holz«? Und warum war Freitag der 13. ein Unglückstag? Sofie hatte gehört, dass viele Hotels kein Zimmer mit der Nummer 13 hatten. Sicher weil es viele abergläubische Menschen gab.
+
+»Aberglaube« – war das nicht ein seltsames Wort? Wenn man an den lieben Gott glaubte, dann hieß das nur »Glaube«. Aber wenn man an Astrologie oder Freitag den 13. glaubte, dann war das gleich Aberglaube!
+
+Wer hatte das Recht, den Glauben anderer Menschen als Aberglauben zu bezeichnen?
+
+Sofie war sich einer Sache jedenfalls sicher: Demokrit hatte nicht an das Schicksal geglaubt. Er war Materialist. Er hatte nur an die Atome und den leeren Raum geglaubt.
+
+Sofie versuchte, über die anderen Fragen auf dem Zettel nachzudenken.
+
+»Ist Krankheit die Strafe der Götter?« So was glaubte heutzutage doch wohl kein Mensch mehr? Aber dann fiel ihr ein, dass viele Menschen zu Gott beteten, um gesund zu werden, und dann mussten sie doch glauben, dass Gott auch bei der Frage, wer krank sein sollte und wer gesund, seine Finger mit im Spiel hatte.
+
+Die letzte Frage war die schwierigste. Sofie hatte sich nie überlegt, was wohl den Lauf der Geschichte lenkt. Aber das mussten doch wohl die Menschen sein? Wenn es Gott oder das Schicksal war, dann konnten die Menschen eigentlich keinen freien Willen haben.
+
+Das mit dem freien Willen brachte Sofie auf einen ganz anderen Gedanken. Warum sollte sie hinnehmen, dass der geheimnisvolle Philosoph mit ihr Katz und Maus spielte? Warum konnte nicht auch sie ihm einen Brief schreiben? Er oder sie würde sicher entweder im Laufe der Nacht oder am nächsten Vormittag einen neuen Brief in den Kasten legen. Und deshalb würde sie ebenfalls einen Brief für ihren Philosophielehrer hinterlegen.
+
+Sofie ging ans Werk. Sie fand es sehr schwierig, an einen Menschen zu schreiben, den sie noch nie gesehen hatte. Sie wusste ja nicht einmal, ob sie an einen Mann oder an eine Frau schrieb. Sie wusste auch nicht, ob dieser Mensch alt oder jung war. Und schließlich konnte dieser Mensch sogar jemand sein, den Sofie kannte.
+
+Bald hatte sie ein Briefchen formuliert:
+
+Sehr geehrter Philosoph! Hier im Haus weiß man Ihren großzügigen Fernkurs in Philosophie sehr zu schätzen. Aber es quält auch, dass man nicht weiß, wer Sie sind. Wir bitten Sie deshalb, unter vollem Namen aufzutreten. Zum Ausgleich sind Sie herzlich zu einer Tasse Kaffee hier im Haus willkommen, lieber jedoch dann, wenn Mama nicht zu Hause ist. Sie geht von Montag bis Freitag von 7.30 bis 17.00 Uhr zur Arbeit. Ich selber gehe während dieser Zeit zur Schule, bin aber, außer am Donnerstag, immer um Viertel nach zwei zu Hause. Außerdem koche ich recht gut Kaffee. Im Voraus vielen Dank.
+
+Viele Grüße von Ihrer aufmerksamen Schülerin Sofie Amundsen, 14 Jahre
+
+Ganz unten auf den Bogen schrieb sie: »Um Antwort wird gebeten«.
+
+Sofie kam ihr Brief zu feierlich vor. Aber es war nicht so leicht zu entscheiden, mit welchen Worten sie an einen Menschen ohne Gesicht schreiben sollte.
+
+Sie steckte den Brief in einen rosa Briefumschlag und klebte ihn zu. Auf den Umschlag schrieb sie: »An den Philosophen!«
+
+Das Problem war, wie sie den Brief in den Briefkasten legen sollte, ohne dass ihre Mutter ihn fand. Sie musste ihn hineinlegen, ehe ihre Mutter nach Hause kam. Gleichzeitig durfte sie nicht vergessen, am nächsten Morgen früh, noch ehe die Zeitung kam, im Briefkasten nachzusehen. Wenn während des Abends oder der Nacht kein neuer Brief an sie gekommen war, musste sie den rosa Umschlag wieder an sich nehmen.
+
+Warum musste bloß alles so kompliziert sein?
+
+An diesem Abend ging Sofie früh auf ihr Zimmer, obwohl Freitag war. Ihre Mutter versuchte, sie mit Pizza und dem Fernsehkrimi zum Bleiben zu verlocken, aber Sofie behauptete, sie sei müde und wolle im Bett lesen. Während die Mutter den Bildschirm anstarrte, schlich Sofie sich mit ihrem Brief zum Briefkasten.
+
+Ihre Mutter machte sich ganz offenbar Sorgen. Sie hatte in einem ganz neuen Ton mit Sofie gesprochen, seit sie das große Kaninchen und den Zylinder zur Sprache gebracht hatte. Sofie wollte ihr keine Sorgen machen, aber jetzt musste sie auf ihr Zimmer gehen, um den Briefkasten im Auge behalten zu können.
+
+Als die Mutter gegen elf Uhr zu ihr kam, saß Sofie am Fenster und starrte auf die Straße hinunter.
+
+»Du beobachtest doch wohl nicht den Briefkasten?«, fragte die Mutter.
+
+»Warum nicht?«
+
+»Ich glaube wirklich, du bist verliebt, Sofie. Aber wenn er einen neuen Brief bringt, dann bestimmt nicht mitten in der Nacht.«
+
+Himmel! Sofie konnte diesen Verliebtheitskitsch nicht ausstehen. Aber sie musste die Mutter wohl in diesem Glauben lassen.
+
+Die Mutter fuhr fort:
+
+»Hat er das mit dem Kaninchen und dem Zylinderhut gesagt?«
+
+Sofie nickte.
+
+»Er ... er nimmt doch wohl keine Drogen?«
+
+Jetzt tat sie Sofie wirklich Leid. Sie konnte einfach nicht mehr länger zusehen, wie ihre Mutter sich solche Sorgen machte. Ansonsten war es natürlich totaler Blödsinn zu glauben, dass witzige Gedanken irgendetwas mit Rauschgift zu tun haben mussten. Die Erwachsenen waren wirklich manchmal ganz schön bescheuert.
+
+Sie drehte sich um und sagte:
+
+»Mama, ich verspreche dir hier und jetzt, dass ich das nie ausprobieren werde ... und ›er‹ nimmt auch keine Drogen. Aber er interessiert sich sehr für Philosophie.«
+
+»Ist er älter als du?«
+
+Sofie schüttelte den Kopf.
+
+»Gleich alt?«
+
+Sie nickte.
+
+»Er ist sicher ganz toll, meine Liebe. Und jetzt glaube ich, du solltest versuchen zu schlafen.«
+
+Aber Sofie saß noch lange da und starrte auf die Straße. Gegen ein Uhr war sie so müde, dass ihr immer wieder die Augen zufielen. Beinahe wäre sie schon ins Bett gegangen, aber da entdeckte sie plötzlich einen Schatten, der aus dem Wald kam.
+
+Draußen war es fast ganz dunkel, aber immer noch hell genug, um die Umrisse eines Menschen zu erkennen. Es war ein Mann und Sofie hielt ihn für ziemlich alt. In ihrem Alter war er jedenfalls nicht! Auf dem Kopf trug er eine Baskenmütze oder so etwas.
+
+Einmal schien er zum Haus hochzusehen, aber Sofie hatte kein Licht brennen. Der Mann ging zum Briefkasten und steckte einen großen Umschlag hinein. Er hatte den Umschlag gerade losgelassen, als er Sofies Brief entdeckte. Er schob die Hand in den Briefkasten und fischte den Brief heraus. Im nächsten Moment war er schon wieder unterwegs in den Wald. Er lief auf den Waldweg zu – und war verschwunden.
+
+Sofie spürte ihr Herz in ihrer Brust hämmern. Am liebsten wäre sie im Nachthemd hinter ihm hergerannt. Aber nein, das traute sie sich doch nicht; sie wagte nicht, mitten in der Nacht hinter einem wildfremden Mann herzulaufen. Aber sie musste den Brief holen, das war klar.
+
+Nach einem Weilchen schlich sie sich die Treppe hinunter, schloss vorsichtig die Haustür auf und ging zum Briefkasten. Bald stand sie wieder mit dem großen Umschlag in der Hand in ihrem Zimmer. Sie setzte sich aufs Bett und hielt den Atem an. Als einige Minuten vergangen waren und sich im Haus immer noch nichts rührte, öffnete sie den Brief und fing an zu lesen.
+
+Sie konnte natürlich keine Antwort auf ihren eigenen Brief erwarten. Die konnte frühestens morgen kommen.
+
+
+
+
+
+
+
+
+

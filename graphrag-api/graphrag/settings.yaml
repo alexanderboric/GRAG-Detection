@@ -1,0 +1,118 @@
+models:
+  default_chat_model:
+    type: openai_chat
+    model_provider: openai
+    model: mistral-small-4
+    encoding_model: cl100k_base
+    api_base: https://gpt.uni-muenster.de/v1
+    auth_method: api_key
+    api_key: ${GRAPHRAG_API_KEY}
+    parallelization:
+      stagger: 0.3
+      num_threads: 4
+    request_timeout: 180.0
+    retry:
+      type: exponential_backoff
+  default_embedding_model:
+    type: openai_embedding
+    model_provider: openai
+    model: Qwen3-Embedding-4B
+    encoding_model: cl100k_base
+    api_base: https://gpt.uni-muenster.de/v1
+    auth_method: api_key
+    api_key: ${GRAPHRAG_API_KEY}
+    call_args:
+      encoding_format: float
+    retry:
+      type: exponential_backoff
+input:
+  type: file
+  base_dir: input/synthetic_dataset
+  file_type: json
+  text_column: text
+  title_column: title
+  file_pattern: .*\.json$$
+chunking:
+  type: tokens
+  size: 1200
+  overlap: 100
+  encoding_model: cl100k_base
+output:
+  type: file
+  base_dir: output/synthetic_dataset
+reporting:
+  type: file
+  base_dir: logs
+cache:
+  type: file
+  base_dir: cache
+vector_store:
+  default_vector_store:
+    type: lancedb
+    db_uri: output/synthetic_dataset/lancedb
+  default:
+    type: lancedb
+    db_uri: output/synthetic_dataset/lancedb
+embed_text:
+  embedding_model_id: default_embedding_model
+  vector_store_id: default
+extract_graph:
+  chat_model_id: default_chat_model
+  prompt: prompts/extract_graph.txt
+  entity_types:
+  - disease
+  - drug
+  - symptom
+  - treatment
+  - gene
+  - protein
+  - anatomy
+  - person
+  - organization
+  max_gleanings: 0
+summarize_descriptions:
+  chat_model_id: default_chat_model
+  prompt: prompts/summarize_descriptions.txt
+  max_length: 500
+extract_graph_nlp:
+  text_analyzer:
+    extractor_type: regex_english
+cluster_graph:
+  max_cluster_size: 10
+extract_claims:
+  enabled: false
+  chat_model_id: default_chat_model
+  prompt: prompts/extract_claims.txt
+  description: Any claims or facts that could be relevant to information discovery.
+  max_gleanings: 1
+community_reports:
+  chat_model_id: default_chat_model
+  graph_prompt: prompts/community_report_graph.txt
+  text_prompt: prompts/community_report_text.txt
+  max_length: 1000
+  max_input_length: 32000
+snapshots:
+  graphml: false
+  embeddings: false
+local_search:
+  chat_model_id: default_chat_model
+  embedding_model_id: default_embedding_model
+  prompt: prompts/local_search_system_prompt.txt
+global_search:
+  chat_model_id: default_chat_model
+  map_prompt: prompts/global_search_map_system_prompt.txt
+  reduce_prompt: prompts/global_search_reduce_system_prompt.txt
+  knowledge_prompt: prompts/global_search_knowledge_system_prompt.txt
+drift_search:
+  chat_model_id: default_chat_model
+  embedding_model_id: default_embedding_model
+  prompt: prompts/drift_search_system_prompt.txt
+  reduce_prompt: prompts/drift_search_reduce_prompt.txt
+basic_search:
+  chat_model_id: default_chat_model
+  embedding_model_id: default_embedding_model
+  prompt: prompts/basic_search_system_prompt.txt
+input_storage:
+  base_dir: input/synthetic_dataset
+output_storage:
+  base_dir: output/synthetic_dataset

@@ -1,0 +1,37 @@
+\begin{table}[t]
+  \centering
+  \scriptsize
+  \setlength{\tabcolsep}{2.5pt}
+  \begin{tabular}{llrrrrrrrl}
+    \toprule
+    \textbf{Detector} & \textbf{Parameter} & \multicolumn{1}{c}{\shortstack{GUF\\dir.}} & \multicolumn{1}{c}{\shortstack{GUF\\enh.}} & \multicolumn{1}{c}{\shortstack{GUF\\indir.}} & \multicolumn{1}{c}{\shortstack{Synth\\dva}} & \multicolumn{1}{c}{\shortstack{Synth\\$n$}} & \multicolumn{1}{c}{\shortstack{WVC\\dva}} & \multicolumn{1}{c}{\shortstack{WVC\\$n$}} & \multicolumn{1}{c}{\textbf{Spread}} \\
+    \midrule
+    \multirow{2}{*}{LLMaaJ} & \texttt{variant} & 2 & 5 & 5 & 9 & 1 & 7 & 0 & 5 (2/7) \\
+     & AUC & 0.977 & 0.829 & 0.813 & 0.998 & 0.761 & 1.000 & 0.998 & 0.91 $\pm$ 0.11 (CV 0.12) \\
+    \addlinespace
+    \multirow{2}{*}{EmbO} & \texttt{k} & 1 & 1 & 2 & 10 & 1 & 19 & 20 & 7.71 $\pm$ 8.67 (CV 1.12) \\
+     & AUC & 1.000 & 1.000 & 1.000 & 0.983 & 0.882 & 1.000 & 0.550 & 0.92 $\pm$ 0.17 (CV 0.18) \\
+    \addlinespace
+    \multirow{2}{*}{NLIC} & \texttt{k\_neighbors} & 1 & 1 & 1 & 10 & 7 & 17 & 10 & 6.71 $\pm$ 6.13 (CV 0.91) \\
+     & AUC & 0.952 & 0.987 & 0.982 & 0.829 & 0.619 & 0.944 & 0.596 & 0.84 $\pm$ 0.17 (CV 0.20) \\
+    \addlinespace
+    \multirow{2}{*}{GNLIC} & \texttt{alpha} & 0.00 & 0.00 & 0.00 & -- & 0.00 & -- & 0.00 & 0.00 $\pm$ 0.00 \\
+     & AUC & 0.529 & 0.835 & 0.914 & -- & 0.673 & -- & 0.738 & 0.74 $\pm$ 0.15 (CV 0.20) \\
+    \addlinespace
+    \multirow{2}{*}{GRAGaaJ} & \texttt{variant} & 1 & 1 & 1 & 5 & 1 & 1 & 5 & 1 (5/7) \\
+     & AUC & 0.893 & 0.902 & 0.910 & 0.959 & 0.732 & 1.000 & 0.999 & 0.91 $\pm$ 0.09 (CV 0.10) \\
+    \addlinespace
+    \multirow{3}{*}{GTopo} & \texttt{level} & -- & -- & -- & 1 & 1 & 1 & 2 & 1.25 $\pm$ 0.50 (CV 0.40) \\
+     & \texttt{q} & -- & -- & -- & 0.80 & 0.70 & 0.90 & 0.70 & 0.78 $\pm$ 0.10 (CV 0.12) \\
+     & AUC & -- & -- & -- & 0.749 & 0.920 & 0.424 & 0.479 & 0.64 $\pm$ 0.23 (CV 0.36) \\
+    \addlinespace
+    \multirow{4}{*}{GTopo2} & \texttt{level} & 2 & 1 & 2 & 1 & 1 & 1 & 2 & 1.43 $\pm$ 0.53 (CV 0.37) \\
+     & \texttt{q} & 0.90 & 1.00 & 0.90 & 0.70 & 0.80 & 1.00 & 1.00 & 0.90 $\pm$ 0.12 (CV 0.13) \\
+     & \texttt{signals} & -- & -- & -- & \shortstack{dist+support\\+blockodds} & all & -- & -- & all (1/2) \\
+     & AUC & 0.391 & 0.387 & 0.343 & 0.849 & 0.843 & 0.692 & 0.556 & 0.58 $\pm$ 0.22 (CV 0.37) \\
+    \bottomrule
+  \end{tabular}
+  \par\medskip\footnotesize Requires \texttt{\textbackslash usepackage\{multirow\}}.
+  \caption{Hyperparameter settings selected by the optimizer per dataset, with the AUC reached at that setting. Spread is mean $\pm$ sd (and coefficient of variation) for numeric parameters and the modal choice for categorical ones; a low spread means the setting transfers across datasets rather than needing per-dataset tuning.}
+  \label{tab:parameter-stability}
+\end{table}

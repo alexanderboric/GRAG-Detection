@@ -1,0 +1,66 @@
+logging:
+  verbosity: "debug"
+
+graphrag_test: False
+visualize_graph: False
+attack: False
+
+benchmark:
+  run: True
+  ingest_detected: "none"
+  datasets: ["wvc"]
+  versioning: False
+  detectors: [rand,rand1,perplexity_filtering,llm_as_a_judge,embedding_outlier,nli_contradiction,gnlic,gtopo,grag_as_a_judge]
+  n: 100
+  out_dir: "results/charts/"
+  records_dir: "results/detector_records/"
+  detect_insertions: True
+  detect_edits: True
+  logicpoison_only_datasets: []  # wvc-only run - no musique/hotpotqa
+  optimize_threshold: True
+  prompt_variants_path: "results/detector_best_params/prompt_variants.json"
+  optimize_params:
+    enabled: True
+    n_trials: 30
+    val_size: 30
+    best_params_dir: "results/detector_best_params/"
+    force_reoptimize: False
+  document_length_sweep:
+    enabled: false
+    lengths: [100, 500, 1000, 1500, 2500, 3000]
+    n_per_length: 50
+  wvc:
+    enabled: true
+    corpus_path: "datasets/pan-wikipedia-vandalism-corpus-2010"
+    data_root: "datasets/wvc"
+    input_dir: "grag-data/input/wvc"
+    categories: []
+    category_pattern: "footballer|association football"
+    subset_size: null
+    reindex: false
+  graphrag_under_fire:
+    enabled: False  # wvc-only run - skip entirely
+    attack_types: ["direct", "indirect", "enhanced"]
+    poisoned_dir: "results/poisoned_data/graphrag_under_fire"
+    n: 60
+    val_size: 60
+
+
+attack_config:
+  stages: ["global", "query", "logic"]
+  datasets: ["wvc"]
+  data_root: "datasets/logicPoison_original_Dataset"
+  corpus_entities_root: "results/corpus_entities"
+  queries_entities_root: "results/queries_entities"
+  poisoned_root: "results/poisoned_data"
+  batch_size: 32
+  query_model: "Llama-3.3-70B"
+  max_workers: 8
+  queue_factor: 4
+  top_ratio: 0.01
+  force: True
+
+repo_root: ""
+tracked_folders:
+  - "grag-data/input"
+  - "grag-data/output"
